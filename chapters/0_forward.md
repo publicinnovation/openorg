@@ -20,14 +20,14 @@ permalink: /forward/
     <div class="col-md-3">
       <div class="bs-sidebar hidden-print" role="complementary">
         <ul class="nav bs-sidenav">
-          <li class="active"><a href="{{ site.baseurl }}/chapters/forward/">Forward</a></li>
-          <li><a href="{{ site.baseurl }}/chapters/executive-summary/">Executive Summary</a></li>
-          <li><a href="{{ site.baseurl }}/chapters/need-and-opportunity">Need and Opportunity</a></li>
-          <li><a href="{{ site.baseurl }}/chapters/social-impact-model/">Social Impact Model</a></li>
-          <li><a href="{{ site.baseurl }}/chapters/business-model/">Business Model</a></li>
-          <li><a href="{{ site.baseurl }}/chapters/implementation-strategy/">Implementation Strategy</a></li>
-          <li><a href="{{ site.baseurl }}/chapters/phase-one-action-plan/">Phase One Action Plan</a></li>
-          <li><a href="{{ site.baseurl }}/chapters/appendices/">Appendix</a></li>
+          <li class="active"><a href="/chapters/forward/">Forward</a></li>
+          <li><a href="/chapters/executive-summary/">Executive Summary</a></li>
+          <li><a href="/chapters/need-and-opportunity">Need and Opportunity</a></li>
+          <li><a href="/chapters/social-impact-model/">Social Impact Model</a></li>
+          <li><a href="/chapters/business-model/">Business Model</a></li>
+          <li><a href="/chapters/implementation-strategy/">Implementation Strategy</a></li>
+          <li><a href="/chapters/phase-one-action-plan/">Phase One Action Plan</a></li>
+          <li><a href="/chapters/appendices/">Appendix</a></li>
         </ul>
       </div>
     </div>
