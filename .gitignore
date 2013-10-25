@@ -1,0 +1,8 @@
+_site/
+_raw/
+_run.sh
+.DS_Store
+*.swp
+.s3cfg
+pkg/
+test/
