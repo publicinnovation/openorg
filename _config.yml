@@ -1,4 +1,5 @@
 name: OpenOrg
+base_url: /openorg
 markdown: rdiscount
 pygments: true
 relative_permalinks: true
