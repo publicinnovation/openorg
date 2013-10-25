@@ -1,0 +1,4 @@
+name: OpenOrg
+markdown: rdiscount
+pygments: true
+relative_permalinks: true
