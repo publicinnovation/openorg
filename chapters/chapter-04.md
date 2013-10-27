@@ -6,7 +6,7 @@ permalink: /business-model/
 ---
 
 # Business Model
-###### How we pay our bills.
+###### How we pay our bills
 
 ## A. Market Segments
 
@@ -55,27 +55,27 @@ Beyond the earned income we will receive from our fee-for-service opportunities,
 
 Public Innovation is committed to co-creating public value. Regardless, of the level of engagement by our region’s residents, it is our explicit intent have a positive impact on the environments within which they live, work, and play.
 
-   **_Measurable improvements to quality of life._** While we don’t promise any silver bullets, we will bring a new level of transparency to how quality of life is measured and commit to specific gains we believe we can achieve through our activities.
+   - **_Measurable improvements to quality of life._** While we don’t promise any silver bullets, we will bring a new level of transparency to how quality of life is measured and commit to specific gains we believe we can achieve through our activities.
 
-   **_A more vibrant civic culture._** Our activities will make the region’s civic culture more vibrant by opening up new channels for civic participation among more diverse residents. We believe social change can not only be fun, but also infectious.
+   - **_A more vibrant civic culture._** Our activities will make the region’s civic culture more vibrant by opening up new channels for civic participation among more diverse residents. We believe social change can not only be fun, but also infectious.
 
-   **_Frictionless collaboration._** Collaboration is hard. That’s why we’re working to remove as much friction as possible. Fostering a culture of organizational openness enables information about who’s doing what to flow more freely.
+   - **_Frictionless collaboration._** Collaboration is hard. That’s why we’re working to remove as much friction as possible. Fostering a culture of organizational openness enables information about who’s doing what to flow more freely.
 
-   **_Increased civic capacity._** To tackle our region’s biggest problems and fully leverage new opportunities, we need the individual components of the larger ecosystem to work in harmony and provide the necessary capacity to effect change.
+   - **_Increased civic capacity._** To tackle our region’s biggest problems and fully leverage new opportunities, we need the individual components of the larger ecosystem to work in harmony and provide the necessary capacity to effect change.
 
-   **_Greater social cohesion and interdependence._** We live, work, and play within different communities. By bringing a new level of transparency to the connectivity across these communities, we form tighter social bonds and recognize our interdependence with each other.
+   - **_Greater social cohesion and interdependence._** We live, work, and play within different communities. By bringing a new level of transparency to the connectivity across these communities, we form tighter social bonds and recognize our interdependence with each other.
 
-   **_More human workplaces and better organizational cultures._** Organizational culture is critical to the level at which organizations perform. If we are to truly bend the curve, we must co-produce more human workplaces that inculcate the conditions for innovation.
+   - **_More human workplaces and better organizational cultures._** Organizational culture is critical to the level at which organizations perform. If we are to truly bend the curve, we must co-produce more human workplaces that inculcate the conditions for innovation.
 
-   **_More opportunities for serendipity._** Our emphasis on placemaking and improved utilization of public spaces are intended to increase the number of serendipitous collisions between people and ideas. These interactions are helpful for generating new combinations of existing ideas. 
+   - **_More opportunities for serendipity._** Our emphasis on placemaking and improved utilization of public spaces are intended to increase the number of serendipitous collisions between people and ideas. These interactions are helpful for generating new combinations of existing ideas. 
 
-   **_Greater accountability and public trust._** With a better understanding of the leaders, organizations, and initiatives moving forward throughout the region, citizens will be better equipped to know where their money is going and the corresponding outcomes.
+   - **_Greater accountability and public trust._** With a better understanding of the leaders, organizations, and initiatives moving forward throughout the region, citizens will be better equipped to know where their money is going and the corresponding outcomes.
 
-   **_New solutions to big problems._** It’s clearly insufficient to continue trying the same approaches to the same problems that have lingered over the years, yet expecting a different result. Public Innovation will create a safe environment for trying new approaches that can have greater impact at lower costs. 
+   - **_New solutions to big problems._** It’s clearly insufficient to continue trying the same approaches to the same problems that have lingered over the years, yet expecting a different result. Public Innovation will create a safe environment for trying new approaches that can have greater impact at lower costs. 
 
-   **_Resources to improve social equity._** Technologists are often characterized as homogenous groups of “solutionists” who are uninterested in big societal problems. We will disrupt that perception by committing to target our resources in underserved communities and by adding capacity to organizations already working in these areas.
+   - **_Resources to improve social equity._** Technologists are often characterized as homogenous groups of “solutionists” who are uninterested in big societal problems. We will disrupt that perception by committing to target our resources in underserved communities and by adding capacity to organizations already working in these areas.
 
-   **_Greater civic efficacy._** Despite political gridlock at the federal level, state and regional leaders are actively moving initiatives forward. Our efforts to bring these leaders onto the same platform as engaged citizens will enable faster citizen-driven problem solving.
+   - **_Greater civic efficacy._** Despite political gridlock at the federal level, state and regional leaders are actively moving initiatives forward. Our efforts to bring these leaders onto the same platform as engaged citizens will enable faster citizen-driven problem solving.
 
 Taken together, these individual value propositions holistically culminate into a better civic experience. 
 
@@ -128,21 +128,27 @@ Earned income opportunities will become our most important revenue source, as it
 We will offer a suite of services through our Public Innovation Labs program. These services will be in the following areas of:
 
    ##### Civic Technology
+   
    Our civic technology services include custom web and mobile application development, ranging from basic websites to fully integrated, cross-platform applications to fill a variety of needs. We also provide user experience consulting, including visual design, interaction design, information architecture, usability testing, user research, and content strategy. Similarly, we’re capable of deploying crowdsourcing tools such as ideation platforms and text message/SMS voting for live events. We also can build tools to streamline back-office functions and integrate databases with custom application programming interfaces (APIs).
 
    ##### Citizen Experience Design
+   
    We’re interested in helping public agencies provide delightful experiences to their constituents through the application of human centered design. By blending our unique expertise in user experience and public administration, we’re capable of identifying and solving the unmet needs of citizens. This capability is especially helpful for transactions that require interactions with multiple agencies across different levels of government. We can provide ethnographic research, prototyping, and service design services to minimize the number of touchpoints a citizen must encounter to solve a particular problem.
 
    ##### Placemaking
+   
    While we do not currently have the internal capabilities to support placemaking services, we can refer clients to our partners who specialize in creating public spaces that maximize happiness. Services such as community visioning, urban planning, and prototyping will create greater opportunities for serendipity. Celebrating public spaces reinforces our commitment to building community and moving urban innovation forward throughout the region.
 
    ##### Social Innovation + Entrepreneurship
+   
    Public Innovation’s Impact Incubator is a space for developing social entrepreneurs and their ideas. Through business development activities, we will help aspiring changemakers craft and test their business models to drive social impact. We will provide workspace, mentorship, and risk capital to those with the most promising ideas. Similarly, we will create an innovation fund that will enable the engage in impact investing and in which Public Innovation will invest. We also will leverage crowdfunding and social impact bonds to fund specific projects for which such tools are most appropriate.
 
    ##### Organizational Development
+   
    Public Innovation will support intrapreneurs -- entrepreneurial-minded individuals who want to create change within their organizations (instead of launching new ventures) -- through our Public Innovation Fellows Program. We expect our fellows to primarily come from public agencies and nonprofits in the region, but also are open to allowing participation by private sector intrapreneurs. Additionally, for those organizations seeking organizational development consulting services, we can refer them to our partners who possess greater expertise in this area. 
 
    ##### Storytelling
+   
    Although we aim to create impact that creates a measurable difference in peoples’ lives, it’s critical that we tell those stories in a compelling way to create further demand for our work. Specifically, we use video as our preferred medium and are working to develop aggregated content distribution channels that enable all individuals and organizations working to make a difference to tell their stories, as well. We are at a unique moment in history where we can take advantage of the opportunity to reach an unprecedented audience at minimal cost.
 
 #### b. Corporate sponsorships

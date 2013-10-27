@@ -6,7 +6,7 @@ permalink: /implementation-strategy/
 ---
 
 # Implementation Strategy
-###### From here to there.
+###### From here to there
 
 ## A. Business Plan Timeline			
 

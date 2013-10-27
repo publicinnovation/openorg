@@ -6,7 +6,7 @@ permalink: /social-imact-model/
 ---
 
 # Social Impact Model
-###### Our theory of change.
+###### Our theory of change
 
 ## A. Overview of Organization
 

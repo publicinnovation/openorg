@@ -6,4 +6,4 @@ permalink: /executive-summary/
 ---
 
 # Executive Summary
-###### The short version.
+###### The short version
