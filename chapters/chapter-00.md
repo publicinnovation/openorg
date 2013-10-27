@@ -6,7 +6,7 @@ permalink: /forward/
 ---
 
 # Forward
-a few thoughts
+###### a few thoughts
 
 October 28, 2013
 

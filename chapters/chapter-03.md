@@ -6,7 +6,7 @@ permalink: /social-imact-model/
 ---
 
 # Social Impact Model
-Our theory of change.
+###### Our theory of change.
 
 ## A. Overview of Organization
 
@@ -157,17 +157,21 @@ Human capital is our region’s most important asset and engaged residents form 
  
 As much as we do think nor work linearly, Public Innovation’s value processes reflect a six-step value chain, along which projects are initiated and solutions are deployed. Each component segments engagement among a diverse set of organizational partners and adds public value at each stage. A networked approach to the innovation process maximizes throughput and allows us to scale our impact across the Capital Region with replicable projects.
 					
-1. __DISCOVERY:__ *Identifying Unmet Needs and Opportunities*
+1. __DISCOVERY:__ *Identifying Unmet Needs and Opportunities* 
 Either an organization approaches us with a problem or citizens identify an opportunity to improve their communities through our our platform, CivicExchange. Although projects do not need to be initiated through this entry point, projects sought by proactive individuals and organizations will enjoy greater potential for impact.				
-2. __IDEATION:__ *Forcing Serendipitous Collisions to Generate New Ideas*
+
+2. __IDEATION:__ *Forcing Serendipitous Collisions to Generate New Ideas* 
 At CivicMeet Sacramento -- a monthly meetup for civic innovators from diverse backgrounds (including business, nonprofits, education, technology, and government), we co-design solutions to public problems. The more constraints, the more creative the ideas. This process also builds a community of citizens to support the successful adoption of the solutions they helped generate.				
-3. __CO-PRODUCTION:__ *Supporting the Development of Civic Innovations*
+3. __CO-PRODUCTION:__ *Supporting the Development of Civic Innovations* 
 At Public Innovation Labs -- a civic innovation incubator -- we design, build, and test improvements to the citizen experience and back-office process innovations for public agencies and social enterprises. We also provide resources and support to social entrepreneurs who want to voluntarily collaborate on civic projects.				
-4. __INTRAPRENEURSHIP:__ *Giving Public Servants and Nonprofit Leaders the Tools to Evangelize Change*
+
+4. __INTRAPRENEURSHIP:__ *Giving Public Servants and Nonprofit Leaders the Tools to Evangelize Change* 
 To prepare civic leaders and public administrators for emerging innovations, our Civic Entrepreneurship Network will support knowledge sharing and change management within government and social impact organizations. This will result in user generated content, best practices, and panel discussions among change agents who want to be catalysts for improving their organizations. We also seek to provide services and education to improve the culture within organizations throughout the region.		
-5. __DEPLOYMENT:__ *Deploying Solutions through Civic and Social Entrepreneurship*
+
+5. __DEPLOYMENT:__ *Deploying Solutions through Civic and Social Entrepreneurship* 
 Once refined, solutions are deployed by Innovation Delivery Teams -- strategic partnerships among public agencies, nonprofits, and businesses. Crowdfunding and social impact bonds can help address resource constraints to sustain their implementation. These teams will support the diffusion of civic innovations and their composition will vary on a project-by-project basis.	
-6. __STORYTELLING:__ *Measuring Progress and Celebrating Success*
+
+6. __STORYTELLING:__ *Measuring Progress and Celebrating Success* 
 Public Innovation is committed to nurturing development of the larger ecosystem through multichannel marketing and communications campaigns that highlight and reward creative problem solving. In addition to tracking and maintaining quality of life indicators, we produce compelling video stories to articulate the value proposition of civic entrepreneurship.
 
 Although this is our preferred process for project execution and reflects our theory of change, we will offer flexibility to clients who approach us with specific needs that do not require a comprehensive approach. Similarly, we expect our process to evolve based upon our analysis of key performance indicators. Lastly, while the process appears linear, it is often synchronous and iterative.
