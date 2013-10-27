@@ -5,6 +5,9 @@ chapter: 4
 permalink: /business-model/
 ---
 
+# Business Model
+How we pay our bills.
+
 A. Market Segments
 
 As a nonprofit, we draw a distinction between customers and users. By customers, we refer specifically to those individuals and organizations that generate revenue for Public Innovation. This includes funding sources such as foundations, public agencies, other nonprofits, corporate sponsors, and individual donors. In contrast, our users are those individuals and organizations who engage on our platform and benefit from our services. Regardless of whether we’re discussing customer or user segments of our target market, all participants are considered change agents: individuals and organizations interested in accelerating quality of life improvements across the Sacramento region.

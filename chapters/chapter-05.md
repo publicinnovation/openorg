@@ -5,6 +5,9 @@ chapter: 5
 permalink: /implementation-strategy/
 ---
 
+# Implementation Strategy
+From here to there.
+
 A. Business Plan Timeline			
 
 As of October 2013, our plan is divided into two phases over five years. Details in this business plan focus on the first phase and cover two years, from January 2014 to December 2015. The goals in each phase are as follows:
