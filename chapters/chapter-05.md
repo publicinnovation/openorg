@@ -96,7 +96,7 @@ Our last strategy is designed to “close the loop” by telling the stories of 
 
 ### 1. Team and Governance
 
-PHASE ONE GOAL: Formalize organizational structure, establish leadership, and hire core team.
+PHASE ONE GOAL: Formalize organizational structure, establish leadership, and hire core team. 
 
 #### a. Fiscal Sponsor
 
