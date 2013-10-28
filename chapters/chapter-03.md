@@ -12,17 +12,48 @@ permalink: /social-imact-model/
 
 Public Innovation is an incubator for civic and social innovations in the Sacramento region. Our core competency is bringing people together to solve public problems and improve the citizen experience. We believe that breakthrough solutions require the engagement of individuals and organizations from diverse backgrounds and sectors. By leveraging the creativity and collective capacity of all people, we’re able to cross-pollinate ideas that lead to new ways of accelerating quality of life improvements. In the end, however, the network itself is the true innovation.
 
-As a small nonprofit, our goal is not to solve every problem, but to instead develop a set of tools that enable and empower collaboration at a community and regional level. We know that many organizations currently assume this role. However, what’s missing is a welcoming entry point for new players. We will act as that entry point by providing resources and support for anyone who has a good idea and the drive to turn that idea into reality. In other words, we will be disrupting the status quo by enabling new market and value network to flourish for civic and social innovations.
+As a small startup, our goal is not to solve every problem, but to instead develop a set of tools that enable and empower collaboration at a community and regional level. We know that many organizations currently assume this role. However, what’s missing is a welcoming entry point for new players. We will be that entry point by providing resources and support for anyone who has a good idea and the drive to turn that idea into reality. In other words, we will be disrupting the status quo by enabling a new market and value network for civic and social innovations to flourish.
 
-### 1. Innovation defined
+### 1. The Pursuit of Innovation
 
-What do we mean by innovation?
-Professor Andrew Hargadon, Director of the UC Davis Institute for Innovation and Entrepreneurship, innovation is “the generation, development, and deployment of new, nonobvious, and valuable ideas.” He delineates 
+What do we mean by innovation? Professor Andrew Hargadon, Director of UC Davis' Institute for Innovation and Entrepreneurship says that innovation is the “generation, development, and deployment of new, nonobvious, and valuable ideas.” He delineates three interlinked activities in the pursuit of innovation: (1) creativity, (2) commitment, and (3) entrepreneurship. In highlighting the combinatorial nature of creativity, Hargadon develops the concept of "technology brokering" as fundamental to the innovation process:
 
-### 2. Diffusion of innovations
+>“By working across many different worlds and building network connections to the people, objects, and ideas of these different worlds, firms that organize around the pursuit of innovation increase the chances that they will see solutions in one world that solve the needs in another. By remaining on the periphery of these different worlds, rather than committing to any one, they avoid the need to limit themselves to working with only one or a few problems or technologies. And by avoiding these limits, they retain the flexibility to mix and match the many problems and solutions they come across (Hargadon, 129).”
 
-The law of the diffusion of innovations 
-Source: http://en.wikipedia.org/wiki/File:Diffusion_of_ideas.svg
+Thus, a core focus of our work at Public Innovation must emphasize community building and strengthening the diversity of our network. Although technology brokering might seemingly be restricted to scientific innovations, the following definition of social innovation was included in a recent McKinsey anthology and shares common themes with what Hargadon set forth:
+
+>“A discipline that applies new approaches, tweaks existing processes, and brings new tools to bear in solving the world’s most pressing societal challenges. Social innovation seeks to achieve scale by harnessing the power of collaboration to address societal issues in a better and more efficient way. It often occurs at the intersection of business, government and the social sector (What Matters, 1).”
+
+Similarly, we can extend concepts from social innovation to civic innovation since both are intended outputs of our work.
+
+### 2. Public Value Co-Creation
+
+Like many social impact orgnazations, we the value we create is not monetary and is instead intangible. In Mark Moore's seminal work, *Creating Public Value*, he describes the work of government as follows: 
+
+>“[T]he aim of managerial work in the public sector is to create public value just as the aim of managerial work in the private sector is to create private value (Moore, 28).”
+
+In the context of civic innovation, co-creation is critical to reinventing how public value is generated. Christian Bason, director of innovation for the Danish government, describes co-creation as follows: 
+
+>“Co-creation, a term first used by management thinkers Prahalad and Ramaswamy, is used in this book to characterise a creation process where new solutions are designed *with* people, not *for* them. This challenges how public managers think about their roles in policy development, going far beyond committee meetings, traditional stakeholder hearings and customer research. Co-creation is strongly connected to notions of ‘participatory design’, ‘co-design’, ‘design attitude’ and ‘design thinking’–approaches that in recent years have been emphasised as absolutely central to innovation (Bason, 8).”
+
+We repeatedly use the term co-creation to reflect our commitment to developing new ideas by bridging diverse perspectives–particularly among those most affected by the specific problems we choose to solve.
+
+### 3. A Better Civic Experience by Design
+
+Public policy and administration, as an academic field, largely ignores the experiences of citizens. In fact, there is often more emphasis on policy than on service delivery. But citizens don't experience policy; they experience interactions with government. According to Bason:
+
+>“Knowing how specific interactions are experienced by people is fundamental. We must therefore never forget that it is by seeing and knowing people and the wholeness of their lives, as they experience them, that we discover the insights that might lead to new innovative solutions (Bason, 155).”
+
+And often those interactions can be chockfull of painpoints. Design scholar Don Norman describes those difficult experiences we've all had:
+
+“It is easy to find examples of the complexity of services: think of almost any interaction with a governmental agency. There are many potential sources of difficulties, from the interaction with government employees, the complex set of rules and regulations that must be followed, the complexities of the forms that must be filled out, and then to the impenetrable delays that occur as the request moves from one office to another, perhaps from one agency to another. Even if everyone is helpful and friendly, the sheer complexity of the operation coupled with the relatively poor interfaces among all the components can lead to frustrating experiences.  
+The only way to solve the complexities of services is to treat them as systems, to design the entire experience as a whole. If each piece is designed in isolation, the end result may be of separate pieces that do not mesh well together (Norman, LWC, 147-8).”
+
+As such, we have developed our core capabilities to employ "design thinking" as a civic innovation tool. Tim Brown, president and CEO of the design firm IDEO describes design thinking as follows:
+
+“Design thinking is centered on innovating through the eyes of the end user and as such encourages in-the-field research that builds empathy for people, which results in deeper insights about their unmet needs. This focus helps avoid the common problem of enthusiastic ‘outsiders’ promoting inappropriate solutions and ensures that solutions are rooted in the needs and desires of the community (Brown, What Matters, 9).”
+
+These are just some of the concepts and principles we've incorporated into our social impact model.
 
 ## B. Social Impact Model Diagram
 
@@ -30,7 +61,7 @@ Source: http://en.wikipedia.org/wiki/File:Diffusion_of_ideas.svg
 
 Bureaucracy dehumanizes individuals and inhibits the inherent talent within an organization. This results in untapped value creation opportunities and arbitrarily constrains the potential collective capacity to generate new solutions to problems. Government is the poster child for bureaucracy and the Sacramento region is home to one of the largest subnational governments in the world.
 
-With a third of our workforce employed by government, there are significant implications that bureaucracy imposes on the culture of our region. We cannot isolate the impact that cumbersome rules, steep hierarchies, and overspecialization have on the mental models through which we see the world -- whether we work in government or are customers of government. These mental models influence our perceptions of what’s possible and, therefore, affect our collective behavior. These impacts can manifest themselves in the form of would-be entrepreneurs wallowing in risk averse mindset, underserved youth lacking the confidence to challenge themselves academically, or artists being undervalued for the contributions they make building a vibrant creative community.
+With a third of our workforce employed by government, there are significant implications that bureaucracy imposes on the culture of our region. We cannot isolate the impact that cumbersome rules, steep hierarchies, and overspecialization have on the mental models through which we see the world–whether we work in government or are customers of government. These mental models influence our perceptions of what’s possible and, therefore, affect our collective behavior. These impacts can manifest themselves in the form of would-be entrepreneurs wallowing in a risk-averse mindset, underserved youth lacking the confidence to challenge themselves academically, or artists being undervalued for the contributions they make building a vibrant creative community.
 
 In short, Sacramento’s legacy consists of a culture of mediocrity that is, in large part, driven by the dominance of a government-industrial complex. This is no surprise, as many of the features of government are designed to maintain stability and, therefore, the status quo. While many organizations have attempted to modernize our civic operating systems, few if any efforts to address the culture itself have been attempted.
 
@@ -45,6 +76,7 @@ The mission of Public Innovation is to build the basic scaffolding of a civic in
 To measure our social and economic impact, we will begin by with the following indicators:
 * Quality of life outcomes within areas where we pursue projects
 * Cost savings delivered to public agencies and nonprofit organizations
+* Longitudinal citizen satisfaction surveys
 
 #### b. Organizational & Program Performance
 
@@ -52,10 +84,12 @@ To measure our organizational and program performance, we will begin by with the
 * Number of engaged users
 * Number of organizational partners per project
 * Number of total projects initiated
+* Variance between financial projections and actual revenue
+* Growth of our network
 
 ### 4. Vision of Success
 
-We envision a day when the Sacramento region is viewed by outsiders as the Silicon Valley of civic and social innovation. We believe that the wicked problems public agencies and nonprofits are tasked with tackling are opportunities to generate disruptive solutions through creative ideation, rapid prototyping, and human centered design. Similarly, engaged citizens will create an authorizing environment where they trust their public officials to take safe risks. We’ll celebrate failures quickly And by leveraging our position as the state’s capital, citizens will be able to find the information they need regardless of the level of government responsible. 
+We envision a day when the Sacramento region is viewed by outsiders as the Silicon Valley of civic and social innovation. We believe that the wicked problems public agencies and nonprofits are tasked with tackling are opportunities to generate disruptive solutions through creative ideation, rapid prototyping, and human centered design. Similarly, engaged citizens will create an authorizing environment where they trust their public officials to take safe risks. We’ll celebrate failures quickly. And by leveraging our position as the state’s capital, citizens will be able to find the information they need regardless of the level of government responsible. 
 
 Our vision is for a radically different civic experience than exists today and one in which anyone with a good idea to improve our shared civic infrastructure will have the tools at their disposal to co-create the changes they want to see in their organizations and communities. Together we will disrupt bureaucracy.
 
@@ -66,7 +100,6 @@ Our vision is for a radically different civic experience than exists today and o
 Public Innovation will operate as an open platform for co-creation and co-production of civic and social innovations. Although this will require us to have a significant level of transparency around our operations, that is merely a consequence and not the goal of being an open organization. Our primary purpose for pursuing openness is to enable others to build upon our civic infrastructure.
 
 Table Comparing characteristic tendencies of closed vs. open systems
-(Source: http://www.policycommons.org/?p=85 -- also in IBM “Designing Open Projects”)
         <table class="table table-bordered">
           <thead>
             <tr>
@@ -133,6 +166,7 @@ Table Comparing characteristic tendencies of closed vs. open systems
             </tr>
           </tbody>
         </table>
+Source: http://www.policycommons.org/?p=85 (also in IBM “Designing Open Projects")
 
 Because so much of the work of innovation requires a networked approach, we must create the spaces in which individuals and organizations can not only connect with each other, but also have a keen understanding of who’s doing what. This helps to avoid duplication of effort and ensures added value is consistently being contributed across the larger ecosystem.
 
@@ -197,7 +231,7 @@ Recruting change agents
 
 ### 1. Creating an open platform for co-creation
 
-Although the term platform generally refers to a type of technology, Public Innovation -- the organization -- is itself an open platform. While we intend to build a specific technology platform, CivicExchange, to allow for easier engagement, our social impact will be derived from a human capital multiplier effect that is the result of diverse people coming together to co-create change in-person. And by open, we mean anyone with the passion to make a positive dent will be able to roll up their sleeves and join.
+Although the term platform generally refers to a type of technology, Public Innovation–the organization–is itself an open platform. While we intend to build a specific technology platform, CivicExchange, to allow for easier engagement, our social impact will be derived from a human capital multiplier effect that is the result of diverse people coming together to co-create change in-person. And by open, we mean anyone with the passion to make a positive dent will be able to roll up their sleeves and join.
 
 ### 2. Collective impact
 
@@ -205,7 +239,9 @@ Cross-sector collaboration also will be critical to driving impact. This will re
 
 ### 3. Culture first
 
-Public Innovation made a concerted effort to focus on the implementation of public policy rather than on its development. That means we’re largely policy-agnostic and benefit from staying out of the political fray. Because creativity loves constraints and we’re confident in our organizational agility, we can adapt our approach to any policy environment. Similarly, much of our work will be filling in gaps that policy cannot fill. For example, policy is a good tool for setting priorities and creating incentives, but it cannot force an individual to want to change their behavior.
+Public Innovation made a concerted effort to focus on the implementation of public policy rather than on its development. That means we’re largely policy-agnostic and benefit from staying out of the political fray. Because creativity loves constraints and we’re confident in our organizational agility, we can adapt our approach to any policy environment. Similarly, much of our work will be filling in gaps that policy cannot fill. For example, policy is a good tool for setting priorities and creating incentives, but it cannot force an individual to want to change their behavior. According to Khademian:
+
+>“[T]he interest in culture as a public management tool is more than an imitation of business. It also reflects frustration with past reform efforts, a frustration shared by organizational scholars and public managers alike. In the past thirty years public managers have participated in many reform efforts, including management by objectives, performance program budgeting, zero-based budgeting, and decision making based upon cost-benefit analysis. The primary objective of these reforms was to rationalize the management of public programs by requiring agencies to be clear and more exacting in their decision making. While some of these reform efforts linger in the work of public organizations, most have gone by the wayside. However, today reformers argue that the key to reform is a change in culture–the less tangible and less formal dimension of an organization that can support or sabotage change (Khademian, 7).”
 
 By focusing on people and process, we believe that culture can change policy. And we flatly reject the idea that policy can change culture. Culture is an artifact of collective human behavior and we need to poke at the factors that motivate behavior rather than attempting force behavior change through policy.
 
@@ -228,3 +264,5 @@ Today’s ubiquity of open data means that it’s much easier to measure quality
 ### 7. Storytelling
 
 One of the most surprising findings in our work to date, is how much progress already is happening on the ground but of which there is little awareness. Today’s new media environment enables anyone with a camera phone to start their own TV station on YouTube. While that may be an overstatement, the cost of high-quality digital video production has dramatically fallen in recent years with the advent of DSLR cameras and other affordable tools for independent filmmakers. Similarly, the opportunities to curate user-generated content are virtually infinite. We are committed to telling the stories of innovators and their projects to raise awareness of and appreciation for the complex ecosystem that’s emerging.
+
+## References

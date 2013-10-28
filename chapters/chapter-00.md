@@ -26,7 +26,7 @@ If our theory of change is going to work, we need to earn your trust and we figu
 
 In short, we’re an incubator for civic projects and social enterprises. And our strength lies in the diversity of human capital we’re able to attract—resulting in the cross-pollination of ideas to improve our neighborhoods, communities, and our region as a whole.
 
-Our social impact and business models are the result of more than a year of experiments. OpenOrg is not a plan based on untested assumptions. Rather, we're putting forth a set of strategies that have been largely validated. That does not mean, however, that Public Innovation will not continue to evolve. As we’re able to collect and analyze data about our work, we will strive to always do better. In fact, OpenOrg also is a tool for you to hold us accountable.
+Our social impact and business models are the result of more than a year of experiments. OpenOrg is not a plan based on untested assumptions. Rather, we're putting forth a set of strategies that have been largely validated. That does not mean, however, that Public Innovation will not continue to evolve. As we’re able to collect and analyze data about our work, we will strive to always do better. In fact, OpenOrg is a tool for you to hold us accountable.
 
 The plan calls for $250,000 in initial seed funding. By our third year of operation, we expect to be self-sustaining; and by our fifth year, 85 percent of total revenues will comprise earned income. In other words, seed funding is a runway to help us get off the ground.
 
@@ -36,6 +36,5 @@ Sincerely,
 
 /s/ Ash Roughani
 
-Ash Roughani
-
+Ash Roughani  
 Founder + Chief Evangelist, Public Innovation
