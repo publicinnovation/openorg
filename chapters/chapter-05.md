@@ -96,23 +96,81 @@ Our last strategy is designed to “close the loop” by telling the stories of 
 
 ### 1. Team and Governance
 
-PHASE ONE GOAL: Formalize organizational structure, establish leadership, and hire core team. 
+__PHASE ONE GOAL:__ Formalize organizational structure, establish leadership, and hire core team.
 
 #### a. Fiscal Sponsor
 
- Gain tax-exempt status and independence from fiscal sponsor
+As soon as we see a signal that we'll be successful in raising initial seed funding, we will begin the process of searching for a peer organization with 501(c)(3) status who can temporarily act as our fiscal sponsor. The role of this sponsor organization is to accept tax-deductible donations until Public Innovation is able to receive 501(c)(3) tax-exempt status. Our fiscal sponsor also will manage administrative functions such as payroll, benefits, and accounting. We will provide ten percent of our revenues to our sponsor until we the IRS grants us tax-exempt status and we are prepared to establish ourselves as an independent entity.
 
 #### b. Board of Directors
 
-Recruit initial board of directors and establish governance structure
+As part of our initial fundraising efforts, Public Innovation will offer membership to our board of directors to individuals who are able to successfully connect us to funding sources. We also seek regional leaders with a demonstrated commitment to innovation and who are tolerant of risk and ambiguity. The board of directors will establish our governance structure and guide decision-making at a strategic level. In addition, our board will hold executive staff accountable for the outcome of our work. We expect the number of members to remain relatively small and that the board will meet on a quarterly basis.
 
-#### c. Organizational Structure
+#### c. Advisors
 
-#### d. Staffing Plan
+Public Innovation already has a stellar group of advisors guiding our effort. These indiduals have a non-fiduciary role and are experts in their fields. They will be listed here upon their consent:
+
+*Organizational affiliation listed for identifcation purposes only.*
+
+#### d. Organizational Structure
+
+As a startup, our organizational structure is small, agile, and emergent. We are led by a two-person team. Combined with the board we hope to eventually recruit, organizational roles and responsibilities are as follows:
+
+<table>
+    <thead>
+        <tr>
+	       	<th>Role</th>
+	        <th>Responsibilities</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+        	<td><strong>Board of Directors</strong><br />
+				<p><em>Membership to be determined</em></p>
+            <td>
+            	<ul>
+            		<li>Approves and monitors business plan</li>
+					<li>Holds Executive Director accountable for performance</li>
+					<li>Monitors finances</li>
+					<li>Guides strategic direction</li>
+					<li>Identifies new opportunities</li>
+				<ul>
+			</td>
+		</tr>
+        <tr>
+        	<td><strong>Founder and Executive Director</strong><br />
+				<p><em>Ash Roughani</em></p></td>
+            <td>
+            	<ul>
+            		<li>Leads business plan implementation</li>
+					<li>Oversees and manages all projects</li>
+					<li>Monitors organizational and program performance</li>
+					<li>Directs user experience and customer development</li>
+					<li>Hires staff</li>
+				<ul>
+			</td>
+		</tr>
+        <tr>
+        	<td><strong>Co-founder and Lead Technologist</strong><br />
+				<p><em>Thomas Hopkins</em></p></td>
+            <td>
+            	<ul>
+            		<li>Leads civic technology projects</li>
+					<li>Guides technical decision-making</li>
+					<li>Develops design standards</li>
+				<ul>
+			</td>
+		</tr>       
+    </tbody>
+</table>
+
+#### e. Staffing Plan
+
+Our two-person founding team has bootstrapped Public Innovation to date. Our Year One budget includes funding for a third TBD position and would likely have responsibilities over external relations, business development, and marketing. In Year Three, we plan to hire a fourth position and in all years would have sufficient funds for intern stipends, limited-term contract work, and professional services.
 
 ### 2. Financial Sustainability
 
-PHASE ONE GOAL: Build customer pipeline and sales funnel
+__PHASE ONE GOAL:__ Build customer pipeline and sales funnel
 
 #### a. Financial Requirements
 
@@ -126,7 +184,7 @@ PHASE ONE GOAL: Build customer pipeline and sales funnel
 
 ### 3. Marketing
 
-PHASE ONE GOAL: Build and engage user community through in-person events
+__PHASE ONE GOAL: Build and engage user community through in-person events
 
 #### a. Brand
 
@@ -140,15 +198,15 @@ Formalize partnerships
 
 ### 4. Technology
 
-PHASE ONE GOAL: 
+__PHASE ONE GOAL:__ 
 
 ### 5. Public Policy
 
-PHASE ONE GOAL: 
+__PHASE ONE GOAL:__ 
 
 ### 6. Performance and Social Impact Measurement
 
-PHASE ONE GOAL: Create measurement system
+__PHASE ONE GOAL:__ Create measurement system
 
 #### a. Milestones
 
@@ -162,10 +220,10 @@ PHASE ONE GOAL: Create measurement system
 
 ### 7. Risk Mitigation
 
-PHASE ONE GOAL: 
+__PHASE ONE GOAL:__ 
 
 ### 8. Lifecycle
 
-PHASE ONE GOAL: 
+__PHASE ONE GOAL:__ 
 
 ## References
