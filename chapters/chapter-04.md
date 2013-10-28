@@ -237,7 +237,7 @@ With all due respect to our higher education institutions, academia’s take on 
 
 ### 8. Media/Press
 
-Given the sexy nature of innovation, we hope to attract a set of media partners who are interested in helping us share the stories about progress. Media coverage in this space often is focused on negative stories about conflict, mistakes, and failures. We want to turn the tide and shed a positive light on the work of our region’s public and social sector. With a few strategic media partnerships, we will have a distribution channel to share those stories with a much broader audience.
+Given the sexy nature of innovation, we hope to attract a set of media partners who are interested in helping us share the stories of progress. Media coverage in this space often is focused on negative stories about conflict, mistakes, and failures. We want to turn the tide and shed a positive light on the work of our region’s public and social sector. With a few strategic media partnerships, we will have a distribution channel to share those stories with a much broader audience.
 
 ## I. Cost Structure
 

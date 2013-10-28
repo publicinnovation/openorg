@@ -96,11 +96,11 @@ Our last strategy is designed to “close the loop” by telling the stories of 
 
 ### 1. Team and Governance
 
-PHASE ONE GOAL: Develop leadership team and hire core staff
+PHASE ONE GOAL: Formalize organizational structure, establish leadership, and hire core team.
 
 #### a. Fiscal Sponsor
 
-Gain tax-exempt status and independence from fiscal sponsor
+ Gain tax-exempt status and independence from fiscal sponsor
 
 #### b. Board of Directors
 

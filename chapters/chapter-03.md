@@ -46,12 +46,12 @@ Public policy and administration, as an academic field, largely ignores the expe
 
 And often those interactions can be chockfull of painpoints. Design scholar Don Norman describes those difficult experiences we've all had:
 
-“It is easy to find examples of the complexity of services: think of almost any interaction with a governmental agency. There are many potential sources of difficulties, from the interaction with government employees, the complex set of rules and regulations that must be followed, the complexities of the forms that must be filled out, and then to the impenetrable delays that occur as the request moves from one office to another, perhaps from one agency to another. Even if everyone is helpful and friendly, the sheer complexity of the operation coupled with the relatively poor interfaces among all the components can lead to frustrating experiences.  
+>“It is easy to find examples of the complexity of services: think of almost any interaction with a governmental agency. There are many potential sources of difficulties, from the interaction with government employees, the complex set of rules and regulations that must be followed, the complexities of the forms that must be filled out, and then to the impenetrable delays that occur as the request moves from one office to another, perhaps from one agency to another. Even if everyone is helpful and friendly, the sheer complexity of the operation coupled with the relatively poor interfaces among all the components can lead to frustrating experiences.  
 The only way to solve the complexities of services is to treat them as systems, to design the entire experience as a whole. If each piece is designed in isolation, the end result may be of separate pieces that do not mesh well together (Norman, LWC, 147-8).”
 
 As such, we have developed our core capabilities to employ "design thinking" as a civic innovation tool. Tim Brown, president and CEO of the design firm IDEO describes design thinking as follows:
 
-“Design thinking is centered on innovating through the eyes of the end user and as such encourages in-the-field research that builds empathy for people, which results in deeper insights about their unmet needs. This focus helps avoid the common problem of enthusiastic ‘outsiders’ promoting inappropriate solutions and ensures that solutions are rooted in the needs and desires of the community (Brown, What Matters, 9).”
+>“Design thinking is centered on innovating through the eyes of the end user and as such encourages in-the-field research that builds empathy for people, which results in deeper insights about their unmet needs. This focus helps avoid the common problem of enthusiastic ‘outsiders’ promoting inappropriate solutions and ensures that solutions are rooted in the needs and desires of the community (Brown, What Matters, 9).”
 
 These are just some of the concepts and principles we've incorporated into our social impact model.
 
