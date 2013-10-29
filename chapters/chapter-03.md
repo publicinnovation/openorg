@@ -5,7 +5,7 @@ chapter: 3
 permalink: /social-imact-model/
 ---
 
-# Social Impact Model
+# Chapter 3: Social Impact Model
 ###### Our theory of change
 
 ## A. Overview of Organization

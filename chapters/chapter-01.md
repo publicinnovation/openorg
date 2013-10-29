@@ -5,5 +5,5 @@ chapter: 1
 permalink: /executive-summary/
 ---
 
-# Executive Summary
+# Chapter 1: Executive Summary
 ###### The short version

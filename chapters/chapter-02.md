@@ -5,7 +5,7 @@ chapter: 2
 permalink: /need-and-opportunity/
 ---
 
-# Need and Opportunity
+# Chapter 2: Need and Opportunity
 ###### A little context
 
 ## A. The Problem

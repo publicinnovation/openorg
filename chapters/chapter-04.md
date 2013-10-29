@@ -5,7 +5,7 @@ chapter: 4
 permalink: /business-model/
 ---
 
-# Business Model
+# Chapter 4: Business Model
 ###### How we pay our bills
 
 ## A. Market Segments
@@ -85,7 +85,7 @@ The basic question our channels will answer is how best to reach our users and c
 
 ### 1. CivicExchange
 
-The new publicinnovation.org will serve as our primary engagement platform. While we have no intention of building “yet another social network,” we will create a secure, authenticated area of our site, my.publicinnovation.org -- that we are coining the Civic Exchange. The concept of the Civic Exchange was first conceived by a team at the first CivicMeet Sacramento event and adds additional elements from a subsequent CivicMeet idea, the Human Capital Connector. The platform will enable frictionless collaboration and drive civic action. We’ll employ an agile, build/measure/learn development cycle to add new features over time, based on the activity and feedback of our users. A beta version of the platform will enable users to express their interest in programs and projects based on their profile. 
+The new publicinnovation.org will serve as our primary engagement platform. While we have no intention of building *yet another social network*, we will create a secure, authenticated area of our site, my.publicinnovation.org—that we are coining the Civic Exchange. The concept of the Civic Exchange was first conceived by a team at the first CivicMeet Sacramento event and adds additional elements from a subsequent CivicMeet idea, the Human Capital Connector. The platform will enable frictionless collaboration and drive civic action. We’ll employ an agile, build/measure/learn development cycle to add new features over time, based on the activity and feedback of our users. A beta version of the platform will enable users to express their interest in programs and projects based on their profile. 
 
 ### 2. Media
 
@@ -121,39 +121,53 @@ Public Innovation will seek to receive tax-exempt status under Internal Revenue 
 
 ### 3. Earned Income
 		
-Earned income opportunities will become our most important revenue source, as it will give us the most autonomy and flexibility in the types of projects we choose to pursue. It is also our golden path to fiscal sustainability and future growth. 
+Earned income opportunities will become our most important revenue source, as it will give us the most autonomy and flexibility in the types of projects we choose to pursue. It is also our golden path to fiscal sustainability and future growth. We will pursue earned income across three categories: (1) fee-for-service, (2) channel partnerships, and (3) corporate sponsorships.
 
-#### a. Fee-for-service
+#### a. Fee-for-Service
 
 We will offer a suite of services through our Public Innovation Labs program. These services will be in the following areas of:
 
-##### Civic Technology
+##### i. Civic Technology
    
    Our civic technology services include custom web and mobile application development, ranging from basic websites to fully integrated, cross-platform applications to fill a variety of needs. We also provide user experience consulting, including visual design, interaction design, information architecture, usability testing, user research, and content strategy. Similarly, we’re capable of deploying crowdsourcing tools such as ideation platforms and text message/SMS voting for live events. We also can build tools to streamline back-office functions and integrate databases with custom application programming interfaces (APIs).
 
-##### Citizen Experience Design
+##### ii. Citizen Experience Design
    
    We’re interested in helping public agencies provide delightful experiences to their constituents through the application of human centered design. By blending our unique expertise in user experience and public administration, we’re capable of identifying and solving the unmet needs of citizens. This capability is especially helpful for transactions that require interactions with multiple agencies across different levels of government. We can provide ethnographic research, prototyping, and service design services to minimize the number of touchpoints a citizen must encounter to solve a particular problem.
 
-##### Placemaking
+##### iii. Placemaking
    
    While we do not currently have the internal capabilities to support placemaking services, we can refer clients to our partners who specialize in creating public spaces that maximize happiness. Services such as community visioning, urban planning, and prototyping will create greater opportunities for serendipity. Celebrating public spaces reinforces our commitment to building community and moving urban innovation forward throughout the region.
 
-##### Social Innovation + Entrepreneurship
+##### iv. Social Innovation + Entrepreneurship
    
    Public Innovation’s Impact Incubator is a space for developing social entrepreneurs and their ideas. Through business development activities, we will help aspiring changemakers craft and test their business models to drive social impact. We will provide workspace, mentorship, and risk capital to those with the most promising ideas. Similarly, we will create an innovation fund that will enable the engage in impact investing and in which Public Innovation will invest. We also will leverage crowdfunding and social impact bonds to fund specific projects for which such tools are most appropriate.
 
-##### Organizational Development
+##### v. Organizational Development
    
    Public Innovation will support intrapreneurs -- entrepreneurial-minded individuals who want to create change within their organizations (instead of launching new ventures) -- through our Public Innovation Fellows Program. We expect our fellows to primarily come from public agencies and nonprofits in the region, but also are open to allowing participation by private sector intrapreneurs. Additionally, for those organizations seeking organizational development consulting services, we can refer them to our partners who possess greater expertise in this area. 
 
-##### Storytelling
+##### vi. Storytelling
    
    Although we aim to create impact that creates a measurable difference in peoples’ lives, it’s critical that we tell those stories in a compelling way to create further demand for our work. Specifically, we use video as our preferred medium and are working to develop aggregated content distribution channels that enable all individuals and organizations working to make a difference to tell their stories, as well. We are at a unique moment in history where we can take advantage of the opportunity to reach an unprecedented audience at minimal cost.
 
-#### b. Corporate sponsorships
+#### b. Channel Partnerships
 
-Aside from fee-for-service, our other earned income revenue stream will be through corporate sponsorships. This is distinct from corporate donors who give tax-deductible donations and instead refers to our private sector partners to whom we will offer marketing opportunities, provided there is alignment between our efforts. Such sponsorships will help us offset the costs of specific projects and events, and provide opportunities for companies in the region to expand their involvement in the community through corporate social responsibility.
+Channel partnership are those relationships we will establish with other civic startups to market and sell their products and services to customers across the region. This solves a problem for us when a customer seeks a solution that already is available from another vendor, but for which the opportunity cost exceeds the time we would spend to develop a similar solution that only may be marginally better in quality. So we will seek to forge two types of partnerships with these companies using: (1) a reseller model, and (2) a referral model.
+
+##### i. Reseller Partner
+
+As a reseller partner, we will act as the end-to-end touchpoint for customers by working with other civic startups to sell and deploy their products and services. Because we are better equipped to understand local needs and have established relationships with public agencies and nonprofits in the region, we can ensure that a particular technology is an appropriate solution. This benefits civic startups because it reduces their sales overhead, which is critical for young companies lacking a sales team. In return for managing the customer relationship, we will receive a percentage of each sale.
+
+##### ii. Referral Partner
+
+As a referral partner, we will refer customers directly to other companies and those companies will manage the sales funnel and customer relationship. This arrangement is a better fit for startups who have a dedicated sales staff. In return, we will recieve a smaller percentage of each sale than if we were a reseller.
+
+Regardless of which channel partnership model we pursue with a particular company, they will need to meet the high quality standards we set for own products and services. We recognize that partnering with companies who do not meet those standards will reflect poorly on us and damage our credibility. Therefore, we will be highly selective in the companies with whom we choose to partner.
+
+#### c. Corporate Sponsorships
+
+Aside from fee-for-service and channel partnerships, our last earned income revenue stream will be through corporate sponsorships. This is distinct from corporate donors who give tax-deductible donations and instead refers to our private sector partners to whom we will offer marketing opportunities, provided there is alignment between our efforts. Such sponsorships will help us offset the costs of specific projects and events, and provide opportunities for companies in the region to expand their involvement in the community through corporate social responsibility.
 
 ## F. Key Resources
 

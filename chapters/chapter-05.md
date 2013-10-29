@@ -5,7 +5,7 @@ chapter: 5
 permalink: /implementation-strategy/
 ---
 
-# Implementation Strategy
+# Chapter 5: Implementation Strategy
 ###### From here to there
 
 ## A. Business Plan Timeline			
@@ -96,7 +96,7 @@ Our last strategy is designed to “close the loop” by telling the stories of 
 
 ### 1. Team and Governance
 
-__PHASE ONE GOAL:__ Formalize organizational structure, establish leadership, and hire core team.
+__PHASE ONE GOAL:__ Formalize organizational structure, establish leadership roles, and hire core team.
 
 #### a. Fiscal Sponsor
 
@@ -175,6 +175,21 @@ __PHASE ONE GOAL:__ Build customer pipeline and sales funnel
 #### a. Financial Requirements
 
 #### b. Sources of Funds
+
+
+
+Revenue Source | 2014 | 2015 | 2016 | 2017 | 2018
+--- | --- | --- | --- | --- | ---
+Seed Capital | $203,125	| $49,219 | -- | -- | --
+Grants | $46,875 | $131,250 | $94,336 | $65,092 | $74,856
+Earned Income | $62,500 | $147,656 | $283,008 | $368,854 | $424,182
+TOTAL | $312,500 | $328,125 | $377,344 | $433,945 | $499,037
+
+Share of Revenue | 2014 | 2015 | 2016 | 2017 | 2018
+--- | --- | --- | --- | --- | ---
+Seed Capital | 65% | 15% | -- | -- | --
+Grants | 15% | 40% | 25% | 15% | 15%
+Earned Income | 20% | 45% | 75% | 85% | 85%
 
 #### c. Capitalization Strategy
 

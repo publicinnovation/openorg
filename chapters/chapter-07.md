@@ -5,11 +5,11 @@ chapter: 7
 permalink: /appendices/
 ---
 
-# Appendices
+# Chapter 7: Appendices
 ###### The stuff we left out
 
 ## A. Value Chain
 
 ## B. Programs and Projects
 
-## C. Two-Pager
+## C. Two-Page Overview
