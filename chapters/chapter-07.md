@@ -9,7 +9,10 @@ permalink: /appendices/
 ###### The stuff we left out
 
 ## A. Value Chain
+Coming soon.
 
 ## B. Programs and Projects
+Coming soon.
 
 ## C. Two-Page Overview
+Coming soon.

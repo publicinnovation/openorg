@@ -155,11 +155,11 @@ We will offer a suite of services through our Public Innovation Labs program. Th
 
 Channel partnership are those relationships we will establish with other civic startups to market and sell their products and services to customers across the region. This solves a problem for us when a customer seeks a solution that already is available from another vendor, but for which the opportunity cost exceeds the time we would spend to develop a similar solution that only may be marginally better in quality. So we will seek to forge two types of partnerships with these companies using: (1) a reseller model, and (2) a referral model.
 
-##### i. Reseller Partner
+##### i. Reseller Partner Model
 
 As a reseller partner, we will act as the end-to-end touchpoint for customers by working with other civic startups to sell and deploy their products and services. Because we are better equipped to understand local needs and have established relationships with public agencies and nonprofits in the region, we can ensure that a particular technology is an appropriate solution. This benefits civic startups because it reduces their sales overhead, which is critical for young companies lacking a sales team. In return for managing the customer relationship, we will receive a percentage of each sale.
 
-##### ii. Referral Partner
+##### ii. Referral Partner Model
 
 As a referral partner, we will refer customers directly to other companies and those companies will manage the sales funnel and customer relationship. This arrangement is a better fit for startups who have a dedicated sales staff. In return, we will recieve a smaller percentage of each sale than if we were a reseller.
 
@@ -173,7 +173,7 @@ Aside from fee-for-service and channel partnerships, our last earned income reve
 
 The key resources we need to drive impact include human capital, trust, talent, and efficient processes.
 
-### 1. Cognitive surplus/human capital
+### 1. Cognitive Surplus/Human Capital
 
 Human capital is our most important asset. One premise behind Public Innovation is that we’re unleashing a new set of tools that reduce some of the friction associated with collaboration and we can thereby empower individuals and organizations to collaborate on a larger scale than is realistically feasible today. But this assumes, of course, the voluntary participation and authentic thirst for impact among participants. We also need a diversity of perspectives to foster inclusive solutions that don’t leave underserved communities behind. In addition, diversity is a critical factor in driving creativity. We are confident that new voices will lead to greater choices and accelerate quality of life improvements that benefit all residents of our region. Another way to interpret our need for human capital is through a concept coined by Clary Shirky, known as cognitive surplus:
 
@@ -187,7 +187,7 @@ Starting with this business plan, we will be a transparent operation. In fact, t
 
 Another key resource that will be critical to our success is internal talent. Specifically, we need generalists who excel in multiple areas and innately recognize patterns and connections across different disciplines and spheres of activity. Specifically, we’ll need to form a multidisciplinary team that can share knowledge in the following areas, allowing us to innovate at a rapid pace: technology, design, public policy and administration, nonprofit management, marketing, strategy, and community development.
 
-### 4. Efficient processes
+### 4. Efficient Processes
 
 In order to effectively scale collaboration in the region, we will need to overcome its inherent inefficiencies. We are committed to respecting time and opportunity costs that belong to individuals and organizations who choose to engage with us. To that end, we will offer turnkey opportunities to participate that remove as much friction from the process as possible, allowing us to increase our collective impact.
 
@@ -195,15 +195,15 @@ In order to effectively scale collaboration in the region, we will need to overc
 
 Our major activities can be grouped into five categories: community building, civic innovation, social innovation, urban innovation, and regional innovation.
 
-### 1. Community building
+### 1. Community Building
 
 To achieve strength in numbers, we must focus on building community. That means creating opportunities to establish authentic relationships based on trust. By bringing together stakeholders that are not accustomed to working with one another, we will catalyze new opportunities to innovate. But it will take time for these relationships to be forged. Not all actors will be familiar with each other and there will be new actors who want to collaborate but lack a track record. And yet, it’s these upstart individuals and organizations who will have the most to contribute. Therefore, we want to provide that space where we can familiarize ourselves with our idiosyncratic modus operandi. Our vision of success includes the ability to launch projects with such agility and speed, precluding lengthy negotiations over contract terms or extensive memoranda of understanding. All of this requires a community that’s built on trust.
 
-### 2. Civic innovation
+### 2. Civic Innovation
 
 Our civic innovation activities will primarily involve the development of civic technologies that better connect individuals to their communities and communities to the larger region. Our approach to civic innovation is differentiated from our approach to social innovation insofar as there is a greater emphasis on the work by public agencies and other areas of governmental influence versus those areas typically under the purview of nonprofit organizations. We believe there are limitless opportunities to invent the future of human-government interaction (clearly borrowing from the field of human-computer interaction). Highlighting and rewarding the work of creative public servants will be key to validating and advancing new approaches to public administration.
 
-### 3. Social innovation
+### 3. Social Innovation
 
 Although there is not a clear line between that which is civic and that which is social, the sphere of social innovation, generally, begins where civic innovation ends. In short, there simply are problems that cannot be solved through a particular public program or policy. Instead, social innovations require fundamental changes in the way humans treat each other. Whether through social norms, market behavior, or other forms of interaction, social innovation is a way to develop solutions to address unmet needs that are the result of things like homelessness, inequality, and other manifestations that result from lack of opportunity. Public Innovation will incubate the next generation of our region’s problem solvers by helping them develop their ideas and launch new social enterprises.
 
@@ -225,27 +225,27 @@ Our funders will be our most important set of partners. To get off the ground, w
 
 Other non-earned income funders will include foundations and other donors who are interested in supporting specific programs and projects. We will reach out to those entities, as we discover opportunities where our priorities are aligned and where we can create synergy. 
 
-### 2. Fiscal sponsor
+### 2. Fiscal Sponsor
 
 Another critical partner will be our fiscal sponsor. Fiscal sponsorship is the mechanism by which organizations seeking nonprofit status are eligible to accept tax-deductible donations and other forms of support until they receive official tax-exempt status from the Internal Revenue Service. As is common in a fiscal sponsorship arrangement, we will compensate our sponsor with ten percent of our revenues until we receive our tax-exempt status and achieve complete independence. We expect our fiscal sponsor to assist with administrative, accounting, payroll, and other forms of support so that we can focus on program and project delivery.
 
-### 3. Public agencies
+### 3. Public Agencies
 
 We wish to partner with as many public agencies as possible in the region. Beyond the 22 cities and six counties in the Sacramento Area Council of Governments region, we believe it is important to establish partnerships with various state agencies and special districts, as appropriate. For example, many of our civic technology projects will require a citizen-centered approach to user experience and, therefore, necessitate significant interagency collaboration. Similarly, because of the numerous opportunities to reduce the operational costs of public agencies, we expect government to be our largest source of earned income.
 
-### 4. Civic leaders
+### 4. Civic Leaders
 
 Civic leaders have close relationships with their constituents and a keen understanding of the challenges citizens face on a daily basis. Elected officials, public managers, and nonprofit executives will help inform our project selection and help us identify unmet needs at a community-level. These leaders also have the ability to convene stakeholders and organizations to marshal momentum behind civic issues. We hope to be an indispensable tool that adds capacity for these leaders to tackle the most critical issues they face. Similarly, we want to highlight the valuable work they do through compelling stories.
 
-### 5. Peer organizations
+### 5. Peer Organizations
 
 Our peer organizations comprise other cross-sector backbone organizations and issue-specific nonprofits with similar goals of improving quality of life. It’s important that we position ourselves as complementary and seek ways to add value. Conversely, we want to avoid competing for similar grants and being perceived as a potential competitor. After all, we recognize that collaboration is always preferred over collaboration. Having said that, collaboration is a two-way street and we need these values reciprocated in order for this vision to be fulfilled.
 
-### 6. Technology community
+### 6. Technology Community
 
 We also believe it’s important to partner with the technology community given our strategy of using technology to drive civic and social impact. To the extent that local tech firms are interested in this space, they will find a home at Public Innovation. Similarly, we can help companies identify new market opportunities where it does not make sense for us to focus.
 
-### 7. Higher education/professional associations
+### 7. Higher Education/Professional Associations
 
 With all due respect to our higher education institutions, academia’s take on what’s happening in the world tends to lag with the pace at which things are changing on the ground. This, in fact, is not a surprise if you consider that much of the work done by researchers requires data and it takes time before new phenomena can be captured in the form of a trend. We find similar patterns among professional associations, as well. However, both higher education institutions and professional associations alike are attractive as potential partners. In particular, both groups have deep expertise that can be helpful in informing the direction of Public Innovation’s work.
 

@@ -170,20 +170,25 @@ Our two-person founding team has bootstrapped Public Innovation to date. Our Yea
 
 ### 2. Financial Sustainability
 
-__PHASE ONE GOAL:__ Build customer pipeline and sales funnel
+__PHASE ONE GOAL:__ Survive Phase One.
 
 #### a. Financial Requirements
 
+Phase One of our plan comprises the first two years of operation, 2014-15, when we run at a loss. It is not until Phase Two that our operating balance will be net positive. Because we will not generate sufficient revenue through earned income and grants ("earned revenues") in Phase One, our costs would leave us with a deficit of $252, 344. 
+
+ | Phase One
+--- | ---
+Earned Revenues | $388,281
+Expenses | $640,625
+Profit/(Loss) | ($252,344)
+Commited Philanthropy | $0
+Capitalization Amount | ($252,344)
+
+Therefore, this plan cannot be implemented in its current state without an initial investment of $250,000.
+
 #### b. Sources of Funds
 
-
-
-Revenue Source | 2014 | 2015 | 2016 | 2017 | 2018
---- | --- | --- | --- | --- | ---
-Seed Capital | $203,125	| $49,219 | -- | -- | --
-Grants | $46,875 | $131,250 | $94,336 | $65,092 | $74,856
-Earned Income | $62,500 | $147,656 | $283,008 | $368,854 | $424,182
-TOTAL | $312,500 | $328,125 | $377,344 | $433,945 | $499,037
+If we are able to raise seed funding, our total share of revenues over our first five years are targeted to be as follows:
 
 Share of Revenue | 2014 | 2015 | 2016 | 2017 | 2018
 --- | --- | --- | --- | --- | ---
@@ -193,35 +198,78 @@ Earned Income | 20% | 45% | 75% | 85% | 85%
 
 #### c. Capitalization Strategy
 
+Seed funding is likely to come from either prospective board members willing to fundraise on our behalf or a large foundation, or group of foundations, interested in testing our business model's potential replicability and scalability. In the former scenario, we could be capitalize if ten regional leaders individually raised $25,000 each on our behalf. In the latter scenario, five foundations could each invest $50,000.
+
+Although seed funding would be spent acrosss the first two years, 80 percent of that capital ($200,000) would need to be allocated in Year One so that we can ramp up our customer pipeline and sales funnel, and demonstrate our value proposition through early wins.
+
 #### d. Financial Projections
+
+Revenue Source | 2014 | 2015 | 2016 | 2017 | 2018
+--- | --- | --- | --- | --- | ---
+Seed Capital | $203,125	| $49,219 | -- | -- | --
+Grants | $46,875 | $131,250 | $94,336 | $65,092 | $74,856
+Earned Income | $62,500 | $147,656 | $283,008 | $368,854 | $424,182
+TOTAL | $312,500 | $328,125 | $377,344 | $433,945 | $499,037
 
 #### e. Sustainability
 
+We do not anticipate becoming sustainabile until the end of Year Three, in 2016–also the beginning of Phase Two. As detailed in Chapter 4, our earned income strategy is our path to reaching that point and will consist of a diversified revenue mix across the following sources:
+
+* Fee-for-Service
+* Channel Partnerships
+* Corporate Sponsorships
+
+Although it is too early to predict exactly how our total share of earned income will be distributed across these three sources, we expect the most substantial portion to comprise fee-for-service activites.
+
 ### 3. Marketing
 
-__PHASE ONE GOAL: Build and engage user community through in-person events
+__PHASE ONE GOAL:__ Build and engage user community through partnerships, in-person events, and empathy.
 
-#### a. Brand
+Marketing is typically viewed through a lens of a firm's marketing mix: price, product, promotion, and place. As a place-based, impact-focused organization, however, the more relevant marketing strategy is how we best position ourselves to drive the social impact model we identified in Chapter 3. Key to driving this impact is our marketing focus on users, not customers.
+
+#### a. Brand and Communications
+
+True to the spirit of the values associated with creating the OpenOrg standard, Public Innovation is an open, emergent organization built on trust. As a civic startup, we are commited to building a civic innovation and social entrepreneurship ecosystem in the Sacramento region. We will hold ourselves accountable for accelerating measurable quality of life improvements in those areas within which we initiate and manage projects.
+
+Our leadership team consists of technologists who will not only build the digital assets necessary for communicating the Public Innovation brand, but also making Public Innovation a *digital by default* organization.
 
 #### b. Target Market
 
+As specified in 
+
 #### c. Partnerships
 
-Formalize partnerships
+After releasing the initial version of this plan, we will reach out to potential partners and ask them to formalize our relationship with their organizations by listing them here.
 
-#### d. Competitive Landscape
+To date, we have confirmed partnerships with:
+
+* [Your Organization Here]
 
 ### 4. Technology
 
-__PHASE ONE GOAL:__ 
+__PHASE ONE GOAL:__ Deploy a suite of low-cost tools to streamline our operations.
+
+Not only will Public Innovation do everything we can to build an external *digital by default* organization, but we also will continue to deploy a suite of low-cost, lightweight tools to efficiently and effectively manage our internal operations.
 
 ### 5. Public Policy
 
-__PHASE ONE GOAL:__ 
+__PHASE ONE GOAL:__ Advocate, as legally permitted, for policy changes that help us advance our agenda.
+
+Although we are explicit about the importance of culture and delivery over policy, there are two specific areas of policy that would make our lives easier and have greater impact.
+
+#### a. Procurement
+
+The first area of policy where we would like to see changes is in procurement. Public sector procurement is widely oberved to be unncessarily complex and difficult, resulting in IT contracts being awarded to large companies for the wrong reasons (ability to game the system versus provide the best value). Fortunately, the blundered rollout of HealthCare.gov was a focusing event that has opened up a policy window for reform to happen in this space. Similarly, Code for America has commited itself to continue working on the issue.
+
+#### b. Open Data
+
+Another area of policy that will help us develop innovative solutions to drive social impact is in the open data space. With West Sacramento's recent passage of the region's first open data policy and Mayor Cabaldon's leadership, the stage is set for a regional approach to open data that create cross-jurisdiction synergies. According to a [recent study by McKinsey](http://www.mckinsey.com/insights/business_technology/open_data_unlocking_innovation_and_performance_with_liquid_information), open data has the potential add $3 to $5 trillion in economic value over the coming years. A regional open data ecosystem will allow civic technologists and entrepreneurs combine datasets in new was that can drive both public and private sector value.
 
 ### 6. Performance and Social Impact Measurement
 
-__PHASE ONE GOAL:__ Create measurement system
+__PHASE ONE GOAL:__ Develop a robust, transparent measurement system that enables the public to hold us accountable for progress.
+
+Coming soon.
 
 #### a. Milestones
 
@@ -235,10 +283,16 @@ __PHASE ONE GOAL:__ Create measurement system
 
 ### 7. Risk Mitigation
 
-__PHASE ONE GOAL:__ 
+__PHASE ONE GOAL:__ Be prepared for Plan B.
+
+The biggest risk we face is unsuccessfully raising the necessary seed funding to implement Phase One of this plan. If this turns out to be the case, we will resort to Plan B: becoming a benefit corporation and attempting to raise venture capital by giving up equity. This will require substantial modifications to our business model.
+
+There has been a recent push to encourage the formation of more for-profit social impact organizations and civic startups. Although there's nothing wrong with this approach, we believe that the legal structure of a nonprofit public benefit corporation will allow us to have greater impact because our initial investors will not be seeking a financial return. In other words, even as a "low-profit" benefit corporation, we will be legally required to pay dividends to shareholders that would otherwise be used to fund our non-revenue generating programs, such as the Social Innovation Fund and Impact Incubator.
 
 ### 8. Lifecycle
 
-__PHASE ONE GOAL:__ 
+__PHASE ONE GOAL:__ Put up or pack up.
+
+All good things come to an end. While we will continuously evolve, it's not in our interest to outlive our usefulness. As a catalyst for change, our success will render our existence meaningless. In other words, we want to help spark a revolution in the way people in the civic and social space think about solving problems. That's going to take a culture shift. But a shift in culture will be a catalyst in and of itself. In the best of all possible worlds, we get a few big wins over the next five to ten years, close shop, and move on to solving other problems that don't yet exist and with tools that haven't yet been invented.
 
 ## References
