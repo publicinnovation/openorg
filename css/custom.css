@@ -1,7 +1,15 @@
 body {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 16px;
+  font-family: ".tk-ff-meta-serif-web-pro", Times New Roman, serif;
+  font-size: 22px;
   line-height: 1.428571429;
+}
+
+h {
+  font-family: "quatro-slab",sans-serif;
+}
+
+bs-header p, bs-sidebar p, bs-footer, navbar-header {
+  font-family: "proxima-nova",sans-serif;
 }
 
 .btn-outline {
