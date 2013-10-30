@@ -1,14 +1,15 @@
 --- 
 layout: chapter
-title: "Social Impact Model"
-chapter: 3
-permalink: /social-imact-model/
+title: "Executive Summary"
+chapter: 1
+permalink: /executive-summary/
 ---
 
 # Chapter 3: Social Impact Model
 ###### Our theory of change
 
-## A. Overview of Organization
+<h2>A. Overview of Organization
+</h2>
 
 Public Innovation is an incubator for civic and social innovations in the Sacramento region. Our core competency is bringing people together to solve public problems and improve the citizen experience. We believe that breakthrough solutions require the engagement of individuals and organizations from diverse backgrounds and sectors. By leveraging the creativity and collective capacity of all people, we’re able to cross-pollinate ideas that lead to new ways of accelerating quality of life improvements. In the end, however, the network itself is the true innovation.
 
