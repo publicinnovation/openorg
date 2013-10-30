@@ -1,15 +1,14 @@
 body {
-  font-family: ".tk-ff-meta-serif-web-pro", Times New Roman, serif;
+  font-family: "ff-meta-serif-web-pro", sans-serif;
   font-size: 22px;
-  line-height: 1.428571429;
 }
 
-h {
-  font-family: "quatro-slab",sans-serif;
+h1, h2, h3, h4, h5, h6 {
+  font-family: "quatro-slab", sans-serif;
 }
 
-bs-header p, bs-sidebar p, bs-footer, navbar-header {
-  font-family: "proxima-nova",sans-serif;
+.bs-header > p, .bs-sidebar > p, .bs-footer, .navbar-header {
+  font-family: "proxima-nova", sans-serif;
 }
 
 .btn-outline {
