@@ -7,6 +7,10 @@ h1, h2, h3, h4, h5, h6 {
   font-family: "quatro-slab", sans-serif;
 }
 
+.navbar-nav > h1, h2, h3, h4, h5, h6, a {
+  font-family: "proxima-nova", sans-serif;
+}
+
 .bs-header > p, .bs-sidebar > ul > li > a, .bs-footer, .navbar-header {
   font-family: "proxima-nova", sans-serif;
 }
