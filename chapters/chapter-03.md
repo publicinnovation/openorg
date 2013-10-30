@@ -195,7 +195,8 @@ As much as we do think nor work linearly, Public Innovation’s value processes 
 Either an organization approaches us with a problem or citizens identify an opportunity to improve their communities through our our platform, CivicExchange. Although projects do not need to be initiated through this entry point, projects sought by proactive individuals and organizations will enjoy greater potential for impact.				
 
 2. __IDEATION:__ *Forcing Serendipitous Collisions to Generate New Ideas* 
-At CivicMeet Sacramento -- a monthly meetup for civic innovators from diverse backgrounds (including business, nonprofits, education, technology, and government), we co-design solutions to public problems. The more constraints, the more creative the ideas. This process also builds a community of citizens to support the successful adoption of the solutions they helped generate.				
+At CivicMeet Sacramento -- a monthly meetup for civic innovators from diverse backgrounds (including business, nonprofits, education, technology, and government), we co-design solutions to public problems. The more constraints, the more creative the ideas. This process also builds a community of citizens to support the successful adoption of the solutions they helped generate.
+
 3. __CO-PRODUCTION:__ *Supporting the Development of Civic Innovations* 
 At Public Innovation Labs -- a civic innovation incubator -- we design, build, and test improvements to the citizen experience and back-office process innovations for public agencies and social enterprises. We also provide resources and support to social entrepreneurs who want to voluntarily collaborate on civic projects.				
 
@@ -229,15 +230,15 @@ While we are not technological solutionists, we believe that technology has a si
 Our basic strategy for driving social impact and accelerating quality of life improvements relies on recruiting, empowering, and connecting change agents. It is premised on the following:
 Recruting change agents
 
-### 1. Creating an open platform for co-creation
+### 1. An Open Platform for Co-Creation
 
 Although the term platform generally refers to a type of technology, Public Innovation–the organization–is itself an open platform. While we intend to build a specific technology platform, CivicExchange, to allow for easier engagement, our social impact will be derived from a human capital multiplier effect that is the result of diverse people coming together to co-create change in-person. And by open, we mean anyone with the passion to make a positive dent will be able to roll up their sleeves and join.
 
-### 2. Collective impact
+### 2. Collective Impact
 
 Cross-sector collaboration also will be critical to driving impact. This will require the engagement of individuals and organization from the public, private, and nonprofit sectors. More importantly, however, it means a new paradigm in shared accountability. No longer is it acceptable for organizations and individuals to compete over who receives credit for success, much less over fixed slices of a pie. Everyone has a role to play and we need to acknowledge our interdependence and strive toward shared value.
 
-### 3. Culture first
+### 3. Culture First
 
 Public Innovation made a concerted effort to focus on the implementation of public policy rather than on its development. That means we’re largely policy-agnostic and benefit from staying out of the political fray. Because creativity loves constraints and we’re confident in our organizational agility, we can adapt our approach to any policy environment. Similarly, much of our work will be filling in gaps that policy cannot fill. For example, policy is a good tool for setting priorities and creating incentives, but it cannot force an individual to want to change their behavior. According to Khademian:
 
@@ -247,7 +248,7 @@ By focusing on people and process, we believe that culture can change policy. An
 
 Our “culture first” approach will tackle head-on distrust toward our public institutions. We intend to lead by example and reinforce a cycle of trust that will enable greater experimentation and risk-taking in the civic space.
 
-### 4. Capacity building
+### 4. Capacity Building
 
 We’re not just providing capacity for collaboration but, more importantly, capacity for innovation. The Sacramento region does not have a shortage of smart, creative people with good ideas. Instead, we lack the capacity to turn those ideas into great ideas and great ideas into reality.
 
@@ -257,7 +258,7 @@ As a civic incubator, we want to help innovators develop, test, and refine their
 
 We also want to incubate new social enterprises and develop the next generation of change agents. In the past, the only way someone could make a difference outside of government was to start a nonprofit. Today there are a variety of alternative models for social impact including for-profit and hybrid organizations. 
 
-### 6. Measuring success
+### 6. Measuring Success
 
 Today’s ubiquity of open data means that it’s much easier to measure quality of life and our impact on its trajectory. Moreover, it gives us the opportunity to hold ourselves accountable for those outcomes which we’ve committed to achieving. Change is hard and it’s even more difficult to link an organization’s output to quality of life outcomes, particularly when macroeconomic and other societal factors . But there is intrinsic value in simply placing an organization’s outputs alongside the indicators it is working to improve, whether in education, health, or public safety. This juxtaposition can help members of the public better understand how change happens and, more importantly, inspire a conversation about what to do when we collectively fall off-track.
 
