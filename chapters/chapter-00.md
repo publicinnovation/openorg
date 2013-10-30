@@ -8,7 +8,7 @@ permalink: /forward/
 # Forward
 ###### A few thoughts
 
-October 28, 2013
+October 29, 2013
 
 Dear Reader:
 
