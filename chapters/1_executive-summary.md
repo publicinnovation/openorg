@@ -8,9 +8,7 @@ permalink: /executive-summary/
 <div class="bs-header" id="content">
 <div class="container">
 <h1>Social Impact Model</h1>
-<p>
 Public Innovation is a platform for co-creation. Anyone with a good idea for improving our civic infrastructure and a willingness to roll up their sleeves to bring about change will find a home here.
-</p>
 </div>
 </div>
 
@@ -70,23 +68,15 @@ Public Innovation is a platform for co-creation. Anyone with a good idea for imp
 <h1 id="overview">Overview of Organization</h1>
 </div>
 
-<p class="lead">
-Public Innovation is an incubator for civic and social innovations in the Sacramento region.
-</p>
+###### Public Innovation is an incubator for civic and social innovations in the Sacramento region.
 
-<p>
 Our core competency is bringing people together to solve public problems and improve the citizen experience. We believe that breakthrough solutions require the engagement of individuals and organizations from diverse backgrounds and sectors. By leveraging the creativity and collective capacity of all people, we’re able to cross-pollinate ideas that lead to new ways of accelerating quality of life improvements. In the end, however, the network itself is the true innovation.
-</p>
 
-<p>
 As a small nonprofit, our goal is not to solve every problems, but to instead develop a set of tools that enable and empower collaboration at a community and regional level. We know that many organizations currently assume this role. However, what’s missing is a welcoming entry point for new players. We will act as that entry point by providing resources and support for anyone who has a good idea and the drive to turn that idea into reality. In other words, we will be disrupting the status quo by enabling new market and value network to flourish for civic and social innovations.
-</p>
 
 <h3 id="overview-innovation-defined">Innovation defined</h3>
 
-<p>
 Professor Andrew Hargadon, Director of the UC Davis Institute for Innovation and Entrepreneurship, innovation is "the generation, development, and deployment of new, nonobvious, and valuable ideas." He delineates 
-</p>
 
 <h3 id="overview-diffusion-of-innovations">Diffusion of innovations</h3>
 
@@ -102,29 +92,20 @@ Professor Andrew Hargadon, Director of the UC Davis Institute for Innovation and
 
 <h3 id="diagram-social-problem-definition">Social Problem Definition</h3>
 
-<p>
 Bureaucracy dehumanizes individuals and inhibits the inherent talent within an organization. This results in untapped value creation opportunities and arbitrarily constrains the potential collective capacity to generate new solutions to problems. Government is the poster child for bureaucracy and the Sacramento region is home to one of the largest subnational governments in the world.
-</p>
 
-<p>
 With a third of our workforce employed by government, there are significant implications that bureaucracy imposes on the culture of our region. We cannot isolate the impact that cumbersome rules, steep hierarchies, and overspecialization have on the mental models through which we see the world -- whether we work in government or are customers of government. These mental models influence our perceptions of what’s possible and, therefore, affect our collective behavior. These impacts can manifest themselves in the form of would-be entrepreneurs wallowing in risk averse mindset, underserved youth lacking the confidence to challenge themselves academically, or artists being undervalued for the contributions they make building a vibrant creative community.
-</p>
 
-<p>
 In short, Sacramento has a culture of mediocrity that is, in large part, driven by the dominance of a government-industrial complex. This is no surprise, as many of the features of government are designed to maintain stability and, therefore, the status quo. While many organizations have attempted to modernize our civic operating systems, few if any efforts to address the culture itself have been attempted.
-</p>
 
 <h3 id="diagram-mission">Mission</h3>
 
-<p>
 The mission of Public Innovation is to build the basic scaffolding of a civic innovation and social entrepreneurship ecosystem. This ecosystem will comprise a space where creative approaches to tackling public issues are initiated, developed, and supported. Using the concept of an open platform, we will empower change agents who want to improve their organizations and communities by connecting them with each other and by providing them with the tools to accelerate regional progress. 
-</p>
 
 <h3 id="diagram-indicators">Indicators</h3>
 
 <h4>Social &amp; Economic Impact</h4>
 
-<p>To measure our social and economic impact, we will begin by with the following indicators:</p>
 <ul>
 <li>Quality of life outcomes within areas where we pursue projects</li>
 <li>Cost savings delivered to public agencies and nonprofit organizations</li>
@@ -132,7 +113,6 @@ The mission of Public Innovation is to build the basic scaffolding of a civic in
 
 <h4>Organizational &amp; Program Performance</h4>
 
-<p>To measure our organizational and program performance, we will begin by with the following indicators:</p>
 <ul>
 <li>Number of engaged users</li>
 <li>Number of organizational partners per project</li>
@@ -141,13 +121,9 @@ The mission of Public Innovation is to build the basic scaffolding of a civic in
 
 <h3 id="diagram-vision-of-success">Vision of Success</h3>
 
-<p>
 We envision a day when the Sacramento region is viewed by outsiders as the Silicon Valley of civic and social innovation. We believe that the wicked problems public agencies and nonprofits are tasked with tackling are opportunities to generate disruptive solutions through creative ideation, rapid prototyping, and human centered design. Similarly, engaged citizens will create an authorizing environment where they trust their public officials to take safe risks. We’ll celebrate failures quickly And by leveraging our position as the state’s capital, citizens will be able to find the information they need regardless of the level of government responsible.
-</p>
 
-<p>
 Our vision is for a radically different civic experience than exists today and one in which anyone with a good idea to improve our shared civic infrastructure will have the tools at their disposal to co-create the changes they want to see in their organizations and communities. Together we will disrupt bureaucracy.
-</p>
 
 </div>
 
@@ -161,9 +137,7 @@ Our vision is for a radically different civic experience than exists today and o
 
 <h3 id="operating-open-platform">Open Platform</h3>
 
-<p>
 Public Innovation will operate as an open platform for co-creation and co-production of civic and social innovations. Although this will require us to have a significant level of transparency around our operations, that is merely a consequence and not the goal of being an open organization. Our primary purpose for pursuing openness is to enable others to build upon our civic infrastructure.
-</p>
 
 <table class="table table-bordered">
 <thead>
@@ -232,9 +206,7 @@ Public Innovation will operate as an open platform for co-creation and co-produc
 </tbody>
 </table>
 
-<p>
 Because so much of the work of innovation requires a networked approach, we must create the spaces in which individuals and organizations can not only connect with each other, but also have a keen understanding of who’s doing what. Such an approach will help avoid duplication of effort and ensure added value is consistently being contributed to the larger ecosystem.
-</p>
 
 <h3 id="operating-innovation-ecosystem">Civic and Social Innovation Ecosystem</h3>
 
@@ -242,52 +214,36 @@ Because so much of the work of innovation requires a networked approach, we must
 
 <h4>Process</h4>
 
-<p>
 Public Innovation will employ a six-part value chain, along which projects are initiated and solutions are deployed. Each component segments engagement among a diverse set of organizational partners and adds public value at each stage. A networked approach to the innovation process maximizes throughput and allows us to scale our impact across the Capital Region with replicable projects.
-</p>
 
 <ol>
 <li>
 <strong>LAUNCH POINT: Identifying Unmet Needs and Opportunities</strong>
-<p>
 Either an organization approaches us with a problem or citizens identify an opportunity to improve their communities through The Civic Exchange. Although projects do not need to be initiated through this entry point, projects sought by proactive individuals and organizations will enjoy greater capacity for impact.
-</p>
 </li>
 <li>
 <strong>CREATIVE IDEATION: Forcing Serendipitous Collisions to Generate New Ideas</strong>
-<p>
 At CivicMeet Sacramento, a monthly meetup for civic innovators from diverse backgrounds (including business, nonprofits, education, technology, and government), we co-design solutions to public problems. The more constraints, the more creative the ideas. This process also builds a community of citizens to support the successful adoption of the solutions they helped generate.
-</p>
 </li>
 <li>
 <strong>CO-PRODUCTION: Supporting the Development of Civic Innovations</strong>
-<p>
 Through our Code for America Brigade, Code for Sacramento, we engage the civic hacking community to build open web technologies that better connect citizens with their communities. When specific solutions require outside funding or are too complex to be addressed in a volun- teer environment, we work on those solutions internally at Public Innovation Labs -- a civic innovation incubator where we design, build, and test improvements to the citizen experience and back-office process innovations for public agencies and social enterprises. We also provide resources and support to social entrepreneurs who want to voluntarily collaborate on civic projects.
-</p>
 </li>
 <li>
 <strong>INTRAPRENEURSHIP: Giving Public Servants the Tools to Evangelize Change</strong>
-<p>
 To prepare civic leaders and public administrators for emerging innovations in open government, our Civic Entrepreneurship Network will support knowledge sharing and change management within government. This will result in user generated content, best practices, and panel discussions among change agents who want to be catalysts for improving their organizations. Through our consulting arm, Working by Design, we also provide services and education to improve organizational culture at public agencies, nonprofits, and businesses in the region.
-</p>
 </li>
 <li>
 <strong>DEPLOYMENT: Deploying Solutions through Civic Entrepreneurship</strong>
-<p>
 Once refined, solutions are deployed by Innovation Delivery Teams -- strategic partnerships among public agencies, nonprofits, and businesses. Crowdfunding and social impact bonds can help address resource constraints to sustain their implementation. These teams will support the diffusion of civic innovations and their composition will vary on a project-by-project basis.
-</p>
 </li>
 <li>
 <strong>STORYTELLING: Measuring Progress and Celebrating Success</strong>
-<p>
 Public Innovation is committed to nurturing development of the larger ecosystem through multichannel marketing and communications campaigns that highlight and reward creative problem solving. In addition to tracking and maintaining quality of life indicators, we produce compelling video stories to articulate the value proposition of civic entrepreneurship.
-</p>
 </li>
 </ol>
 
-<p>
 Although this is our preferred process for project execution and reflects our theory of change, we will offer flexibility to clients who approach us with specific needs that do not require a comprehensive approach. Similarly, we expect our process to evolve based upon our analysis of key performance indicators.
-</p>
 
 <h4>Ideas</h4>
 
