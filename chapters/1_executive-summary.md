@@ -5,6 +5,52 @@ chapter: 1
 permalink: /executive-summary/
 ---
 
+<div class="col-md-3">
+  <div class="bs-sidebar hidden-print" role="complementary">
+    <ul class="nav bs-sidenav">
+
+      <li>
+        <a href="#overview">Overview of Organization</a>
+        <ul class="nav">
+          <li><a href="#overview-innovation-defined">Innovation defined</a></li>
+          <li><a href="#overview-diffusion-of-innovations">Diffusion of innovations</a></li>
+        </ul>
+      </li>
+
+      <li>
+        <a href="#diagram">Social Impact Model Diagram</a>
+        <ul class="nav">
+          <li><a href="#diagram-social-problem-definition">Social Problem Definition</a></li>
+          <li><a href="#diagram-mission">Mission</a></li>
+          <li><a href="#diagram-indicators">Indicators</a></li>
+          <li><a href="#diagram-vision-of-success">Vision of Success</a></li>
+        </ul>
+      </li>
+
+      <li>
+        <a href="#operating">Description of Operating Model</a>
+        <ul class="nav">
+          <li><a href="#operating-open-platform">Open Platform</a></li>
+          <li><a href="#operating-innovation-ecosystem">Innovation Ecosystem</a></li>
+        </ul>
+      </li>
+
+      <li>
+        <a href="#strategies">Description of Social Impact Strategies</a>
+        <ul class="nav">
+          <li><a href="#strategies-platform-for-co-creation">Platform</a></li>
+          <li><a href="#strategies-culture-first">Culture first</a></li>
+          <li><a href="#strategies-storytelling">Platform</a></li>
+          <li><a href="#strategies-capacity-building">Capacity building</a></li>
+        </ul>
+      </li>
+
+    </ul>
+  </div>
+</div>
+
+<div class="col-md-9" role="main">
+
 # Chapter 3: Social Impact Model
 ###### Our theory of change
 
@@ -267,3 +313,5 @@ Today’s ubiquity of open data means that it’s much easier to measure quality
 One of the most surprising findings in our work to date, is how much progress already is happening on the ground but of which there is little awareness. Today’s new media environment enables anyone with a camera phone to start their own TV station on YouTube. While that may be an overstatement, the cost of high-quality digital video production has dramatically fallen in recent years with the advent of DSLR cameras and other affordable tools for independent filmmakers. Similarly, the opportunities to curate user-generated content are virtually infinite. We are committed to telling the stories of innovators and their projects to raise awareness of and appreciation for the complex ecosystem that’s emerging.
 
 ## References
+
+</div>
