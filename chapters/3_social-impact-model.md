@@ -98,72 +98,74 @@ Our vision is for a radically different civic experience than exists today and o
 Public Innovation will operate as an open platform for co-creation and co-production of civic and social innovations. Although this will require us to have a significant level of transparency around our operations, that is merely a consequence and not the goal of being an open organization. Our primary purpose for pursuing openness is to enable others to build upon our civic infrastructure.
 
 Table Comparing characteristic tendencies of closed vs. open systems
-        <table class="table table-bordered">
-          <thead>
-            <tr>
-              <th class="col-xs-2">Characteristic</th>
-              <th class="col-xs-5">Closed System</th>
-              <th class="col-xs-5">Open System</th>
-            </tr>
-          </thead>
-          <tbody>
-            <tr>
-              <td>Leadership</td>
-              <td>Clearly identified. Leadership and authority positions tightly tied.</td>
-              <td>Leadership actions can be made by a variety of actors. Leadership and authority loosely coupled.</td>
-            </tr>
-            <tr>
-              <td>Authority</td>
-              <td>Strong. Authority figures can firmly set and enforce direction and organize activities.</td>
-              <td>Weak. Authority figures suggest and cajole directions and activities.</td>
-            </tr>
-            <tr>
-              <td>Membership</td>
-              <td>Clearly defined by employment, contracts, or formal declarations</td>
-              <td>May not be clearly defined. Determined by adoption of behaviors.</td>
-            </tr>
-            <tr>
-              <td>Ownership</td>
-              <td>Tightly held. Intellectual and physical property is owned by the system and controlled by its authorities.</td>
-              <td>Open and shared. Intellectual property is open licensed and shared. Use is determined by users.</td>
-            </tr>
-            <tr>
-              <td>Boundaries</td>
-              <td>Fixed and firm. Members are in or out.</td>
-              <td>Porous. Participants may join and leave, without giving notice.</td>
-            </tr>
-            <tr>
-              <td>Objectives</td>
-              <td>Unitary and clear. Established by authorities.</td>
-              <td>Different in different parts of the system and determined by participants.</td>
-            </tr>
-            <tr>
-              <td>Decisions</td>
-              <td>Made by those “above” in the hierarchy and passed down.</td>
-              <td>Made in many places throughout the system.</td>
-            </tr>
-            <tr>
-              <td>Structure</td>
-              <td>Fixed and hierarchical one to many relationships (e.g., employee reporting to employer) and hub and spoke (e.g., suppliers providing to a manufacturer)</td>
-              <td>Fluid networks with bi-directional communications and activities.</td>
-            </tr>
-            <tr>
-              <td>Incentives</td>
-              <td>Clearly defined and reliant on financial rewards – salaries, fees, bonuses.</td>
-              <td>Mixed and reliant on financial as well as other personal rewards including acknowledgement, mastery, social good.</td>
-            </tr>
-            <tr>
-              <td>Location</td>
-              <td>Headquarters is clearly defined. Work is done in offices and factories.</td>
-              <td>No physical headquarters. Work is done in many venues.</td>
-            </tr>
-            <tr>
-              <td>Work time</td>
-              <td>During formal “work hours” with official vacations</td>
-              <td>Happens at any time, often during vacations!</td>
-            </tr>
-          </tbody>
-        </table>
+
+<table class="table table-bordered">
+  <thead>
+    <tr>
+      <th class="col-xs-2">Characteristic</th>
+      <th class="col-xs-5">Closed System</th>
+      <th class="col-xs-5">Open System</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Leadership</td>
+      <td>Clearly identified. Leadership and authority positions tightly tied.</td>
+      <td>Leadership actions can be made by a variety of actors. Leadership and authority loosely coupled.</td>
+    </tr>
+    <tr>
+      <td>Authority</td>
+      <td>Strong. Authority figures can firmly set and enforce direction and organize activities.</td>
+      <td>Weak. Authority figures suggest and cajole directions and activities.</td>
+    </tr>
+    <tr>
+      <td>Membership</td>
+      <td>Clearly defined by employment, contracts, or formal declarations</td>
+      <td>May not be clearly defined. Determined by adoption of behaviors.</td>
+    </tr>
+    <tr>
+      <td>Ownership</td>
+      <td>Tightly held. Intellectual and physical property is owned by the system and controlled by its authorities.</td>
+      <td>Open and shared. Intellectual property is open licensed and shared. Use is determined by users.</td>
+    </tr>
+    <tr>
+      <td>Boundaries</td>
+      <td>Fixed and firm. Members are in or out.</td>
+      <td>Porous. Participants may join and leave, without giving notice.</td>
+    </tr>
+    <tr>
+      <td>Objectives</td>
+      <td>Unitary and clear. Established by authorities.</td>
+      <td>Different in different parts of the system and determined by participants.</td>
+    </tr>
+    <tr>
+      <td>Decisions</td>
+      <td>Made by those “above” in the hierarchy and passed down.</td>
+      <td>Made in many places throughout the system.</td>
+    </tr>
+    <tr>
+      <td>Structure</td>
+      <td>Fixed and hierarchical one to many relationships (e.g., employee reporting to employer) and hub and spoke (e.g., suppliers providing to a manufacturer)</td>
+      <td>Fluid networks with bi-directional communications and activities.</td>
+    </tr>
+    <tr>
+      <td>Incentives</td>
+      <td>Clearly defined and reliant on financial rewards – salaries, fees, bonuses.</td>
+      <td>Mixed and reliant on financial as well as other personal rewards including acknowledgement, mastery, social good.</td>
+    </tr>
+    <tr>
+      <td>Location</td>
+      <td>Headquarters is clearly defined. Work is done in offices and factories.</td>
+      <td>No physical headquarters. Work is done in many venues.</td>
+    </tr>
+    <tr>
+      <td>Work time</td>
+      <td>During formal “work hours” with official vacations</td>
+      <td>Happens at any time, often during vacations!</td>
+    </tr>
+  </tbody>
+</table>
+
 Source: http://www.policycommons.org/?p=85 (also in IBM “Designing Open Projects")
 
 Because so much of the work of innovation requires a networked approach, we must create the spaces in which individuals and organizations can not only connect with each other, but also have a keen understanding of who’s doing what. This helps to avoid duplication of effort and ensures added value is consistently being contributed across the larger ecosystem.
