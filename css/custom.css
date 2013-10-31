@@ -199,8 +199,12 @@ h1, h2, h3, h4, h5, h6 {
   border-right: none;
 }
 
-/* line 495 */
 .bs-docs-section {
-  margin-top: 30px;
+  margin-top: 10px;
+  padding-top: 10px;
+}
+
+.bs-docs-section p {
+  margin-top: 10px;
   padding-top: 10px;
 }
