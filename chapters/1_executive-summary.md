@@ -1,6 +1,6 @@
 --- 
 layout: chapter
-title: Chapter 1: Executive Summary
+title: Executive Summary
 tagline: The short version
 chapter: 1
 permalink: /executive-summary/

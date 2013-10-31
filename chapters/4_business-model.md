@@ -1,6 +1,6 @@
 --- 
 layout: chapter
-title: Chapter 4: Business Model
+title: Business Model
 tagline: How we pay our bills
 chapter: 4
 permalink: /business-model/
