@@ -1,12 +1,10 @@
 --- 
 layout: chapter
-title: "Executive Summary"
+title: Executive Summary
+tagline: The short version
 chapter: 1
 permalink: /executive-summary/
 ---
-
-# Chapter 1: Executive Summary
-###### The short version
 
 Founded in 2012, Public Innovation is an early stage place-based, impact-focused organization commited to building a civic innovation and social entrepreneurship ecosystem in the Sacramento region. Our mission is to accelerate measurable quality of life improvements by developing, testing, and scaling new forms of creative problem solving.
 

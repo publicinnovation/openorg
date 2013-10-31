@@ -1,12 +1,10 @@
 --- 
 layout: chapter
-title: "Business Model"
+title: Business Model
+tagline: How we pay our bills
 chapter: 4
 permalink: /business-model/
 ---
-
-# Chapter 4: Business Model
-###### How we pay our bills
 
 ## A. Market Segments
 

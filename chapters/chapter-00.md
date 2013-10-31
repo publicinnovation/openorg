@@ -1,12 +1,10 @@
 --- 
 layout: chapter
-title: "Forward"
+title: Forward
+tagline: A few thoughts
 chapter: 0
 permalink: /forward/
 ---
-
-# Forward
-###### A few thoughts
 
 October 29, 2013
 

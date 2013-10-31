@@ -1,12 +1,10 @@
 --- 
 layout: chapter
-title: "Implementation Strategy"
+title: Implementation Strategy
+tagline: From here to there
 chapter: 5
 permalink: /implementation-strategy/
 ---
-
-# Chapter 5: Implementation Strategy
-###### From here to there
 
 ## A. Business Plan Timeline			
 

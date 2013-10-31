@@ -1,12 +1,10 @@
 --- 
 layout: chapter
-title: "Need and Opportunity"
+title: Need and Opportunity
+tagline: A little context
 chapter: 2
 permalink: /need-and-opportunity/
 ---
-
-# Chapter 2: Need and Opportunity
-###### A little context
 
 ## A. The Problem
 

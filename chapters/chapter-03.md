@@ -1,12 +1,10 @@
 --- 
 layout: chapter
-title: "Social Impact Model"
+title: Social Impact Model
+tagline: Our theory of change
 chapter: 3
 permalink: /social-imact-model/
 ---
-
-# Chapter 3: Social Impact Model
-###### Our theory of change
 
 ## A. Overview of Organization
 
