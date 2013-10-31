@@ -3,7 +3,7 @@ layout: chapter
 title: Social Impact Model
 tagline: Our theory of change
 chapter: 3
-permalink: /social-imact-model/
+permalink: /social-impact-model/
 ---
 
 ## A. Overview of Organization
