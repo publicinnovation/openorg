@@ -200,6 +200,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 /* line 495 */
-.bs-docs-section + .bs-docs-section {
-  padding-top: 0px;
+.bs-docs-section {
+  margin-top: 30px;
+  padding-top: 10px;
 }
