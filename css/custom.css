@@ -180,6 +180,10 @@ h1, h2, h3, h4, h5, h6 {
   color: #00aeef;
 }
 
+.bs-sidebar .nav > li {
+  font-family: "proxima-nova", sans-serif;
+}
+
 /* line 429 */
 .bs-sidebar .nav > li > a:hover,
 .bs-sidebar .nav > li > a:focus {
@@ -207,4 +211,8 @@ h1, h2, h3, h4, h5, h6 {
 .bs-docs-section p {
   margin-top: 10px;
   padding-top: 10px;
+}
+
+.bs-docs-section > h1, h2, h3, h4, h5, h6 {
+  font-family: "quatro-slab", sans-serif;
 }
