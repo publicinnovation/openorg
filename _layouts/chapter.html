@@ -6,6 +6,18 @@ layout: default
 
 {% include chapter-masthead.html %}
 
-{{ content }}
+<div class="container bs-docs-container">
+  <div class="row">
+    <div class="col-md-3">
+      {% include chapter-sections-sidebar.html %}
+    </div>
+
+    <div class="col-md-9" role="main">
+      <div class="bs-docs-section">
+        {{ content }}
+      </div>
+    </div><!-- /.col-md-9 -->
+  </div><!-- /.row -->
+</div><!-- /.container.bs-docs-container -->
 
 {% include footer.html %}

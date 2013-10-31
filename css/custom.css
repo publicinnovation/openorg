@@ -173,6 +173,13 @@ h1, h2, h3, h4, h5, h6 {
   text-shadow: none;
 }
 
+.bs-sidebar ul li {
+  cursor:pointer;
+}
+.bs-sidebar ul li:hover {
+  color: #00aeef;
+}
+
 /* line 429 */
 .bs-sidebar .nav > li > a:hover,
 .bs-sidebar .nav > li > a:focus {
