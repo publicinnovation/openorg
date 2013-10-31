@@ -1,19 +1,12 @@
 --- 
 layout: chapter
-title: "Forward"
+title: Forward
+tagline: A few thoughts
 chapter: 0
 permalink: /forward/
 ---
 
-<!-- Docs page layout -->
-<div class="bs-header" id="content">
-  <div class="container">
-    <h1>Our Plan for Public Innovation</h1>
-    <p>
-      Public Innovation is a platform for co-creation. Anyone with a good idea for improving our civic infrastructure and a willingness to roll up their sleeves to bring about change will find a home here.
-    </p>
-  </div>
-</div>
+
 
 <div class="container bs-docs-container">
   <div class="row">

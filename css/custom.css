@@ -42,6 +42,10 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
+.bs-header p {
+  font-family: "proxima-nova", sans-serif;
+  font-size: 32px;
+}
 /* line 548 */
 .page-header {
   margin: 20px 0 20px;

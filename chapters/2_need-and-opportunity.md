@@ -1,18 +1,12 @@
 --- 
 layout: chapter
-title: "Need and Opportunity"
+title: Need and Opportunity
+tagline: A little context
 chapter: 2
 permalink: /need-and-opportunity/
 ---
 
-<div class="bs-header" id="content">
-  <div class="container">
-    <h1>The Need and Opportunity</h1>
-    <p>
-      Public Innovation is a platform for co-creation. Anyone with a good idea for improving our civic infrastructure and a willingness to roll up their sleeves to bring about change will find a home here.
-    </p>
-  </div>
-</div>
+
 
 <div class="container bs-docs-container">
   <div class="row">

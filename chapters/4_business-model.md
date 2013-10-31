@@ -1,18 +1,12 @@
 --- 
 layout: chapter
-title: "Business Model"
+title: Business Model
+tagline: How we pay our bills
 chapter: 4
 permalink: /business-model/
 ---
 
-<div class="bs-header" id="content">
-  <div class="container">
-    <h1>Business Model</h1>
-    <p>
-      Our strength lies in the diversity of human capital we’re able to attract, resulting in the cross-pollination of ideas to improve our neighborhoods, communities, and our region.
-    </p>
-  </div>
-</div>
+
 
 <div class="container bs-docs-container">
   <div class="row">

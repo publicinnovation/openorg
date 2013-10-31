@@ -1,18 +1,12 @@
 --- 
 layout: chapter
-title: "Social Impact Model"
+title: Social Impact Model
+tagline: Our theory of change
 chapter: 3
 permalink: /social-impact-model/
 ---
 
-<div class="bs-header" id="content">
-  <div class="container">
-    <h1>Social Impact Model</h1>
-    <p>
-      Public Innovation is a platform for co-creation. Anyone with a good idea for improving our civic infrastructure and a willingness to roll up their sleeves to bring about change will find a home here.
-    </p>
-  </div>
-</div>
+
 
 <div class="container bs-docs-container">
   <div class="row">

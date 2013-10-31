@@ -1,18 +1,12 @@
 --- 
 layout: chapter
-title: "Implementation Strategy"
+title: Implementation Strategy
+tagline: From here to there
 chapter: 5
 permalink: /implementation-strategy/
 ---
 
-<div class="bs-header" id="content">
-  <div class="container">
-    <h1>Implementation Strategy</h1>
-    <p>
-      Public Innovation is a platform for co-creation. Anyone with a good idea for improving our civic infrastructure and a willingness to roll up their sleeves to bring about change will find a home here.
-    </p>
-  </div>
-</div>
+
 
 <div class="container bs-docs-container">
   <div class="row">

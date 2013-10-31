@@ -1,9 +1,12 @@
 --- 
 layout: chapter
-title: "Executive Summary"
+title: Executive Summary
+tagline: The short version
 chapter: 1
 permalink: /executive-summary/
 ---
+
+
 
 <div class="col-md-3">
   <div class="bs-sidebar hidden-print" role="complementary">
