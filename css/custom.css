@@ -7,7 +7,7 @@ h1, h2, h3, h4, h5, h6 {
   font-family: "quatro-slab", sans-serif;
 }
 
-.navbar-nav > h1, h2, h3, h4, h5, h6, a {
+.navbar-text {
   font-family: "proxima-nova", sans-serif;
 }
 
@@ -214,6 +214,6 @@ h1, h2, h3, h4, h5, h6 {
   padding-top: 10px;
 }
 
-.bs-docs-section h1, h2, h3, h4, h5, h6 {
+.bs-docs-section > h2 {
   font-family: "quatro-slab", sans-serif;
 }
