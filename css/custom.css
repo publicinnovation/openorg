@@ -7,6 +7,18 @@ h1, h2, h3, h4, h5, h6 {
   font-family: "quatro-slab", sans-serif;
 }
 
+.navbar-text {
+  font-family: "proxima-nova", sans-serif;
+}
+
+.navbar-brand {
+  font-family: "proxima-nova", sans-serif;
+}
+
+.bs-header > p, .bs-sidebar > ul > li > a, .bs-footer, .navbar-header {
+  font-family: "proxima-nova", sans-serif;
+}
+
 .bs-header > p, .bs-sidebar > ul > li > a, .bs-footer, .navbar-text, .navbar-header, .navbar-brand, .dropdown-menu > li > a {
   font-family: "proxima-nova", sans-serif;
 }
@@ -90,6 +102,9 @@ h1, h2, h3, h4, h5, h6 {
   }
   .navbar-right {
     float: right !important;
+  }
+  .hide-for-mobile {
+    display: none;
   }
 }
 
