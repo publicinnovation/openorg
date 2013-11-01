@@ -6,9 +6,6 @@ chapter: 7
 permalink: /appendices/
 ---
 
-# Chapter 7: Appendices
-###### The stuff we left out
-
 ## A. Value Chain
 Coming soon.
 
