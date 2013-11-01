@@ -5,11 +5,13 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: "quatro-slab", sans-serif;
+  line-height: 1.5;
 }
 
 .navbar-brand, .navbar-text, .dropdown-menu > li > a {
   font-family: "proxima-nova", sans-serif;
-  font-size: 28px;
+  font-size: 2.5em;
+  line-height: 1.5;
 }
 
 .bs-header > p, .bs-sidebar > ul > li > a, .bs-footer, {
