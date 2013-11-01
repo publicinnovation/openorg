@@ -19,6 +19,10 @@ h1, h2, h3, h4, h5, h6 {
   font-family: "proxima-nova", sans-serif;
 }
 
+.bs-header > p, .bs-sidebar > ul > li > a, .bs-footer, .navbar-text, .navbar-header, .navbar-brand, .dropdown-menu > li > a {
+  font-family: "proxima-nova", sans-serif;
+}
+
 .btn-outline {
   color: #00aeef;
   background-color: #fff;
