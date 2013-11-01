@@ -11,6 +11,14 @@ h1, h2, h3, h4, h5, h6 {
   font-family: "proxima-nova", sans-serif;
 }
 
+.navbar-brand, .navbar-text {
+  font-size: 28px;
+}
+
+.navbar-text {
+  padding-right: 15px;
+}
+
 .btn-outline {
   color: #00aeef;
   background-color: #fff;
