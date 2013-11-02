@@ -1,6 +1,6 @@
 --- 
 layout: chapter
-title: Implementation Strategy
+title: 5. Implementation Strategy
 tagline: From here to there
 chapter: 5
 permalink: /implementation-strategy/

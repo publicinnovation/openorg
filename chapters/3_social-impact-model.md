@@ -1,6 +1,6 @@
 --- 
 layout: chapter
-title: Social Impact Model
+title: 3. Social Impact Model
 tagline: Our theory of change
 chapter: 3
 permalink: /social-impact-model/

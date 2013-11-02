@@ -1,6 +1,6 @@
 --- 
 layout: chapter
-title: Need and Opportunity
+title: 2. Need and Opportunity
 tagline: A little context
 chapter: 2
 permalink: /need-and-opportunity/
