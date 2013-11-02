@@ -14,17 +14,19 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 1.5;
 }
 
-.navbar-nav {
-  margin: 0px -15px;
-}
-
 .bs-header > p, .bs-sidebar > ul > li > a, .bs-footer, {
   font-family: "proxima-nova", sans-serif;
 }
 
+.navbar-nav {
+  margin: 0px -15px;
+}
+
 .navbar-text {
-  padding-right: 15px;
+  margin-top: 10px;
   margin-bottom: 0px;
+  padding-bottom: 5px;
+  padding-right: 15px;
 }
 
 .btn-outline {
