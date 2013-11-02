@@ -19,11 +19,7 @@ h1, h2, h3, h4, h5, h6 {
   font-family: "proxima-nova", sans-serif;
 }
 
-.bs-sidebar > ul > li > a {
-  color: #000000;
-}
-
-.bs-footer > p {
+footer.bs-footer > p > a {
   color: #000000;
   font-style: "proxima-nova"
 }
@@ -44,6 +40,7 @@ h1, h2, h3, h4, h5, h6 {
   background-color: #fff;
   border-color: #e5e5e5;
 }
+
 .btn-outline:hover,
 .btn-outline:focus,
 .btn-outline:active {
@@ -218,6 +215,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .bs-sidebar .nav > li {
+  color: #000000;
   font-family: "proxima-nova", sans-serif;
 }
 
