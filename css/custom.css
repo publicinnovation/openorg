@@ -19,7 +19,7 @@ h1, h2, h3, h4, h5, h6 {
   font-family: "proxima-nova", sans-serif;
 }
 
-footer.bs-footer > p > a {
+.bs-footer > p > a {
   color: #000000;
   font-style: "proxima-nova"
 }
