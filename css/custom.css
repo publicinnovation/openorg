@@ -6,6 +6,7 @@ body {
 h1, h2, h3, h4, h5, h6 {
   font-family: "quatro-slab", sans-serif;
   line-height: 1.5;
+  color: #5B5B5B;
 }
 
 .navbar-brand, .navbar-text, .dropdown-menu > li > a {
