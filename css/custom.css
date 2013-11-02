@@ -14,7 +14,7 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 1.5;
 }
 
-.bs-header > p, .bs-sidebar > ul > li > a, .bs-footer, {
+.bs-header > p, .bs-sidebar > ul > li > a, .bs-footer > p, {
   font-family: "proxima-nova", sans-serif;
 }
 
