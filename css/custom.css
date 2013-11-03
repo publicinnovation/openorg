@@ -9,6 +9,10 @@ h1, h2, h3, h4, h5, h6 {
   color: #5B5B5B;
 }
 
+h3 > a {
+  color: #00aeef;
+}
+
 .navbar-brand, .navbar-text, .dropdown-menu > li > a {
   font-family: "proxima-nova", sans-serif;
   font-size: 1.2em;
