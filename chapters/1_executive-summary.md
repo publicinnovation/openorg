@@ -99,3 +99,5 @@ Commited Philanthropy | $0
 Capitalization Amount | ($252,344)
 
 Assuming we can get through Phase One, civic technology projects - the bulk of our earned income - will sustain our activities into Phase Two and beyond.
+
+-> ## [<< Forward](/forward/) | [Ch. 2: Need and Opportunity >>](/need-and-opportunity/) <-
