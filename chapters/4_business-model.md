@@ -6,6 +6,8 @@ chapter: 4
 permalink: /business-model/
 ---
 
+###### [<< Ch. 3: Social Impact Model](chapters/social-impact-model/) | [Ch. 5: Implementation Strategy >>](chapters/implementation-strategy/)
+
 ## A. Market Segments
 
 As a nonprofit, we draw a distinction between customers and users. By __customers__, we refer specifically to those individuals and organizations that generate revenue for Public Innovation. This includes funding sources such as foundations, public agencies, other nonprofits, corporate sponsors, and individual donors. In contrast, our __users__ are those individuals and organizations who engage on our platform and benefit from our services.
@@ -262,3 +264,5 @@ Given the sexy nature of innovation, we hope to attract a set of media partners 
 ### 4. Technology
 
 ## References
+
+###### [<< Ch. 3: Social Impact Model](chapters/social-impact-model/) | [Ch. 5: Implementation Strategy >>](chapters/implementation-strategy/)

@@ -6,6 +6,8 @@ chapter: 1
 permalink: /executive-summary/
 ---
 
+###### [<< Forward](chapters/forward/) | [Ch. 2: Need and Opportunity >>](chapters/need-and-opportunity/)
+
 Founded in 2012, Public Innovation is an early stage place-based, impact-focused organization commited to building a civic innovation and social entrepreneurship ecosystem in the Sacramento region. Our mission is to accelerate measurable quality of life improvements by developing, testing, and scaling new forms of creative problem solving.
 
 Our team has studied the best models from across the country and placed them under a single entity to drive civic and social impact in an integrated way. Our solutions are generating *with* people, not *for* people, and we believe in cultivating and leveraging latent human capital among public servants, social impact leaders, and engaged citizens.
@@ -100,4 +102,4 @@ Capitalization Amount | ($252,344)
 
 Assuming we can get through Phase One, civic technology projects - the bulk of our earned income - will sustain our activities into Phase Two and beyond.
 
--> ## [<< Forward](/forward/) | [Ch. 2: Need and Opportunity >>](/need-and-opportunity/) <-
+###### [<< Forward](chapters/forward/) | [Ch. 2: Need and Opportunity >>](chapters/need-and-opportunity/)

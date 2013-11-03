@@ -6,6 +6,8 @@ chapter: 5
 permalink: /implementation-strategy/
 ---
 
+###### [<< Ch. 4: Business Model](chapters/business-model/) | [Ch. 6: Phase One Action Plan >>](chapters/phase-one-action-plan/)
+
 ## A. Business Plan Timeline			
 
 As of October 2013, our plan is divided into two phases over five years. Details in this business plan focus on the first phase and cover two years, from January 2014 to December 2015. The goals in each phase are as follows:
@@ -294,3 +296,5 @@ __PHASE ONE GOAL:__ Put up or pack up.
 All good things come to an end. While we will continuously evolve, it's not in our interest to outlive our usefulness. As a catalyst for change, our success will render our existence meaningless. In other words, we want to help spark a revolution in the way people in the civic and social space think about solving problems. That's going to take a culture shift. But a shift in culture will be a catalyst in and of itself. In the best of all possible worlds, we get a few big wins over the next five to ten years, close shop, and move on to solving other problems that don't yet exist and with tools that haven't yet been invented.
 
 ## References
+
+###### [<< Ch. 4: Business Model](chapters/business-model/) | [Ch. 6: Phase One Action Plan >>](chapters/phase-one-action-plan/)

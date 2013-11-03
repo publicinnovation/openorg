@@ -6,6 +6,8 @@ chapter: 7
 permalink: /appendices/
 ---
 
+###### [<< Ch. 6: Phase One Action Plan](chapters/phase-one-action-plan/)
+
 ## A. Value Chain
 Coming soon.
 
@@ -14,3 +16,5 @@ Coming soon.
 
 ## C. Two-Page Overview
 Coming soon.
+
+###### [<< Ch. 6: Phase One Action Plan](chapters/phase-one-action-plan/)

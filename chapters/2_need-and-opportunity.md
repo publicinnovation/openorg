@@ -6,6 +6,8 @@ chapter: 2
 permalink: /need-and-opportunity/
 ---
 
+###### [<< Ch. 1: Executive Summary](chapters/executive-summary/) | [Ch. 3: Social Impact Model >>](chapters/social-impact-model/)
+
 ## A. The Problem
 
 The citizen experience is broken. The design of our public institutions continue to reflect their 18th and 19th Century origins. Public administration remains an unattractive career path for creative, entrepreneurial-minded college graduates. And as the world changes at an increasingly faster rate, our systems for collective decision-making have failed to keep up.
@@ -161,3 +163,5 @@ To date, we’ve held six CivicMeet Sacramento meetups, launched Code for Sacram
 Most importantly, we were able to successfully identify a key source of earned income: civic technology. As originally envisioned, Public Innovation would act as a traditional nonprofit and heavily rely on grant-funded projects to sustain ourselves. However, approximately six months into our existence, we discovered a large demand for technology solutions among public agencies and nonprofits. Although government procurement remains a challenge for us, we project that civic technology projects will provide us with 85 percent of our revenues by our fifth year of operation. Being fortunate enough to have such a substantial portion of earned income, our future fiscal health is promising.
 
 ## References
+
+###### [<< Ch. 1: Executive Summary](chapters/executive-summary/) | [Ch. 3: Social Impact Model >>](chapters/social-impact-model/)

@@ -6,6 +6,8 @@ chapter: 3
 permalink: /social-impact-model/
 ---
 
+###### [<< Ch. 2: Need and Opportunity](chapters/need-and-opportunity/) | [Ch. 4: Business Model >>](chapters/business-model/)
+
 ## A. Overview of Organization
 
 Public Innovation is an incubator for civic and social innovations in the Sacramento region. Our core competency is bringing people together to solve public problems and improve the citizen experience. We believe that breakthrough solutions require the engagement of individuals and organizations from diverse backgrounds and sectors. By leveraging the creativity and collective capacity of all people, we’re able to cross-pollinate ideas that lead to new ways of accelerating quality of life improvements. In the end, however, the network itself is the true innovation.
@@ -267,3 +269,5 @@ Today’s ubiquity of open data means that it’s much easier to measure quality
 One of the most surprising findings in our work to date, is how much progress already is happening on the ground but of which there is little awareness. Today’s new media environment enables anyone with a camera phone to start their own TV station on YouTube. While that may be an overstatement, the cost of high-quality digital video production has dramatically fallen in recent years with the advent of DSLR cameras and other affordable tools for independent filmmakers. Similarly, the opportunities to curate user-generated content are virtually infinite. We are committed to telling the stories of innovators and their projects to raise awareness of and appreciation for the complex ecosystem that’s emerging.
 
 ## References
+
+###### [<< Ch. 2: Need and Opportunity](chapters/need-and-opportunity/) | [Ch. 4: Business Model >>](chapters/business-model/)
