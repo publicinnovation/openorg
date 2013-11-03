@@ -1,6 +1,6 @@
 body {
   font-family: "freight-display-pro", sans-serif;
-  font-size: 2.2em;
+  font-size: 2.3em;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -15,13 +15,9 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 1.5;
 }
 
-.bs-header > p, .bs-sidebar > ul > li > a {
+.bs-header > p, .bs-sidebar > ul > li > a, .bs-footer {
   font-family: "proxima-nova", sans-serif;
-}
-
-.bs-footer > p > a {
   color: #000000;
-  font-style: "proxima-nova"
 }
 
 .navbar-nav {
