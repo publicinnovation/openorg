@@ -34,27 +34,27 @@ With regard to the third goal, diversifying the economy, the Next Economy plan n
 
 >"According to recent U.S. employment statistics, the Capital Region’s government workforce is one of the largest per capita of any metropolitan region in the United States. Government has been a valuable contributor to the Region’s economy and there is little question that the presence of government has dampened the effects of past economic downturns. In the face of current economic and financial realities, however, forecasts call for flat to negative employment in the government sector for the foreseeable future (p. 28)."
 
-Even an optimistic outlook means that one-in-four residents will work in the public sector ten years from now (today, it’s almost one-in-three). The California Legislature literally would need to relocate the state capital to another region in order to make a meaningful dent in our share of public sector employment.
+Even an optimistic outlook means that one-in-four residents will work in the public sector ten years from now (today, it’s almost one-in-three). The California Legislature literally would need to relocate the state capital to another region in order to make a meaningful dent in our share of public sector employment. Fostering a strong innovation environment must include changing the culture of government.
 
-So what’s the state of trust in government? Although trust in government is greatest at the local level–where it's closest to the people, distrust in state government has a negative impact on how the Capital region is perceived.
+So what’s the state of trust in government? Although trust is greatest at the local level–where it's closest to the people, distrust in state government has a negative impact on how the Capital region is perceived.
 
 [INSERT TRUST IN GOVERNMENT CHART]
 
 When it comes to government performance, we consistently accept the fact that public agencies are laggards in adopting new ideas. We just expect that government is not capable of keeping up with the pace at which the rest of the world is changing, much less do we believe that government could lead the way in the development of breakthrough innovations.
 
-And yet, we live in an era of disruption. When legacy companies fail to adapt their business models to new market conditions, consumers demand more and startups enter the marketplace with an ability to cannibalize market share at an unprecedented pace.
+And yet, we live in an era of disruption. When legacy companies fail to adapt their business models to new market conditions, startups can enter the marketplace and not only cannibalize market share faster than at any other point in history, but create new value networks and markets in the process. This is known as disruptive innovation.
 
 According to Harvard Professor and former Mayor of Indianapolis, Stephen Goldsmith:
 
 >"With a structure designed for a simpler time, government has become ill-equipped to handle the complex task of solving our increasingly intractable social challenges. Even more fundamentally, though, government now must deliver its assistance not through traditional rule-bound hierarchical programs but through effective civic entrepreneurs operating in dense social and community networks (p. xxvi)."
 
-Our expectations are changing.
+The same trends we're seeing in the tech sector are just beginning to impact the public sector becuase our expectations are changing.
 
 ## C. Root Causes
 
-To guard against misuse of public funds, reformers of the early 20th Century brought in a new wave of rules and systems that place restrictions on how resources could be allocated. In addition to strict accounting principles, disclosure and transparency were believed to be the best way of protecting against abuses. In former U.S. Supreme Court Justice Louis Brandeis’ words,“If the broad light of day could be let in upon men’s actions, it would purify them as the sun disinfects.”
+To guard against misuse of public funds, reformers of the early 20th Century brought in a new wave of rules and systems that restrict how resources could be allocated. In addition to strict accounting principles, disclosure and transparency were believed to be the best way of protecting against abuses. In former U.S. Supreme Court Justice Louis Brandeis’ words,“If the broad light of day could be let in upon men’s actions, it would purify them as the sun disinfects.”
 
-Bureaucracies serve an important purpose by enabling accountability. But accountability for what? Rules, hierarchy, and specialization are input-driven features to efficiently allocate decision-making and responsibility. For example, if fiscal mismanagement occurs, bureaucratic structures allow political leaders to assign blame. In fact, it was Woodrow Wilson - the father of public administration - who first proposed separating politics from administration to protect the public trust from abuses. Similarly, Frederick Taylor’s principles of scientific management assumed that every process has a single, optimal method.
+Bureaucracies serve an important purpose by enabling accountability. But accountability for what? Rules, hierarchy, and specialization are input-driven features to efficiently allocate decision-making and responsibility. For example, if fiscal mismanagement occurs, bureaucratic structures allow political leaders to assign blame. In fact, it was Woodrow Wilson–the father of public administration–who first proposed separating politics from administration to protect the public trust from abuses. Similarly, Frederick Taylor’s principles of scientific management assumed that every process has a single, optimal method.
 
 Today, we know that bureaucracy comes with a significant tradeoff in the context of organizational culture. According to scholar James Q. Wilson:
 
@@ -87,9 +87,11 @@ There are at least a dozen chief innovation officers working at the municipal le
 Some states, including Maryland and Massachusetts, also have chief innovation officers with statewide responsibility. These offices of innovation are often an important first step in setting the tone for a more permissive authorizing environment in which an innovation agenda may be pursued.
 
 #### New Urban Mechanics
+
 Boston, in 2010, and Philadelphia, in 2012, each opened a [Mayor’s Office of New Urban Mechanics (MONUM)](http://www.newurbanmechanics.org/). The MONUM approach is focused on transforming service delivery through civic innovation. Although this model is a part of local government, these incubators provide a safe space for experimentation, along with the co-creation and co-production of public services *with* citizens—not just *for* citizens. Similarly, the MONUM model relies on partnerships with outside organizations and entrepreneurs, which in recent months has led to the emergence of a new term, [civic fusion](http://www.knightfoundation.org/blogs/knightblog/2013/4/26/bright-spots-community-engagement-philadelphia-civic-fusion-work/).
 
 #### Code for America
+
 [Code for America (CfA)](http://codeforamerica.org/) helps governments work better by supporting the development of user interfaces that are simple, beautiful, and easy-to-use. The organization currently operates four programs:
 
 - *Fellowship*. Through CfA's fellowship program, passionate web developers, designers, and entrepreneurs collaborate with municipal leaders to build civic technologies that better connect citizens with their government.
@@ -100,13 +102,16 @@ Boston, in 2010, and Philadelphia, in 2012, each opened a [Mayor’s Office of N
 The contribution to the civic innovation ecosystem that Code for America has contributed cannot be overstated. As a leading organization in this space, Code for America has been instrumental in connecting the dots across what might otherwise be disparate silos of activity occurring nationally. Most importantly, Code for America has tactfully shown a way for technology projects to change the culture of government by focusing on people and process issues.
 
 #### sf.citi
+
 [San Francisco Citizens Initiative for Technology and Innovation (sf.citi)](http://www.sfciti.com/) is a 501(c)(6) organization that builds civic technology and engages in public policy development. Backed by companies such as Twitter, Salesforce, Adobe, AT&T, and Google, Mayor Ed Lee refers to sf.citi as San Francisco’s “tech chamber of commerce.” As an outside organization, sf.citi has considerable flexibility in the projects it chooses to pursue and the means by which it pursues them. The organization has helped build apps to better manage public transit operations and police reports.
 
 #### Smart Chicago Collaborative
-In 2009, the [Smart Chicago Collaborative](http://www.smartchicagocollaborative.org/) was born out of the American Recovery and Reinvestment Act to support the development of broadband infrastructure in Chicago. With the support of partners such as the City of Chicago, the MacArthur Foundation, and The Chicago Community Trust, Smart Chicago today is Chicago’s “new center of gravity for civic investments.” Today the organization supports developers building civic apps by providing free hosting and pursues new approaches, such as the Civic User Testing Group -- which engages citizens to test the usability of civic apps to ensure that technology effectively addresses unmet community needs.
+
+In 2009, the [Smart Chicago Collaborative](http://www.smartchicagocollaborative.org/) was born out of the American Recovery and Reinvestment Act to support the development of broadband infrastructure in Chicago. With the support of partners such as the City of Chicago, the MacArthur Foundation, and The Chicago Community Trust, Smart Chicago today is Chicago’s “new center of gravity for civic investments.” Today the organization supports developers building civic apps by providing free hosting and pursues new approaches, such as the Civic User Testing Group–which engages citizens to test the usability of civic apps to ensure that technology effectively addresses unmet community needs.
 
 ### Regional Context
-Sacramento region is making progress in public sector innovation. Of particular note, the Sacramento Area Council of Government’s Shared Services Task Force has focused on ways to collaborate toward more cost effective public services across city and county borders. This type of interagency collaboration is exactly what’s needed to change the culture of government and encourage public officials to break out of their comfortable silos. Similarly, Davis and Sacramento have new innovation offices that are well-positioned to initiate new projects with creative approaches to solving public problems. Through Mayor Christopher Cabaldon's forward-looking leadership, the City of West Sacramento recently became the first city in our region to establish an open data policy and the fledgling Code for Sacramento has successfully built a community of civic technologists. Yet, keeping up with the progress of other cities headed is not going to make us a global leader.
+
+Sacramento region is making progress in public sector innovation. Of particular note, the Sacramento Area Council of Government’s Shared Services Task Force has focused on ways to collaborate toward more cost effective public services across city and county borders. This type of interagency collaboration is exactly what’s needed to change the culture of government and encourage public officials to break out of traditionally comfortable silos. Similarly, Davis and Sacramento have new innovation offices that are well-positioned to initiate new projects with creative approaches to solving public problems. Through Mayor Christopher Cabaldon's forward-looking leadership, the City of West Sacramento recently became the first city in our region to establish an open data policy and the fledgling Code for Sacramento has successfully built a community of civic technologists. Yet, keeping up with the progress of other cities headed is not going to make us a global leader.
 
 The Capital Region can and should distinguish itself in this space by leveraging its unique assets and collaborating with Public Innovation.
 
@@ -114,24 +119,25 @@ The Capital Region can and should distinguish itself in this space by leveraging
 
 To truly innovate, the region needs the full weight of an entity committed to developing a robust civic innovation and social entrepreneurship ecosystem that will bring about the positive, yet disruptive, transformation to our civic culture. To be successful, however, Public Innovation will need to overcome the following barriers:
 
-- *Funding*. Although our business model is self-sustaining in the latter years, we will require a modest investment of seed funding to demonstrate our value proposition to our future customers. It's not yet clear that civic and social innovation will be viewed as something worth investing in by regional civic leaders.
-- *Procurement*. Our earned income will depend on our ability to do business with public agencies in the region, but public sector procurement is a notoriously complex process to successfully navigate. And as a startup, we may lack the reputation and track record of other vendors offering one-size-fits-all solutions with whom we will compete.
-- *Existing Culture*. Notwithstanding progress made to-date, our current public sector culture remains a dominant force to perpetuate the status quo. Bureaucracies resist change by design.   
-- *Incumbent Players*. To the extent that our work threatens the market share of current incumbents, we expect a healthy level of competition. As a small startup, we will be more agile and have the capability to quickly adapt to our environment.
+- *Funding*. Although our business model is self-sustaining in the latter years, we will require a modest investment of seed funding to demonstrate our value proposition to future customers. It's not yet clear that civic and social innovation will be viewed as a worthwhile investment by civic leaders.
+- *Procurement*. Our earned income strategy depends upon our ability to do business with public agencies in the region, but public sector procurement is a notoriously complex process to successfully navigate. And as a startup, we may lack the reputation and track record of other vendors with whom we will compete, but who only offer inadequate, one-size-fits-all solutions.
+- *Existing Culture*. Notwithstanding progress made to-date, our current public sector culture remains a dominant force that perpetuates the status quo. Bureaucracies resist change by design. We need to lead by example and demonstrate how safe risks can be taken.
+- *Incumbent Players*. To the extent that our work threatens the market share of current incumbents, we expect a healthy level of competition. As a small startup, we we'll be more agile and have the capability to quickly adapt to our environment.
 - *Social Equity*. Civic technology might carry the perception that it’s only for the benefit of those who can afford smartphones, tablets, and other digital devices. We recognize that many of the most important innovations we develop will have the greatest impact on underserved populations and will pursue that work with the Digital Divide in mind.
 
 ## F. Opportunity
 
 The time is now. This business plan is based on models that are already working in leading cities across the country. We not only have the ability to join the larger community of civic innovators and social entrepreneurs, but the opportunity to break new ground in this space. Several characteristics of our approach are distinguishable:
 
-- *Regional Scope*. Citizens don’t just live in cities, but also metropolitan areas and regional economies. Recognizing the value of a regional approach allows us to see a larger system at work and enables us to scale our impact.  
-- *Interagency Emphasis*. As a state capital, we have unprecedented access to inner-workings of public policy and administration in the eighth largest economy in the world. We are well-positioned to help bridge the disconnect between state fiscal decisions and local service delivery by developing new data standards.
+- *Regional Scope*. Citizens don’t just live in cities, but also metropolitan areas and regional economies. Recognizing the value of a regional approach allows us to see a larger system at work and enables us to scale our impact with replicalbe projects.  
+- *Interagency Emphasis*. As a state capital, we have unprecedented access to the inner-workings of policy development and implementation in the eighth largest economy in the world. We are well-positioned to help bridge the disconnect between state fiscal decisions and local service delivery by developing new data standards for a civic operating system.
 - *Support for Entrepreneurship*. We are committed to launching new social enterprises, as new solutions are developed that have a sustainable business model to drive social impact. Developing businesses that help entrepreneurs change the world while earning a living has the potential to attract outside funding to the region.
-- *External Entity*. As an organization that is network-based and outside of government, we will be able to take risks that public agencies could not do themselves. This flexibility allows us to create a “safe” space for the type of experimentation that is necessary for breakthrough innovations.
+- *External Entity*. As an organization that is network-based and outside of government, we will be able to take risks that public agencies cannot take on themselves. This flexibility allows us to create a “safe” space for the type of experimentation that is necessary for breakthrough innovations.
 
 Georges, Glynne-Burke, and McGrath [prescribe the following strategies](http://www.innovations.harvard.edu/showdoc.html?id=2849663) for supporting civic and social innovators:
 
 __Strategy 1: Build Collective Capacity for Innovation__
+
 * Improve Collaboration
   * Facilitate or encourage efforts to improve collaboration across agencies or sectors
 * Create Mechanisms to Attract New Innovators (and New Ideas) 
@@ -140,6 +146,7 @@ __Strategy 1: Build Collective Capacity for Innovation__
   * Support the operational capacity of innovators and the development and adoption of their promising ideas
 
 __Strategy 2: Rethink Policy to Open Space for Innovation__
+
 * Utilize Data
   * Utilize data to better understand problems, track results, and direct funds to proven policies and programs
 * Set Aside Risk Capital 
@@ -147,7 +154,8 @@ __Strategy 2: Rethink Policy to Open Space for Innovation__
 * Eliminate Barriers			
   * Level the playing field for new ideas or new providers by addressing rules and administrative hurdles in government spending
 
-__Strategy #3: Develop a Culture of Innovation__ 
+__Strategy #3: Develop a Culture of Innovation__
+
 * Protect Risk-Taking 
   * Reward and protect risk taking activities, as well as recruiting risk takers or innovators
 * Mobilize Public Will 
@@ -156,11 +164,12 @@ __Strategy #3: Develop a Culture of Innovation__
   * Empower clients to participate in their own progress, including choice and active feedback on programs and services
 
 #### Progress to Date
+
 Over the past year, Public Innovation’s model for impact has evolved from one that was largely focused on public sector innovation—within the confines of public agencies—to a more holistic model that addresses civic innovation at a systems level. Our current model integrates not just the roles of public servants, but also calls on leaders within nonprofits, the business community, and among everyday citizens to be part of a co-creative process to transform our civic culture.
 
 To date, we’ve held six CivicMeet Sacramento meetups, launched Code for Sacramento, participated in several hackathons, facilitated a course on social innovation, co-sponsored a design workshop with leaders from Google, attended the Mayors Innovation Summit in Philadelphia, and engaged hundreds of Sacramentans in the process. Additionally, we’ve recruited an A-list of advisors from myriad sectors. The past year also has allowed us to experiment and determine which strategies will and will not work. For example, our renewed focus on citizen engagement is not only important for fostering the exchange of ideas among diverse perspectives, but also to create an environment where citizens are more tolerant of safe risk-taking by their public officials. Creating this external “authorizing environment” proved to be more feasible than going directly into public agencies and creating change from within.
 
-Most importantly, we were able to successfully identify a key source of earned income: civic technology. As originally envisioned, Public Innovation would act as a traditional nonprofit and heavily rely on grant-funded projects to sustain ourselves. However, approximately six months into our existence, we discovered a large demand for technology solutions among public agencies and nonprofits. Although government procurement remains a challenge for us, we project that civic technology projects will provide us with 85 percent of our revenues by our fifth year of operation. Being fortunate enough to have such a substantial portion of earned income, our future fiscal health is promising.
+Most importantly, we were able to successfully identify a key source of earned income: civic technology. As originally envisioned, Public Innovation would act as a traditional nonprofit and heavily rely on grant-funded projects to sustain ourselves. However, approximately six months into our existence, we discovered a large demand for technology solutions among public agencies and nonprofits. Although government procurement remains a challenge for us, we project that civic technology projects will provide us with 85 percent of our revenues by our fourth year of operation. Being fortunate enough to have such a substantial portion of earned income, our future fiscal health is promising.
 
 ## References
 
