@@ -16,7 +16,7 @@ As California's capital, the Sacramento region is the locus of power for one of 
 
 Even worse, nearly every major attempt to “fix the system” has failed to deliver results. With an overreliance on political leadership and technocratic policy design, reform efforts either lack sufficient political support, collapse on their own weight, or do not address the root causes of governmental dysfunction. Of course, this track record largely pertains to the federal and state levels of government.
 
-At the local level, new models of co-creation are laying a foundation of civic infrastructure needed to enable faster problem solving and greater social cohesion. Whether it’s volunteerism, civic hacking, or tactical urbanism, citizens have come full circle and reached the conclusion that the only way to ensure a problem gets fixed is to fix it ourselves.
+At the local level, new models of co-creation are laying a foundation of civic infrastructure needed to enable faster problem solving and greater social cohesion. Whether it’s volunteerism, civic hacking, or tactical urbanism, many citizens have come full circle and reached the conclusion that the best way to ensure a problem gets fixed is to fix it themselves.
 
 ## B. Current Trends
 
@@ -36,7 +36,7 @@ With regard to the third goal, diversifying the economy, the Next Economy plan n
 
 Even an optimistic outlook means that one-in-four residents will work in the public sector ten years from now (today, it’s almost one-in-three). The California Legislature literally would need to relocate the state capital to another region in order to make a meaningful dent in our share of public sector employment.
 
-So what’s the state of trust in government? Although there’s an inverse relationship between the levels of trust that citizens have for their government and the proximity between citizens and each level of government, distrust in state government potentially impacts perception of the Capital region.
+So what’s the state of trust in government? Although trust in government is greatest at the local level–where it's closest to the people, distrust in state government has a negative impact on how the Capital region is perceived.
 
 [INSERT TRUST IN GOVERNMENT CHART]
 

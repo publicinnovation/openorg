@@ -10,9 +10,9 @@ permalink: /executive-summary/
 
 Founded in 2012, Public Innovation is an early stage place-based, impact-focused organization commited to building a civic innovation and social entrepreneurship ecosystem in the Sacramento region. Our mission is to accelerate measurable quality of life improvements by developing, testing, and scaling new forms of creative problem solving.
 
-Our team has studied the best models from across the country and placed them under a single entity to drive civic and social impact in an integrated way. Our solutions are generating *with* people, not *for* people, and we believe in cultivating and leveraging latent human capital among public servants, social impact leaders, and engaged citizens.
+Our team has studied the best models from across the country and placed them within a single entity to drive civic and social impact in an integrated way. Our solutions are generating *with* people, not *for* people, and we believe in cultivating and leveraging latent human capital among public servants, social impact leaders, and engaged citizens.
 
-## Our Operating Model
+## Operating Model
 
 As an open organization, we are *digital by default* and operate as a platform. This civic infrastructure will enable the networked approach needed to realize collective impact that transcends what any single individual or organization or organization could accomplish on their own.
 
@@ -25,13 +25,13 @@ In general, we employ the following process to the projects we pursue:
 5. __DEPLOYMENT:__ Deploying solutions through civic and social entrepreneurship.
 6. __STORYTELLING:__ Measuring progress and celebrating success.
 
-## Our Strategy
+## Strategy
 
-We believe culture must come before policy, so we have a "culture first" philosophy. Rather than forcing behavior changes, we believe it's necessary to create the conditions in which people are motivated to change their behavior.
+We believe culture must come before policy, so we have a "culture first" philosophy. Rather than forcing behavior changes by mandate, we believe it's necessary to create the conditions in which people are motivated to change their behavior.
 
 Innovation is not a methodology, but a mindset. To incubate the ideas that will have exponential impact, we must allow for and embrace failure. Public Innovation will provide that space where failure can happen quickly and without great expense. We will push for iteration upon iteration until success toward a given problem is achieved. 
 
-## Our Timeline
+## Timeline
 
 Public Innovation's phased approach includes the following goals:
 
@@ -75,7 +75,7 @@ Public Innovation's phased approach includes the following goals:
     </tbody>
 </table>
 
-## Our Sustainability
+## Sustainability
 
 We are seeking $250,000 in initial seed funding. By our third year, we expect to be financially sustainable and by our fourth year, earned income will comprise 85 percent of total revenues.
 
@@ -86,11 +86,13 @@ Grants | $46,875 | $131,250 | $94,336 | $65,092 | $74,856
 Earned Income | $62,500 | $147,656 | $283,008 | $368,854 | $424,182
 TOTAL | $312,500 | $328,125 | $377,344 | $433,945 | $499,037
 
+
 Share of Revenue | 2014 | 2015 | 2016 | 2017 | 2018
 --- | --- | --- | --- | --- | ---
 Seed Capital | 65% | 15% | -- | -- | --
 Grants | 15% | 40% | 25% | 15% | 15%
 Earned Income | 20% | 45% | 75% | 85% | 85%
+
 
  | Phase One
 --- | ---
@@ -100,6 +102,6 @@ Profit/(Loss) | ($252,344)
 Commited Philanthropy | $0
 Capitalization Amount | ($252,344)
 
-Assuming we can get through Phase One, civic technology projects - the bulk of our earned income - will sustain our activities into Phase Two and beyond.
+Assuming we can get through Phase One, civic technology projects–the lion's share of our earned income strategy–will sustain our activities into Phase Two and beyond.
 
 #### [<< Forward](http://open.publicinnovation.org/chapters/forward/) | [Ch. 2: Need and Opportunity >>](http://open.publicinnovation.org/chapters/need-and-opportunity/)
