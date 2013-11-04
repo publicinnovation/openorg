@@ -6,7 +6,7 @@ chapter: 0
 permalink: /forward/
 ---
 
-November 4, 2013
+November 5, 2013
 
 Dear Reader:
 

@@ -21,7 +21,7 @@ Business, Technology and Creative Professionals | x | x
 Engaged Citizens | | x
 Potential Funders | x | 
 
-Regardless of whether we’re discussing the customer or user segments of our target market, all participants are collecitively identified as __change agents:__ individuals and organizations with an interest in helping to accelerate quality of life improvements across the Sacramento region.
+Regardless of whether we’re discussing the customer or user segments of our target market, all participants are collectively identified as __change agents:__ individuals and organizations with an interest in helping to accelerate quality of life improvements across the Sacramento region.
 
 ### 1. Public Servants
 
@@ -95,7 +95,7 @@ We believe content distribution is critical to our success and reflects one of t
 
 ### 3. Social Media Networks
 
-Social media allows us to distribute short-form content across many channels, although for the same reason these platforms are heavily saturated as they’ve become personal marketing tools for everyone who has somehting they want to share with the world. However, platforms such as Twitter have allowed us to connect with individuals and organizations at a global scale who are developing similar models to drive civic and social impact. Increasing awareness through social media continues to be an important component of our multichannel marketing efforts. 
+Social media allows us to distribute short-form content across many channels, although for the same reason these platforms are heavily saturated as they’ve become personal marketing tools for everyone who has something they want to share with the world. However, platforms such as Twitter have allowed us to connect with individuals and organizations at a global scale who are developing similar models to drive civic and social impact. Increasing awareness through social media continues to be an important component of our multichannel marketing efforts. 
 
 ### 4. Board, Advisors, and Partners
 

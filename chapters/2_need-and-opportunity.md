@@ -48,7 +48,7 @@ According to Harvard Professor and former Mayor of Indianapolis, Stephen Goldsmi
 
 >"With a structure designed for a simpler time, government has become ill-equipped to handle the complex task of solving our increasingly intractable social challenges. Even more fundamentally, though, government now must deliver its assistance not through traditional rule-bound hierarchical programs but through effective civic entrepreneurs operating in dense social and community networks (p. xxvi)."
 
-The same trends we're seeing in the tech sector are just beginning to impact the public sector becuase our expectations are changing.
+The same trends we're seeing in the tech sector are just beginning to impact the public sector because our expectations are changing.
 
 ## C. Root Causes
 
@@ -137,7 +137,7 @@ To truly innovate, the region needs the full weight of an entity committed to de
 
 The time is now. This business plan is based on models that are already working in leading cities across the country. We not only have the ability to join the larger community of civic innovators and social entrepreneurs, but the opportunity to break new ground in this space. Several characteristics of our approach are distinguishable:
 
-- *Regional Scope*. Citizens don’t just live in cities, but also metropolitan areas and regional economies. Recognizing the value of a regional approach allows us to see a larger system at work and enables us to scale our impact with replicalbe projects.  
+- *Regional Scope*. Citizens don’t just live in cities, but also metropolitan areas and regional economies. Recognizing the value of a regional approach allows us to see a larger system at work and enables us to scale our impact with replicable projects.  
 - *Interagency Emphasis*. As a state capital, we have unprecedented access to the inner-workings of policy development and implementation in the eighth largest economy in the world. We are well-positioned to help bridge the disconnect between state fiscal decisions and local service delivery by developing new data standards for a civic operating system.
 - *Support for Entrepreneurship*. We are committed to launching new social enterprises, as new solutions are developed that have a sustainable business model to drive social impact. Developing businesses that help entrepreneurs change the world while earning a living has the potential to attract outside funding to the region.
 - *External Entity*. As an organization that is network-based and outside of government, we will be able to take risks that public agencies cannot take on themselves. This flexibility allows us to create a “safe” space for the type of experimentation that is necessary for breakthrough innovations.

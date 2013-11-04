@@ -28,7 +28,7 @@ Similarly, we can extend concepts from social innovation to civic innovation sin
 
 ### 2. Public Value Co-Creation
 
-Like many social impact orgnazations, the value we create is not monetary and is, instead, less tangible. In Mark Moore's seminal work, *Creating Public Value*, he describes the work of government as follows: 
+Like many social impact organizations, the value we create is not monetary and is, instead, less tangible. In Mark Moore's seminal work, *Creating Public Value*, he describes the work of government as follows: 
 
 >“[T]he aim of managerial work in the public sector is to create public value just as the aim of managerial work in the private sector is to create private value (Moore, 28).”
 
@@ -44,7 +44,7 @@ Public policy and administration, as an academic field, largely ignores the expe
 
 >“Knowing how specific interactions are experienced by people is fundamental. We must therefore never forget that it is by seeing and knowing people and the wholeness of their lives, as they experience them, that we discover the insights that might lead to new innovative solutions (Bason, 155).”
 
-And often those interactions can be chockfull of painpoints. Design scholar Don Norman describes those difficult experiences we've all had:
+And often those interactions can be chock-full of painpoints. Design scholar Don Norman describes those difficult experiences we've all had:
 
 >“It is easy to find examples of the complexity of services: think of almost any interaction with a governmental agency. There are many potential sources of difficulties, from the interaction with government employees, the complex set of rules and regulations that must be followed, the complexities of the forms that must be filled out, and then to the impenetrable delays that occur as the request moves from one office to another, perhaps from one agency to another. Even if everyone is helpful and friendly, the sheer complexity of the operation coupled with the relatively poor interfaces among all the components can lead to frustrating experiences.  
 

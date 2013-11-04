@@ -8,6 +8,6 @@ permalink: /phase-one-action-plan/
 
 #### [<< Ch. 5: Implementation Strategy](http://open.publicinnovation.org/chapters/implementation-strategy/) | [Appendices >>](http://open.publicinnovation.org/chapters/appendices/)
 
-We are in the process of developing our Phase One Action Plan in consultation with our advisors and will publish the details as soon as they're available.
+We're in the process of developing our Phase One Action Plan in consultation with our advisors and will publish the details as soon as they're available.
 
 #### [<< Ch. 5: Implementation Strategy](http://open.publicinnovation.org/chapters/implementation-strategy/) | [Appendices >>](http://open.publicinnovation.org/chapters/appendices/)

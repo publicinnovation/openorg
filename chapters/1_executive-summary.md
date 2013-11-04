@@ -8,7 +8,7 @@ permalink: /executive-summary/
 
 #### [<< Forward](http://open.publicinnovation.org/chapters/forward/) | [Ch. 2: Need and Opportunity >>](http://open.publicinnovation.org/chapters/need-and-opportunity/)
 
-Founded in 2012, Public Innovation is an early stage place-based, impact-focused organization commited to building a civic innovation and social entrepreneurship ecosystem in the Sacramento region. Our mission is to accelerate measurable quality of life improvements by developing, testing, and scaling new forms of creative problem solving.
+Founded in 2012, Public Innovation is an early stage place-based, impact-focused organization committed to building a civic innovation and social entrepreneurship ecosystem in the Sacramento region. Our mission is to accelerate measurable quality of life improvements by developing, testing, and scaling new forms of creative problem solving.
 
 Our team has studied the best models from across the country and placed them within a single entity to drive civic and social impact in an integrated way. Our solutions are generating *with* people, not *for* people, and we believe in cultivating and leveraging latent human capital among public servants, social impact leaders, and engaged citizens.
 
@@ -21,7 +21,7 @@ In general, we employ the following process to the projects we pursue:
 1. __DISCOVERY:__ Identifying unmet needs and opportunities.				
 2. __IDEATION:__ Forcing serendipitous collisions to generate new ideas.
 3. __CO-PRODUCTION:__ Supporting the co-development of civic and social innovations.
-4. __INTRAPRENEURSHIP:__ Giving public pervants and social impact leaders the tools to evangelize change. 
+4. __INTRAPRENEURSHIP:__ Giving public servants and social impact leaders the tools to evangelize change. 
 5. __DEPLOYMENT:__ Deploying solutions through civic and social entrepreneurship.
 6. __STORYTELLING:__ Measuring progress and celebrating success.
 
@@ -81,9 +81,9 @@ We are seeking $250,000 in initial seed funding. By our third year, we expect to
 
 Revenue Source | 2014 | 2015 | 2016 | 2017 | 2018
 --- | --- | --- | --- | --- | ---
-Seed Capital | $203,125	| $49,219 | -- | -- | --
-Grants | $46,875 | $131,250 | $94,336 | $65,092 | $74,856
-Earned Income | $62,500 | $147,656 | $283,008 | $368,854 | $424,182
+Seed Capital | 203,125	| 49,219 | -- | -- | --
+Grants | $46,875 | 131,250 | 94,336 | 65,092 | 74,856
+Earned Income | 62,500 | 147,656 | 283,008 | 368,854 | 424,182
 TOTAL | $312,500 | $328,125 | $377,344 | $433,945 | $499,037
 
 
@@ -96,10 +96,10 @@ Earned Income | 20% | 45% | 75% | 85% | 85%
 
  | Phase One
 --- | ---
-Earned Revenues | $388,281
-Expenses | $640,625
-Profit/(Loss) | ($252,344)
-Commited Philanthropy | $0
+Earned Revenues | 388,281
+Expenses | 640,625
+Profit/(Loss) | (252,344)
+Committed Philanthropy | 0
 Capitalization Amount | ($252,344)
 
 Assuming we can get through Phase One, civic technology projects–the lion's share of our earned income strategy–will sustain our activities into Phase Two and beyond.
