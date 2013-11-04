@@ -6,7 +6,7 @@ chapter: 4
 permalink: /business-model/
 ---
 
-### [<< Ch. 3: Social Impact Model](chapters/social-impact-model/) | [Ch. 5: Implementation Strategy >>](chapters/implementation-strategy/)
+#### [<< Ch. 3: Social Impact Model](chapters/social-impact-model/) | [Ch. 5: Implementation Strategy >>](chapters/implementation-strategy/)
 
 ## A. Market Segments
 
@@ -265,4 +265,4 @@ Given the sexy nature of innovation, we hope to attract a set of media partners 
 
 ## References
 
-### [<< Ch. 3: Social Impact Model](http://open.publicinnovation.org/chapters/social-impact-model/) | [Ch. 5: Implementation Strategy >>](http://open.publicinnovation.org/chapters/implementation-strategy/)
+#### [<< Ch. 3: Social Impact Model](http://open.publicinnovation.org/chapters/social-impact-model/) | [Ch. 5: Implementation Strategy >>](http://open.publicinnovation.org/chapters/implementation-strategy/)

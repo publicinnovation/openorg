@@ -6,7 +6,7 @@ chapter: 0
 permalink: /forward/
 ---
 
-October 29, 2013
+November 4, 2013
 
 Dear Reader:
 
@@ -16,7 +16,7 @@ When I launched Public Innovation last year, it was with an explicit and deliber
 
 This, I would submit to you, is Sacramento’s greatest challenge: Will regional leaders embrace the uncertainty comes with change or will the comfort of predictable stability prevail?
 
-Public Innovation is an open platform for co-creation. Anyone with a good idea for improving our regional civic infrastructure and a willingness to roll up their sleeves to try something new will find a home here. This plan is all about how we're going to do that.
+Public Innovation is an open platform for co-creation. Anyone with a good idea for improving civic infrastructure and a willingness to roll up their sleeves to try something new will find a home here. This plan is all about how we're going to do that.
 
 We've titled our plan OpenOrg. Unlike most business plans, however, ours will never be finished. OpenOrg is more than just a plan—OpenOrg is the beginning of an effort to develop an open standard for open organizations. It's also our commitment to being an open, transparent, and emergent organization.
 
@@ -37,4 +37,4 @@ Sincerely,
 Ash Roughani  
 Founder + Chief Evangelist, Public Innovation
 
-### [Ch. 1: Executive Summary >>](http://open.publicinnovation.org/chapters/executive-summary/)
+#### [Ch. 1: Executive Summary >>](http://open.publicinnovation.org/chapters/executive-summary/)

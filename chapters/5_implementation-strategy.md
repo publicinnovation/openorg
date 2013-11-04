@@ -6,7 +6,7 @@ chapter: 5
 permalink: /implementation-strategy/
 ---
 
-### [<< Ch. 4: Business Model](http://open.publicinnovation.org/chapters/business-model/) | [Ch. 6: Phase One Action Plan >>](http://open.publicinnovation.org/chapters/phase-one-action-plan/)
+#### [<< Ch. 4: Business Model](http://open.publicinnovation.org/chapters/business-model/) | [Ch. 6: Phase One Action Plan >>](http://open.publicinnovation.org/chapters/phase-one-action-plan/)
 
 ## A. Business Plan Timeline			
 
@@ -297,4 +297,4 @@ All good things come to an end. While we will continuously evolve, it's not in o
 
 ## References
 
-### [<< Ch. 4: Business Model](http://open.publicinnovation.org/chapters/business-model/) | [Ch. 6: Phase One Action Plan >>](http://open.publicinnovation.org/chapters/phase-one-action-plan/)
+#### [<< Ch. 4: Business Model](http://open.publicinnovation.org/chapters/business-model/) | [Ch. 6: Phase One Action Plan >>](http://open.publicinnovation.org/chapters/phase-one-action-plan/)

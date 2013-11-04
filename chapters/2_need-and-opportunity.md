@@ -6,7 +6,7 @@ chapter: 2
 permalink: /need-and-opportunity/
 ---
 
-### [<< Ch. 1: Executive Summary](http://open.publicinnovation.org/chapters/executive-summary/) | [Ch. 3: Social Impact Model >>](http://open.publicinnovation.org/chapters/social-impact-model/)
+#### [<< Ch. 1: Executive Summary](http://open.publicinnovation.org/chapters/executive-summary/) | [Ch. 3: Social Impact Model >>](http://open.publicinnovation.org/chapters/social-impact-model/)
 
 ## A. The Problem
 
@@ -164,4 +164,4 @@ Most importantly, we were able to successfully identify a key source of earned i
 
 ## References
 
-### [<< Ch. 1: Executive Summary](http://open.publicinnovation.org/chapters/executive-summary/) | [Ch. 3: Social Impact Model >>](http://open.publicinnovation.org/chapters/social-impact-model/)
+#### [<< Ch. 1: Executive Summary](http://open.publicinnovation.org/chapters/executive-summary/) | [Ch. 3: Social Impact Model >>](http://open.publicinnovation.org/chapters/social-impact-model/)

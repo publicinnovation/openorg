@@ -6,7 +6,7 @@ chapter: 3
 permalink: /social-impact-model/
 ---
 
-### [<< Ch. 2: Need and Opportunity](http://open.publicinnovation.org/chapters/need-and-opportunity/) | [Ch. 4: Business Model >>](http://open.publicinnovation.org/chapters/business-model/)
+#### [<< Ch. 2: Need and Opportunity](http://open.publicinnovation.org/chapters/need-and-opportunity/) | [Ch. 4: Business Model >>](http://open.publicinnovation.org/chapters/business-model/)
 
 ## A. Overview of Organization
 
@@ -270,4 +270,4 @@ One of the most surprising findings in our work to date, is how much progress al
 
 ## References
 
-### [<< Ch. 2: Need and Opportunity](http://open.publicinnovation.org/chapters/need-and-opportunity/) | [Ch. 4: Business Model >>](http://open.publicinnovation.org/chapters/business-model/)
+#### [<< Ch. 2: Need and Opportunity](http://open.publicinnovation.org/chapters/need-and-opportunity/) | [Ch. 4: Business Model >>](http://open.publicinnovation.org/chapters/business-model/)
