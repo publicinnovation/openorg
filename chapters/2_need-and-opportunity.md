@@ -60,11 +60,19 @@ Today, we know that bureaucracy comes with a significant tradeoff in the context
 
 >"Every organization has a culture, that is, a persistent, patterned way of thinking about the central tasks of and human relationships within an organization. Culture is to an organization what personality is to an individual. Like human culture generally, it is passed on from one generation to the next. It changes slowly, if at all (p. 91)."
 
-Bureaucracy dehumanizes organizations and the people who work in them. Yet, culture is a paramount concern among leaders in today’s most prominent companies. But can a more human organizational culture be an antidote to bureaucracy? Khademian says:
+Bureaucracy dehumanizes organizations and the people who work in them. Yet, culture is a paramount concern among leaders in today’s most prominent companies. But can a more human organizational culture be an antidote to bureaucracy?
 
->"[T]he interest in culture as a public management tool is more than an imitation of business. It also reflects frustration with past reform efforts, a frustration shared by organizational scholars and public managers alike. In the past thirty years public managers have participated in many reform efforts, including management by objectives, performance program budgeting, zero-based budgeting, and decision making based upon cost-benefit analysis. The primary objective of these reforms was to rationalize the management of public programs by requiring agencies to be clear and more exacting in their decision making. While some of these reform efforts linger in the work of public organizations, most have gone by the wayside. However, today reformers argue that the key to reform is a change in culture—the less tangible and less formal dimension of an organization that can support or sabotage change (p. 7)."
+>“It is true that bureaucracies prefer the present to the future, the known to the unknown, and the dominant mission to rival missions; many agencies in fact are skeptical of things that were “NIH”–Not Invented Here. Every social grouping, whether a neighborhood, a nation, or an organization acquires a culture; changing that culture is like moving a cemetery: it is always difficult and some believe it is sacrilegious (Wilson, 368).”
 
-Or, as former President Clinton might say, "It's the culture, stupid."
+But Goldsmith argues that culture is not so immutable:
+
+>“So how might community leaders open up space for breakthrough civic accomplishments? They can do so by promoting a culture of innovation, providing information and forcing transparency, sponsoring events that create opportunities for social discoveries, and offering protection for those whose efforts, whether successful or not, challenge the status quo (Goldsmith, 74).”
+
+He further articulates the role of civic entrepreneurs:
+
+>“Civic progress requires that those who advocate for new interventions build a community of engaged citizens with the power to demand change in social-political systems. This is true whether the barriers come from iron triangles, bureaucrats, unions, or incumbent providers. Civic entrepreneurs enter the social realm to make a difference–to perform–and their passion and talent are often distinct from the legitimacy enjoyed by incumbent providers or the political support enjoyed by the well connected (Goldsmith, 140).”
+
+We can't wait for a change in culture to happen from within the system. Instead, we need to create a positive disruption from the outside.
 
 ## D. Environmental Landscape
 

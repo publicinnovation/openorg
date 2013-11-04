@@ -10,7 +10,7 @@ permalink: /social-impact-model/
 
 ## A. Overview of Organization
 
-Public Innovation is an incubator for civic and social innovations in the Sacramento region. Our core competency is bringing people together to solve public problems and improve the citizen experience. We believe that breakthrough solutions require the engagement of individuals and organizations from diverse backgrounds and sectors. By leveraging the creativity and collective capacity of all people, we’re able to cross-pollinate ideas that lead to new ways of accelerating quality of life improvements. In the end, however, the network itself is the true innovation.
+Public Innovation is an incubator for civic and social innovations in the Sacramento region. Our core competency is bringing people together to solve public problems and improve the citizen experience. We believe that breakthrough solutions require the engagement of individuals and organizations from diverse backgrounds and sectors. By leveraging the creativity and collective capacity of all people, we’re able to cross-pollinate ideas that lead to new ways of accelerating measurable quality of life improvements. In the end, however, the network itself is the true innovation.
 
 As a small startup, our goal is not to solve every problem, but to instead develop a set of tools that enable and empower collaboration at a community and regional level. We know that many organizations currently assume this role. However, what’s missing is a welcoming entry point for new players. We will be that entry point by providing resources and support for anyone who has a good idea and the drive to turn that idea into reality. In other words, we will be disrupting the status quo by enabling a new market and value network for civic and social innovations to flourish.
 
@@ -28,7 +28,7 @@ Similarly, we can extend concepts from social innovation to civic innovation sin
 
 ### 2. Public Value Co-Creation
 
-Like many social impact orgnazations, we the value we create is not monetary and is instead intangible. In Mark Moore's seminal work, *Creating Public Value*, he describes the work of government as follows: 
+Like many social impact orgnazations, the value we create is not monetary and is, instead, less tangible. In Mark Moore's seminal work, *Creating Public Value*, he describes the work of government as follows: 
 
 >“[T]he aim of managerial work in the public sector is to create public value just as the aim of managerial work in the private sector is to create private value (Moore, 28).”
 
@@ -47,21 +47,22 @@ Public policy and administration, as an academic field, largely ignores the expe
 And often those interactions can be chockfull of painpoints. Design scholar Don Norman describes those difficult experiences we've all had:
 
 >“It is easy to find examples of the complexity of services: think of almost any interaction with a governmental agency. There are many potential sources of difficulties, from the interaction with government employees, the complex set of rules and regulations that must be followed, the complexities of the forms that must be filled out, and then to the impenetrable delays that occur as the request moves from one office to another, perhaps from one agency to another. Even if everyone is helpful and friendly, the sheer complexity of the operation coupled with the relatively poor interfaces among all the components can lead to frustrating experiences.  
-The only way to solve the complexities of services is to treat them as systems, to design the entire experience as a whole. If each piece is designed in isolation, the end result may be of separate pieces that do not mesh well together (Norman, LWC, 147-8).”
 
-As such, we have developed our core capabilities to employ "design thinking" as a civic innovation tool. Tim Brown, president and CEO of the design firm IDEO describes design thinking as follows:
+>>The only way to solve the complexities of services is to treat them as systems, to design the entire experience as a whole. If each piece is designed in isolation, the end result may be of separate pieces that do not mesh well together (Norman, LWC, 147-8).”
+
+While this ideal poses significant challenges to a federalist system of government and a fractured state-local relationship, the role technology can fill as a front-end solution to the problems associated with human-government interaction becomes increasingly clear. As such, we have developed our core capabilities to employ "design thinking" as a civic innovation tool. Tim Brown, president and CEO of the design firm IDEO describes design thinking as follows:
 
 >“Design thinking is centered on innovating through the eyes of the end user and as such encourages in-the-field research that builds empathy for people, which results in deeper insights about their unmet needs. This focus helps avoid the common problem of enthusiastic ‘outsiders’ promoting inappropriate solutions and ensures that solutions are rooted in the needs and desires of the community (Brown, What Matters, 9).”
 
 These are just some of the concepts and principles we've incorporated into our social impact model.
 
-## B. Social Impact Model Diagram
+## B. Impact Model Components
 
 ### 1. Social Problem Definition
 
 Bureaucracy dehumanizes individuals and inhibits the inherent talent within an organization. This results in untapped value creation opportunities and arbitrarily constrains the potential collective capacity to generate new solutions to problems. Government is the poster child for bureaucracy and the Sacramento region is home to one of the largest subnational governments in the world.
 
-With a third of our workforce employed by government, there are significant implications that bureaucracy imposes on the culture of our region. We cannot isolate the impact that cumbersome rules, steep hierarchies, and overspecialization have on the mental models through which we see the world–whether we work in government or are customers of government. These mental models influence our perceptions of what’s possible and, therefore, affect our collective behavior. These impacts can manifest themselves in the form of would-be entrepreneurs wallowing in a risk-averse mindset, underserved youth lacking the confidence to challenge themselves academically, or artists being undervalued for the contributions they make building a vibrant creative community.
+With a third of our workforce employed by government, there are significant implications that bureaucracy imposes on the culture of our region. We cannot isolate the impact that cumbersome rules, steep hierarchies, and overspecialized positions have on the mental models through which we see the world–whether we work in government or are customers of government. These mental models influence our perceptions of what’s possible and, therefore, affect our collective behavior. These impacts can manifest themselves in the form of would-be entrepreneurs wallowing in a risk-averse mindset, underserved youth lacking the confidence to challenge themselves academically, or artists being undervalued for their contributions toward building a vibrant creative community.
 
 In short, Sacramento’s legacy consists of a culture of mediocrity that is, in large part, driven by the dominance of a government-industrial complex. This is no surprise, as many of the features of government are designed to maintain stability and, therefore, the status quo. While many organizations have attempted to modernize our civic operating systems, few if any efforts to address the culture itself have been attempted.
 
@@ -74,6 +75,7 @@ The mission of Public Innovation is to build the basic scaffolding of a civic in
 #### a. Social & Economic Impact
 
 To measure our social and economic impact, we will begin by with the following indicators:
+
 * Quality of life outcomes within areas where we pursue projects
 * Cost savings delivered to public agencies and nonprofit organizations
 * Longitudinal citizen satisfaction surveys
@@ -81,6 +83,7 @@ To measure our social and economic impact, we will begin by with the following i
 #### b. Organizational & Program Performance
 
 To measure our organizational and program performance, we will begin by with the following indicators:
+
 * Number of engaged users
 * Number of organizational partners per project
 * Number of total projects initiated
@@ -170,7 +173,7 @@ Table Comparing characteristic tendencies of closed vs. open systems
 
 Source: http://www.policycommons.org/?p=85 (also in IBM “Designing Open Projects")
 
-Because so much of the work of innovation requires a networked approach, we must create the spaces in which individuals and organizations can not only connect with each other, but also have a keen understanding of who’s doing what. This helps to avoid duplication of effort and ensures added value is consistently being contributed across the larger ecosystem.
+Because so much of the work of innovation requires a networked approach, we must create the spaces in which individuals and organizations can not only connect with each other, but also have a keen understanding of who’s doing what. This helps to avoid duplication of effort and ensures added value is consistently being distributed across the larger ecosystem.
 
 ### 2. Civic and Social Innovation Ecosystem
 
@@ -191,37 +194,43 @@ Human capital is our region’s most important asset and engaged residents form 
 
 #### b. Process
  
-As much as we do think nor work linearly, Public Innovation’s value processes reflect a six-step value chain, along which projects are initiated and solutions are deployed. Each component segments engagement among a diverse set of organizational partners and adds public value at each stage. A networked approach to the innovation process maximizes throughput and allows us to scale our impact across the Capital Region with replicable projects.
+As much as we don't think or work linearly, Public Innovation’s value processes reflect a six-step value chain, along which projects are initiated and solutions are deployed. Each component segments engagement among a diverse set of organizational partners and adds public value at each stage. A networked approach to the innovation process maximizes throughput and allows us to scale our impact across the Capital Region with replicable projects.
 					
 1. __DISCOVERY:__ *Identifying Unmet Needs and Opportunities* 
+
 Either an organization approaches us with a problem or citizens identify an opportunity to improve their communities through our our platform, CivicExchange. Although projects do not need to be initiated through this entry point, projects sought by proactive individuals and organizations will enjoy greater potential for impact.				
 
 2. __IDEATION:__ *Forcing Serendipitous Collisions to Generate New Ideas* 
+
 At CivicMeet Sacramento -- a monthly meetup for civic innovators from diverse backgrounds (including business, nonprofits, education, technology, and government), we co-design solutions to public problems. The more constraints, the more creative the ideas. This process also builds a community of citizens to support the successful adoption of the solutions they helped generate.
 
 3. __CO-PRODUCTION:__ *Supporting the Development of Civic Innovations* 
+
 At Public Innovation Labs -- a civic innovation incubator -- we design, build, and test improvements to the citizen experience and back-office process innovations for public agencies and social enterprises. We also provide resources and support to social entrepreneurs who want to voluntarily collaborate on civic projects.				
 
-4. __INTRAPRENEURSHIP:__ *Giving Public Servants and Nonprofit Leaders the Tools to Evangelize Change* 
+4. __INTRAPRENEURSHIP:__ *Giving Public Servants and Social Impact Leaders the Tools to Evangelize Change* 
+
 To prepare civic leaders and public administrators for emerging innovations, our Civic Entrepreneurship Network will support knowledge sharing and change management within government and social impact organizations. This will result in user generated content, best practices, and panel discussions among change agents who want to be catalysts for improving their organizations. We also seek to provide services and education to improve the culture within organizations throughout the region.		
 
 5. __DEPLOYMENT:__ *Deploying Solutions through Civic and Social Entrepreneurship* 
+
 Once refined, solutions are deployed by Innovation Delivery Teams -- strategic partnerships among public agencies, nonprofits, and businesses. Crowdfunding and social impact bonds can help address resource constraints to sustain their implementation. These teams will support the diffusion of civic innovations and their composition will vary on a project-by-project basis.	
 
 6. __STORYTELLING:__ *Measuring Progress and Celebrating Success* 
+
 Public Innovation is committed to nurturing development of the larger ecosystem through multichannel marketing and communications campaigns that highlight and reward creative problem solving. In addition to tracking and maintaining quality of life indicators, we produce compelling video stories to articulate the value proposition of civic entrepreneurship.
 
 Although this is our preferred process for project execution and reflects our theory of change, we will offer flexibility to clients who approach us with specific needs that do not require a comprehensive approach. Similarly, we expect our process to evolve based upon our analysis of key performance indicators. Lastly, while the process appears linear, it is often synchronous and iterative.
 
 #### c. Resources
 
-Resources enable capacity. While large-scale collaboration can afford significant capacity for a region, such efforts may lead to greater friction as the network grows. With that in mind, our intent is to provide the necessary resources that will reduce friction and activate the network. Specifically, our platform will perform this function.
+Resources enable capacity. While large-scale collaboration can afford significant capacity for a region, such efforts may lead to greater friction as the network grows. With that in mind, our intent is to provide the necessary resources that will reduce friction and activate the network. Specifically, our CivicExchange platform will perform this function.
 
 Beyond providing capacity to organizations, however, we also need to empower the human potential of impact-driven individuals. Through our outreach, we will discover entrepreneurial-minded changemakers and provide them with the space, mentorship, education, network, and risk capital they need to develop and test their ideas. Those who are able to successfully validate their business models, will be given additional support to accelerate their progress and take their ideas to market.
 
 #### d. Organizations
 
-The Sacramento region has many anchor institutions, including public agencies, universities, chambers of commerce, foundations, nonprofits, incubators, and backbone organizations. Each organization already plays a critical role in our communities. However, Public Innovation will ask the organizations to formally partner with us in building a regional civic and social innovation ecosystem. In other words, all the pieces are in place, but we will advance progress by connecting existing efforts in new ways and encouraging greater experimentation to drive impact.
+The Sacramento region has many anchor institutions, including public agencies, universities, chambers of commerce, foundations, nonprofits, incubators, and backbone organizations. Each organization already plays a critical role in our communities. However, Public Innovation will ask these organizations to formally partner with us to collectively build a regional civic and social innovation ecosystem. In other words, all the pieces are in place; but we'll advance progress by connecting existing efforts in new ways and encouraging greater experimentation to drive impact.
 
 #### e. Technology
 
@@ -230,23 +239,22 @@ While we are not technological solutionists, we believe that technology has a si
 ## D. Description of Social Impact Strategies
 
 Our basic strategy for driving social impact and accelerating quality of life improvements relies on recruiting, empowering, and connecting change agents. It is premised on the following:
-Recruting change agents
 
 ### 1. An Open Platform for Co-Creation
 
-Although the term platform generally refers to a type of technology, Public Innovation–the organization–is itself an open platform. While we intend to build a specific technology platform, CivicExchange, to allow for easier engagement, our social impact will be derived from a human capital multiplier effect that is the result of diverse people coming together to co-create change in-person. And by open, we mean anyone with the passion to make a positive dent will be able to roll up their sleeves and join.
+Although the term platform generally refers to a type of technology, Public Innovation–the organization–is itself an open platform. While we intend to build a specific technology platform, CivicExchange, to enable engagement, our social impact will be derived from a human capital multiplier effect that is the result of diverse people coming together to co-create change in-person. And by open, we mean anyone with the passion to make a positive dent will be able to roll up their sleeves and join.
 
 ### 2. Collective Impact
 
-Cross-sector collaboration also will be critical to driving impact. This will require the engagement of individuals and organization from the public, private, and nonprofit sectors. More importantly, however, it means a new paradigm in shared accountability. No longer is it acceptable for organizations and individuals to compete over who receives credit for success, much less over fixed slices of a pie. Everyone has a role to play and we need to acknowledge our interdependence and strive toward shared value.
+Cross-sector collaboration also will be critical to driving impact. This will require the engagement of individuals and organizations from the public, private, and nonprofit sectors. More importantly, however, it means a new paradigm in shared accountability. No longer is it acceptable for organizations and individuals to compete over who receives credit for success, much less over fixed slices of a pie. Everyone has a role to play and we need to acknowledge our interdependence and strive toward shared value.
 
 ### 3. Culture First
 
-Public Innovation made a concerted effort to focus on the implementation of public policy rather than on its development. That means we’re largely policy-agnostic and benefit from staying out of the political fray. Because creativity loves constraints and we’re confident in our organizational agility, we can adapt our approach to any policy environment. Similarly, much of our work will be filling in gaps that policy cannot fill. For example, policy is a good tool for setting priorities and creating incentives, but it cannot force an individual to want to change their behavior. According to Khademian:
+Public Innovation made a concerted effort to focus on the implementation of public policy rather than on its development. That means we’re largely policy-agnostic and benefit from staying out of the political fray. Because creativity loves constraints and we’re confident in our organizational agility, we can adapt our approach to any policy environment. Similarly, much of our work will involve filling gaps for which policy levers are insufficient. For example, policy is a good tool for setting priorities and creating incentives, but it cannot force individuals to want to change their behavior. According to Khademian:
 
 >“[T]he interest in culture as a public management tool is more than an imitation of business. It also reflects frustration with past reform efforts, a frustration shared by organizational scholars and public managers alike. In the past thirty years public managers have participated in many reform efforts, including management by objectives, performance program budgeting, zero-based budgeting, and decision making based upon cost-benefit analysis. The primary objective of these reforms was to rationalize the management of public programs by requiring agencies to be clear and more exacting in their decision making. While some of these reform efforts linger in the work of public organizations, most have gone by the wayside. However, today reformers argue that the key to reform is a change in culture–the less tangible and less formal dimension of an organization that can support or sabotage change (Khademian, 7).”
 
-By focusing on people and process, we believe that culture can change policy. And we flatly reject the idea that policy can change culture. Culture is an artifact of collective human behavior and we need to poke at the factors that motivate behavior rather than attempting force behavior change through policy.
+By focusing on people and process, we believe that culture can evenutally lead to necessary policy changes. And we flatly reject the idea that policy alone can change culture. Culture is an artifact of collective human behavior and we need to poke at the factors that motivate behavior rather than attempting to force behavior change through policy.
 
 Our “culture first” approach will tackle head-on distrust toward our public institutions. We intend to lead by example and reinforce a cycle of trust that will enable greater experimentation and risk-taking in the civic space.
 
@@ -258,15 +266,15 @@ We’re not just providing capacity for collaboration but, more importantly, cap
 
 As a civic incubator, we want to help innovators develop, test, and refine their ideas. We want to serve both public agencies and social entrepreneurs. Public agencies need a safe space where they can take risks, and fail early and often. This can be done without great expense to taxpayers and presumably has significant potential to improve outcomes and reduce costs in the long-run. In other words, we need to celebrate failure and change our perspectives if we want to generate truly breakthrough solutions. Our hypothesis is that, over time, the public will gradually begin to trust their government more than they do today.
 
-We also want to incubate new social enterprises and develop the next generation of change agents. In the past, the only way someone could make a difference outside of government was to start a nonprofit. Today there are a variety of alternative models for social impact including for-profit and hybrid organizations. 
+We also want to incubate new social enterprises and develop the next generation of change agents. In the past, the only way someone could make a difference outside of government was to become a political activist or start a nonprofit. Today there are a variety of alternative models for social impact including for-profit and hybrid organizations. 
 
 ### 6. Measuring Success
 
-Today’s ubiquity of open data means that it’s much easier to measure quality of life and our impact on its trajectory. Moreover, it gives us the opportunity to hold ourselves accountable for those outcomes which we’ve committed to achieving. Change is hard and it’s even more difficult to link an organization’s output to quality of life outcomes, particularly when macroeconomic and other societal factors . But there is intrinsic value in simply placing an organization’s outputs alongside the indicators it is working to improve, whether in education, health, or public safety. This juxtaposition can help members of the public better understand how change happens and, more importantly, inspire a conversation about what to do when we collectively fall off-track.
+Today’s ubiquity of open data means that it’s much easier to measure quality of life and our impact on its trajectory. Moreover, it gives us the opportunity to hold ourselves accountable for those outcomes which we’ve committed to achieve. Change is hard and it’s even more difficult to link an organization’s output to quality of life outcomes, particularly when macroeconomic and other societal factors are at play. But there is intrinsic value in simply placing an organization’s outputs alongside the indicators it is working to improve, whether in education, health, or public safety. This juxtaposition can help members of the public better understand how change happens and, more importantly, inspire a conversation about what to do when we collectively fall off-track.
 
 ### 7. Storytelling
 
-One of the most surprising findings in our work to date, is how much progress already is happening on the ground but of which there is little awareness. Today’s new media environment enables anyone with a camera phone to start their own TV station on YouTube. While that may be an overstatement, the cost of high-quality digital video production has dramatically fallen in recent years with the advent of DSLR cameras and other affordable tools for independent filmmakers. Similarly, the opportunities to curate user-generated content are virtually infinite. We are committed to telling the stories of innovators and their projects to raise awareness of and appreciation for the complex ecosystem that’s emerging.
+One of the most surprising findings in our work to date is how much progress already is happening on the ground, but of which there is little awareness. Today’s new media environment enables anyone with a camera phone to launch their own video channel on YouTube. While that may be an overstatement, the cost of high-quality digital video production has dramatically fallen in recent years with the advent of DSLR cameras and other affordable tools for independent filmmakers. Similarly, the opportunities to curate user-generated content are virtually infinite. We are committed to telling the stories of innovators and their projects to raise awareness of and appreciation for the complex ecosystem that’s emerging.
 
 ## References
 
