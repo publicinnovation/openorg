@@ -56,7 +56,7 @@ While this ideal poses significant challenges to a federalist system of governme
 
 These are just some of the concepts and principles we've incorporated into our social impact model.
 
-## B. Impact Model Components
+## B. Social Impact Model
 
 ### 1. Social Problem Definition
 
@@ -96,7 +96,7 @@ We envision a day when the Sacramento region is viewed by outsiders as the Silic
 
 Our vision is for a radically different civic experience than exists today and one in which anyone with a good idea to improve our shared civic infrastructure will have the tools at their disposal to co-create the changes they want to see in their organizations and communities. Together we will disrupt bureaucracy.
 
-## C. Description of Operating Model
+## C. Operating Model
 
 ### 1. Open Platform
 
@@ -196,7 +196,7 @@ Human capital is our region’s most important asset and engaged residents form 
  
 As much as we don't think or work linearly, Public Innovation’s value processes reflect a six-step value chain, along which projects are initiated and solutions are deployed. Each component segments engagement among a diverse set of organizational partners and adds public value at each stage. A networked approach to the innovation process maximizes throughput and allows us to scale our impact across the Capital Region with replicable projects.
 					
-1. __DISCOVERY:__ *Identifying Unmet Needs and Opportunities* // Either an organization approaches us with a problem or citizens identify an opportunity to improve their communities through our our platform, CivicExchange. Although projects do not need to be initiated through this entry point, projects sought by proactive individuals and organizations will enjoy greater potential for impact.
+1. __DISCOVERY:__ *Identifying Unmet Needs and Opportunities* <br /> Either an organization approaches us with a problem or citizens identify an opportunity to improve their communities through our our platform, CivicExchange. Although projects do not need to be initiated through this entry point, projects sought by proactive individuals and organizations will enjoy greater potential for impact.
 
 2. __IDEATION:__ *Forcing Serendipitous Collisions to Generate New Ideas* // At CivicMeet Sacramento--a monthly meetup for civic innovators from diverse backgrounds (including business, nonprofits, education, technology, and government), we co-design solutions to public problems. The more constraints, the more creative the ideas. This process also builds a community of citizens to support the successful adoption of the solutions they helped generate.
 
@@ -224,7 +224,7 @@ The Sacramento region has many anchor institutions, including public agencies, u
 
 While we are not technological solutionists, we believe that technology has a significant role to play in connecting the ecosystem and lowering the barriers to collaboration. In the past, technology was viewed as a tool for engineers. Today, however, the most successful technologies are platforms that are simple, beautiful, easy-to-use, and solve real problems. Treated as a discipline of art and humanities, rather than electrical engineering, form always follows function. Our platform will simplify our users’ interaction within the civic and social innovation ecosystem. People need to quickly be able to find answers to their questions, contribute to the platform, and, ultimately, connect and engage with each other. Following the 80/20 rule, our platform will only be 20 percent of the solution while people and process are the other 80 percent.
 
-## D. Description of Social Impact Strategies
+## D. Social Impact Strategies
 
 Our basic strategy for driving social impact and accelerating quality of life improvements relies on recruiting, empowering, and connecting change agents. It is premised on the following:
 
