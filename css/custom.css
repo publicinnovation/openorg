@@ -14,7 +14,11 @@ h4 > a {
 }
 
 blockquote > p {
-  font-size: 1.3em
+  font-size: 1.2em
+}
+
+.bs-docs-section p {
+  margin-top: 10px;
 }
 
 .navbar-brand, .navbar-text, .dropdown-menu > li > a {
