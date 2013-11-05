@@ -266,6 +266,7 @@ One of the most surprising findings in our work to date is how much progress alr
 - Bason, C. (2010). *Leading Public Sector Innovation: Co-creating for a Better Society*. The Policy Press.
 - Brown, T. (2012). "Why social innovators need design thinking." McKinsey and Company. Retrieved from http://voices.mckinseyonsociety.com/why-social-innovators-need-design-thinking/
 - Ewing Marion Kauffman Foundation. (2012, October 9). "Entrepreneur Guru Brad Feld Illustrates How to Build a Startup Community in New Kauffman Sketchbook Video." Retrieved from http://www.kauffman.org/newsroom/2012/10/entrepreneur-guru-brad-feld-illustrates-how-to-build-a-startup-community-in-new-kauffman-sketchbook-video 
+- Hargadon, A.(2003). *How Breakthroughs Happen: The Surprising Truth About How Companies Innovate*. Harvard Business School Press.
 - Khademian, A. (2002). *Working with Culture: The Way the Job Gets Done in Public Programs.* CQ Press.
 - McKinsey and Company (2012). *Can fresh thinking solve the world’s most intractable problems?*. Retrieved from http://mckinseyonsociety.com/downloads/reports/Social-Innovation/SocialInnovationPages_Online_March%2021.pdf
 - Moore, M.H. (1995). *Creating Public Value: Strategic Management in Government*. Harvard University Press.
