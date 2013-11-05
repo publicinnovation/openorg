@@ -243,3 +243,51 @@ h4 > a {
 .bs-docs-section > h2 {
   font-family: "quatro-slab", sans-serif;
 }
+
+#email_signup .form-control {
+  font-size: inherit;
+  height: 42px;
+}
+
+#email_signup .btn {
+  font-size: inherit;
+}
+
+/* custom button with our signature blue/cyan */
+.btn-cyan {
+  color: #ffffff;
+  background-color: #00aeef;
+  border-color: #0091c8;
+}
+.btn-cyan:hover,
+.btn-cyan:focus,
+.btn-cyan:active,
+.btn-cyan.active,
+.open .dropdown-toggle.btn-cyan {
+  color: #ffffff;
+  background-color: #0091c8;
+  border-color: #0083b4;
+}
+.btn-cyan:active,
+.btn-cyan.active,
+.open .dropdown-toggle.btn-cyan {
+  background-image: none;
+}
+.btn-cyan.disabled,
+.btn-cyan[disabled],
+fieldset[disabled] .btn-cyan,
+.btn-cyan.disabled:hover,
+.btn-cyan[disabled]:hover,
+fieldset[disabled] .btn-cyan:hover,
+.btn-cyan.disabled:focus,
+.btn-cyan[disabled]:focus,
+fieldset[disabled] .btn-cyan:focus,
+.btn-cyan.disabled:active,
+.btn-cyan[disabled]:active,
+fieldset[disabled] .btn-cyan:active,
+.btn-cyan.disabled.active,
+.btn-cyan[disabled].active,
+fieldset[disabled] .btn-cyan.active {
+  background-color: #00aeef;
+  border-color: #0091c8;
+}
