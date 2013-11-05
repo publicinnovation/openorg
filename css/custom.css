@@ -13,6 +13,10 @@ h4 > a {
   color: #00aeef;
 }
 
+blockquote > p {
+  font-size: 1.3em
+}
+
 .navbar-brand, .navbar-text, .dropdown-menu > li > a {
   font-family: "proxima-nova", sans-serif;
   font-size: 1.2em;
@@ -260,11 +264,6 @@ h4 > a {
 }
 
 .bs-docs-section {
-  margin-top: 10px;
-  padding-top: 10px;
-}
-
-.bs-docs-section p {
   margin-top: 10px;
   padding-top: 10px;
 }
