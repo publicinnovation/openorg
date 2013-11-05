@@ -394,4 +394,6 @@ All good things come to an end. While we will continuously evolve, it's not in o
 
 ## References
 
+<br />
+
 #### [<< Ch. 4: Business Model](http://open.publicinnovation.org/chapters/business-model/) | [Ch. 6: Phase One Action Plan >>](http://open.publicinnovation.org/chapters/phase-one-action-plan/)

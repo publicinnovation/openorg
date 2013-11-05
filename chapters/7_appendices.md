@@ -20,4 +20,6 @@ Coming soon.
 ## D. 2012 Design Briefs
 Coming soon.
 
+<br />
+
 #### [<< Ch. 6: Phase One Action Plan](http://open.publicinnovation.org/chapters/phase-one-action-plan/)

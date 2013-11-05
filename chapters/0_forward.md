@@ -37,4 +37,6 @@ Sincerely,
 Ash Roughani  
 Founder + Chief Evangelist, Public Innovation
 
+<br />
+
 #### [Ch. 1: Executive Summary >>](http://open.publicinnovation.org/chapters/executive-summary/)

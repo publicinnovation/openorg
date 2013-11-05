@@ -347,4 +347,6 @@ The primary cost of our operations will comprise salaries. We project our first 
 
 ## References
 
+<br />
+
 #### [<< Ch. 3: Social Impact Model](http://open.publicinnovation.org/chapters/social-impact-model/) | [Ch. 5: Implementation Strategy >>](http://open.publicinnovation.org/chapters/implementation-strategy/)

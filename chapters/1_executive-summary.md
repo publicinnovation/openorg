@@ -205,4 +205,6 @@ We are seeking $250,000 in initial seed funding. By our third year, we expect to
 
 Assuming we can get through Phase One, civic technology projects&mdash;the lion's share of our earned income strategy&mdash;will sustain our activities into Phase Two and beyond.
 
+<br />
+
 #### [<< Forward](http://open.publicinnovation.org/chapters/forward/) | [Ch. 2: Need and Opportunity >>](http://open.publicinnovation.org/chapters/need-and-opportunity/)

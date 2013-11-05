@@ -266,4 +266,6 @@ One of the most surprising findings in our work to date is how much progress alr
 
 ## References
 
+<br />
+
 #### [<< Ch. 2: Need and Opportunity](http://open.publicinnovation.org/chapters/need-and-opportunity/) | [Ch. 4: Business Model >>](http://open.publicinnovation.org/chapters/business-model/)
