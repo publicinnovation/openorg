@@ -290,18 +290,60 @@ Given the nature of innovation, we hope to attract a set of media partners who a
 
 The primary cost of our operations will comprise salaries. We project our first five years of costs to consist of the following:
 
-class="table table-bordered"
-
-
-
-
-Expenses | 2014 | 2015 | 2016 | 2017 | 2018
---- | --- | --- | --- | --- | ---
-Fiscal Sponsor | 31,250 | 32,813 | 0 | 0 | 0
-Social Innovation Fund | 6,250 | 14,766 | 28,301 | 36,885 | 42,418
-Salaries & Benefits | 246,560 | 255,357 | 335,358 | 347,112 | 359,389
-Rent & Utilities | 3,600 | 12,000 | 24,000 | 24,000 | 24,000
-TOTAL | 287,660 | 314,935 | 387,658 | 407,998 | 425,807
+<table class="table table-bordered">
+	<thead>
+		<tr>
+			<th> Expenses </th>
+			<th> 2014 </th>
+			<th> 2015 </th>
+			<th> 2016 </th>
+			<th> 2017 </th>
+			<th> 2018 </th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td> Fiscal Sponsor </td>
+			<td> 31,250 </td>
+			<td> 32,813 </td>
+			<td> 0 </td>
+			<td> 0 </td>
+			<td> 0 </td>
+		</tr>
+		<tr>
+			<td> Social Innovation Fund </td>
+			<td> 6,250 </td>
+			<td> 14,766 </td>
+			<td> 28,301 </td>
+			<td> 36,885 </td>
+			<td> 42,418</td>
+		</tr>
+		<tr>
+			<td>Salaries &amp; Benefits </td>
+			<td> 246,560 </td>
+			<td> 255,357 </td>
+			<td> 335,358 </td>
+			<td> 347,112 </td>
+			<td> 359,389</td>
+		</tr>
+		<tr>
+			<td>Rent &amp; Utilities </td>
+			<td> 3,600 </td>
+			<td> 12,000 </td>
+			<td> 24,000 </td>
+			<td> 24,000 </td>
+			<td> 24,000</td>
+		</tr>
+		<tr>
+			<td> TOTAL </td>
+			<td> $287,660 </td>
+			<td> $314,935 </td>
+			<td> $387,658 </td>
+			<td> $407,998 </td>
+			<td> $425,807</td>
+		</tr>
+	</tbody>
+</table>
 
 ## References
 

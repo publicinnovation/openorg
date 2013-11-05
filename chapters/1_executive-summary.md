@@ -175,7 +175,7 @@ We are seeking $250,000 in initial seed funding. By our third year, we expect to
 <table class="table table-bordered">
 	<thead>
 		<tr>
-			<th></th>
+			<th> </th>
 			<th> Phase One</th>
 		</tr>
 	</thead>
