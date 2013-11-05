@@ -24,15 +24,12 @@ h4 > a {
   color: #000000;
 }
 
-.navbar-nav {
-  margin: 0px -15px;
-}
-
 .navbar-text {
-  margin-top: 10px;
-  margin-bottom: 0px;
-  padding-bottom: 5px;
-  padding-right: 15px;
+  margin-top: inherit;
+  margin-bottom: inherit;
+  position: relative;
+  display: block;
+  padding: 10px 15px;
 }
 
 .btn-outline {
@@ -150,11 +147,6 @@ h4 > a {
     color: #444444;
     background-color: transparent;
   }
-}
-
-.nav-brand {
-  margin-right: 0;
-  margin-left: 0;
 }
 
 /* ******************* */
