@@ -202,10 +202,10 @@ Phase One of our plan comprises the first two years of operation, 2014-15, when 
 			<td> Committed Philanthropy </td>
 			<td> 0 </td>
 		</tr>
-		<tr>
+		<tr><strong>
 			<td> Capitalization Amount </td>
 			<td> ($252,344) </td>
-		</tr>
+		</strong></tr>
 	</tbody>
 </table>
 
@@ -299,21 +299,21 @@ Although seed funding would be spent across the first two years, 80 percent of t
       <td> 368,854 </td>
       <td> 424,182 </td>
     </tr>
-    <tr>
+    <tr><strong>
       <td> TOTAL </td>
       <td> $312,500 </td>
       <td> $328,125 </td>
       <td> $377,344 </td>
       <td> $433,945 </td>
       <td> $499,037 </td>
-    </tr>
+    </strong></tr>
     <tr>
    </tbody>
 </table>
 
 #### e. Sustainability
 
-We do not anticipate becoming sustainable until the end of Year Three, in 2016–also the beginning of Phase Two. As detailed in Chapter 4, our earned income strategy is our path to reaching that point and will consist of a diversified revenue mix across the following sources:
+We do not anticipate becoming sustainable until the end of Year Three, in 2016&mdash;also the beginning of Phase Two. As detailed in Chapter 4, our earned income strategy is our path to reaching that point and will consist of a diversified revenue mix across the following sources:
 
 * Fee-for-Service
 * Channel Partnerships

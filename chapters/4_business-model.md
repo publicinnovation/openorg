@@ -12,7 +12,7 @@ permalink: /business-model/
 
 As a nonprofit, we draw a distinction between customers and users. By __customers__, we refer specifically to those individuals and organizations that generate revenue for Public Innovation. This includes funding sources such as foundations, public agencies, other nonprofits, corporate sponsors, and individual donors. In contrast, our __users__ are those individuals and organizations who engage on our platform and benefit from our activities.
 
-<table class="table table-bordered">
+<table class="table table-striped">
 	<thead>
 		<tr>
 			<th> Segment </th>
@@ -118,7 +118,7 @@ The basic question our channels will answer is how best to reach our users and c
 
 ### 1. CivicExchange
 
-The new publicinnovation.org will serve as our primary engagement platform. While we have no intention of building *yet another social network*, we will create a secure, authenticated area of our site, my.publicinnovation.org—that we are coining the Civic Exchange. The concept of the Civic Exchange was first conceived by a team at the first CivicMeet Sacramento event and adds additional elements from a subsequent CivicMeet idea, the Human Capital Connector. The platform will enable frictionless collaboration to drive civic action. We’ll employ an agile, build/measure/learn development cycle to add new features over time, based on the activity and feedback of our users. A beta version of the platform will enable users to express their interest in programs and projects based on their profile. 
+The new publicinnovation.org will serve as our primary engagement platform. While we have no intention of building *yet another social network*, we will create a secure, authenticated area of our site, my.publicinnovation.org&mdash;that we are coining CivicExchange. The concept of CivicExchange was first conceived by a team at the first CivicMeet Sacramento event and adds additional elements from a subsequent CivicMeet idea, the Human Capital Connector. The platform will enable frictionless collaboration to drive civic action. We’ll employ an agile, build > measure > learn development cycle to add new features over time, based on the activity and feedback of our users. A beta version of the platform will enable users to express their interest in programs and projects based on their profile. 
 
 ### 2. Media
 
@@ -162,27 +162,27 @@ We will offer a suite of services through our Public Innovation Labs program. Th
 
 ##### i. Civic Technology
    
-   Our civic technology services include custom web and mobile application development, ranging from basic websites to fully integrated, cross-platform applications that fill a variety of needs. We also provide user experience consulting, including visual design, interaction design, information architecture, usability testing, user research, and content strategy. Similarly, we’re capable of deploying crowdsourcing tools such as ideation platforms and text message/SMS voting for live events. We also build tools to streamline back-office functions and integrate databases with custom application programming interfaces (APIs).
+Our civic technology services include custom web and mobile application development, ranging from basic websites to fully integrated, cross-platform applications that fill a variety of needs. We also provide user experience consulting, including visual design, interaction design, information architecture, usability testing, user research, and content strategy. Similarly, we’re capable of deploying crowdsourcing tools such as ideation platforms and text message/SMS voting for live events. We also build tools to streamline back-office functions and integrate databases with custom application programming interfaces (APIs).
 
 ##### ii. Citizen Experience Design
    
-   We’re interested in helping public agencies provide delightful experiences to their constituents through the application of human centered design. By blending our unique expertise in user experience and public administration, we’re capable of identifying and solving the unmet needs of citizens. This capability is especially helpful for transactions that require interactions with multiple agencies across different levels of government. We provide service design, ethnographic research, and prototyping services to minimize the number of touchpoints a citizen must encounter to solve a particular problem.
+We’re interested in helping public agencies provide delightful experiences to their constituents through the application of human centered design. By blending our unique expertise in user experience and public administration, we’re capable of identifying and solving the unmet needs of citizens. This capability is especially helpful for transactions that require interactions with multiple agencies across different levels of government. We provide service design, ethnographic research, and prototyping services to minimize the number of touchpoints a citizen must encounter to solve a particular problem.
 
 ##### iii. Placemaking
    
-   While we do not currently have the internal capabilities to support placemaking services, we can refer clients to our partners who specialize in creating public spaces that maximize happiness. Services such as community visioning, urban planning, and prototyping will create greater opportunities for serendipity. Celebrating public spaces reinforces our commitment to building community and moving urban innovation forward throughout the region.
+While we do not currently have the internal capabilities to support placemaking services, we can refer clients to our partners who specialize in creating public spaces that maximize happiness. Services such as community visioning, urban planning, and prototyping will create greater opportunities for serendipity. Celebrating public spaces reinforces our commitment to building community and moving urban innovation forward throughout the region.
 
 ##### iv. Social Innovation + Entrepreneurship
    
-   Public Innovation’s Impact Incubator will be a space for developing social entrepreneurs and their ideas. Through business development activities, we we'll help aspiring changemakers craft and test their business models to drive social impact. We'll provide workspace, mentorship, and risk capital to those with the most promising ideas. Similarly, we'll create an innovation fund that will enable others to engage in regional impact investing and in which Public Innovation will invest. We'll also leverage crowdfunding and social impact bonds to fund specific projects for which such tools are appropriate.
+Public Innovation’s Impact Incubator will be a space for developing social entrepreneurs and their ideas. Through business development activities, we we'll help aspiring changemakers craft and test their business models to drive social impact. We'll provide workspace, mentorship, and risk capital to those with the most promising ideas. Similarly, we'll create an innovation fund that will enable others to engage in regional impact investing and in which Public Innovation will invest. We'll also leverage crowdfunding and social impact bonds to fund specific projects for which such tools are appropriate.
 
 ##### v. Organizational Development
    
-   Public Innovation will support intrapreneurs–entrepreneurial-minded individuals who want to create change within their organizations (instead of launching new ventures)–through our Public Innovation Fellows Program. We expect our fellows to primarily come from public agencies and nonprofits in the region, but also are open to allowing participation by private sector intrapreneurs. Additionally, for those organizations seeking organizational development consulting services, we can refer them to our partners who possess greater expertise in this area. 
+Public Innovation will support intrapreneurs&mdash;entrepreneurial-minded individuals who want to create change within their organizations (instead of launching new ventures)&mdash;through our Public Innovation Fellows Program. We expect our fellows to primarily come from public agencies and nonprofits in the region, but also are open to allowing participation by private sector intrapreneurs. Additionally, for those organizations seeking organizational development consulting services, we can refer them to our partners who possess greater expertise in this area. 
 
 ##### vi. Storytelling
    
-   Although we aim to have impact that creates a measurable difference in peoples’ lives, it’s critical that we tell those stories in a compelling way to create further demand for our work. Specifically, we use video as our preferred medium and are working to develop aggregated content distribution channels that enable all individuals and organizations working to make a difference to tell their stories, as well. We're at a unique moment in history where we can take advantage of the opportunity to reach an unprecedented audience at minimal cost.
+Although we aim to have impact that creates a measurable difference in peoples’ lives, it’s critical that we tell those stories in a compelling way to create further demand for our work. Specifically, we use video as our preferred medium and are working to develop aggregated content distribution channels that enable all individuals and organizations working to make a difference to tell their stories, as well. We're at a unique moment in history where we can take advantage of the opportunity to reach an unprecedented audience at minimal cost.
 
 #### b. Channel Partnerships
 
@@ -200,7 +200,7 @@ Regardless of which channel partnership model we pursue with a particular compan
 
 #### c. Corporate Sponsorships
 
-Aside from fee-for-service and channel partnerships, our last earned income revenue stream will be through corporate sponsorships. This is distinct from corporate donors who give tax-deductible donations and, instead, refers to our private sector partners to whom we'll offer marketing opportunities–provided there is alignment between our efforts. Such sponsorships will help us offset the costs of specific projects and events, and provide opportunities for companies in the region to expand their involvement in the community through corporate social responsibility.
+Aside from fee-for-service and channel partnerships, our last earned income revenue stream will be through corporate sponsorships. This is distinct from corporate donors who give tax-deductible donations and, instead, refers to our private sector partners to whom we'll offer marketing opportunities&mdash;provided there is alignment between our efforts. Such sponsorships will help us offset the costs of specific projects and events, and provide opportunities for companies in the region to expand their involvement in the community through corporate social responsibility.
 
 ## F. Key Resources
 
@@ -214,7 +214,7 @@ Human capital is our most important asset. One premise behind Public Innovation 
 
 ### 2. Trust
 
-We intend to be a transparent organization. In fact, this plan is just a starting point for the conceptual OpenOrg standard we are developing. OpenOrg will define the parameters by which non-governmental organizations can achieve transparency in a way that enables meaningful analysis of the social impact sector utilizing standardized, machine readable data. But we are not pushing transparency for transparency's sake; instead, we believe transparency will foster trust among our partners and members of the public. And much of that trust is derived from our openness–meaning that, as a platform organization, anyone is welcome to be part and parcel of the process. In other words, we gain trust not from the information we disclose, but rather the opportunities we provide for others to co-create impact. Many of our current institutional structures inhibit this type of radical openness, but development of the Internet itself has validated the proposition that the rate of progress accelerates when anyone is empowered to make a positive contribution.
+We intend to be a transparent organization. In fact, this plan is just a starting point for the conceptual OpenOrg standard we are developing. OpenOrg will define the parameters by which non-governmental organizations can achieve transparency in a way that enables meaningful analysis of the social impact sector utilizing standardized, machine readable data. But we are not pushing transparency for transparency's sake; instead, we believe transparency will foster trust among our partners and members of the public. And much of that trust is derived from our openness&mdash;meaning that, as a platform organization, anyone is welcome to be part and parcel of the process. In other words, we gain trust not from the information we disclose, but rather the opportunities we provide for others to co-create impact. Many of our current institutional structures inhibit this type of radical openness, but development of the Internet itself has validated the proposition that the rate of progress accelerates when anyone is empowered to make a positive contribution.
 
 ### 3. Talent
 
@@ -234,7 +234,7 @@ To achieve strength in numbers, we must focus on building community. That means 
 
 ### 2. Civic Innovation
 
-Our civic innovation activities will primarily involve the development of civic technologies that better connect individuals to their communities, and their communities to the larger region. Our approach to civic innovation is differentiated from our approach to social innovation insofar as there is a greater emphasis on the work by public agencies and other areas of governmental influence–versus those areas typically under the purview of nonprofit organizations. We believe there are limitless opportunities to invent the future of human-government interaction (clearly borrowing from the field of human-computer interaction). Highlighting and rewarding the work of creative public servants will be key to validating and advancing new approaches to public administration.
+Our civic innovation activities will primarily involve the development of civic technologies that better connect individuals to their communities, and their communities to the larger region. Our approach to civic innovation is differentiated from our approach to social innovation insofar as there is a greater emphasis on the work by public agencies and other areas of governmental influence&mdash;versus those areas typically under the purview of nonprofit organizations. We believe there are limitless opportunities to invent the future of human-government interaction (clearly borrowing from the field of human-computer interaction). Highlighting and rewarding the work of creative public servants will be key to validating and advancing new approaches to public administration.
 
 ### 3. Social Innovation
 
@@ -334,14 +334,14 @@ The primary cost of our operations will comprise salaries. We project our first 
 			<td> 24,000 </td>
 			<td> 24,000</td>
 		</tr>
-		<tr>
+		<tr><strong>
 			<td> TOTAL </td>
 			<td> $287,660 </td>
 			<td> $314,935 </td>
 			<td> $387,658 </td>
 			<td> $407,998 </td>
 			<td> $425,807</td>
-		</tr>
+		</strong></tr>
 	</tbody>
 </table>
 

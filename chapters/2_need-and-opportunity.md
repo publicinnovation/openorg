@@ -20,9 +20,9 @@ At the local level, new models of co-creation are laying a foundation of civic i
 
 ## B. Current Trends
 
-Discussions about job creation and investment largely overlook the need to innovate within the public sector. Rather, public agencies—including our universities, healthcare institutions, and local governments—are positioned as tools for accelerating private investment. While this is a laudable goal, a different set of strategies and tactics must be developed to leverage the value creation potential within the civic space itself.
+Discussions about job creation and investment largely overlook the need to innovate within the public sector. Rather, public agencies&mdash;including our universities, healthcare institutions, and local governments&mdash;are positioned as tools for accelerating private investment. While this is a laudable goal, a different set of strategies and tactics must be developed to leverage the value creation potential within the civic space itself.
 
-*Next Economy*—a high profile regional economic development initiative led by the Sacramento Metro Chamber, the Sacramento Area Commerce and Trade Organization (SACTO), the Sacramento Area Regional Technology Alliance (SARTA) and Valley Vision—prioritizes the following five goals to increase investment and create jobs:
+*Next Economy*&mdash;a high profile regional economic development initiative led by the Sacramento Metro Chamber, the Sacramento Area Commerce and Trade Organization (SACTO), the Sacramento Area Regional Technology Alliance (SARTA) and Valley Vision&mdash;prioritizes the following five goals to increase investment and create jobs:
 
 1. Foster a strong innovation environment.
 2. Amplify the Region’s global market transactions.
@@ -36,7 +36,7 @@ With regard to the third goal, diversifying the economy, the Next Economy plan n
 
 Even an optimistic outlook means that one-in-four residents will work in the public sector ten years from now (today, it’s almost one-in-three). The California Legislature literally would need to relocate the state capital to another region in order to make a meaningful dent in our share of public sector employment. Fostering a strong innovation environment must include changing the culture of government.
 
-So what’s the state of trust in government? Although trust is greatest at the local level–where it's closest to the people, distrust in state government has a negative impact on how the Capital region is perceived.
+So what’s the state of trust in government? Although trust is greatest at the local level&mdash;where it's closest to the people, distrust in state government has a negative impact on how the Capital region is perceived.
 
 [INSERT TRUST IN GOVERNMENT CHART]
 
@@ -54,7 +54,7 @@ The same trends we're seeing in the tech sector are just beginning to impact the
 
 To guard against misuse of public funds, reformers of the early 20th Century brought in a new wave of rules and systems that restrict how resources could be allocated. In addition to strict accounting principles, disclosure and transparency were believed to be the best way of protecting against abuses. In former U.S. Supreme Court Justice Louis Brandeis’ words,“If the broad light of day could be let in upon men’s actions, it would purify them as the sun disinfects.”
 
-Bureaucracies serve an important purpose by enabling accountability. But accountability for what? Rules, hierarchy, and specialization are input-driven features to efficiently allocate decision-making and responsibility. For example, if fiscal mismanagement occurs, bureaucratic structures allow political leaders to assign blame. In fact, it was Woodrow Wilson–the father of public administration–who first proposed separating politics from administration to protect the public trust from abuses. Similarly, Frederick Taylor’s principles of scientific management assumed that every process has a single, optimal method.
+Bureaucracies serve an important purpose by enabling accountability. But accountability for what? Rules, hierarchy, and specialization are input-driven features to efficiently allocate decision-making and responsibility. For example, if fiscal mismanagement occurs, bureaucratic structures allow political leaders to assign blame. In fact, it was Woodrow Wilson&mdash;the father of public administration&mdash;who first proposed separating politics from administration to protect the public trust from abuses. Similarly, Frederick Taylor’s principles of scientific management assumed that every process has a single, optimal method.
 
 Today, we know that bureaucracy comes with a significant tradeoff in the context of organizational culture. According to scholar James Q. Wilson:
 
@@ -70,7 +70,7 @@ But Goldsmith argues that culture is not so immutable:
 
 He further articulates the role of civic entrepreneurs:
 
->“Civic progress requires that those who advocate for new interventions build a community of engaged citizens with the power to demand change in social-political systems. This is true whether the barriers come from iron triangles, bureaucrats, unions, or incumbent providers. Civic entrepreneurs enter the social realm to make a difference–to perform–and their passion and talent are often distinct from the legitimacy enjoyed by incumbent providers or the political support enjoyed by the well connected (Goldsmith, 140).”
+>“Civic progress requires that those who advocate for new interventions build a community of engaged citizens with the power to demand change in social-political systems. This is true whether the barriers come from iron triangles, bureaucrats, unions, or incumbent providers. Civic entrepreneurs enter the social realm to make a difference&mdash;to perform&mdash;and their passion and talent are often distinct from the legitimacy enjoyed by incumbent providers or the political support enjoyed by the well connected (Goldsmith, 140).”
 
 We can't wait for a change in culture to happen from within the system. Instead, we need to create a positive disruption from the outside.
 
@@ -173,7 +173,7 @@ __Strategy #3: Develop a Culture of Innovation__
 
 #### Progress to Date
 
-Over the past year, Public Innovation’s model for impact has evolved from one that was largely focused on public sector innovation—within the confines of public agencies—to a more holistic model that addresses civic innovation at a systems level. Our current model integrates not just the roles of public servants, but also calls on leaders within nonprofits, the business community, and among everyday citizens to be part of a co-creative process to transform our civic culture.
+Over the past year, Public Innovation’s model for impact has evolved from one that was largely focused on public sector innovation&mdash;within the confines of public agencies&mdash;to a more holistic model that addresses civic innovation at a systems level. Our current model integrates not just the roles of public servants, but also calls on leaders within nonprofits, the business community, and among everyday citizens to be part of a co-creative process to transform our civic culture.
 
 To date, we’ve held six CivicMeet Sacramento meetups, launched Code for Sacramento, participated in several hackathons, facilitated a course on social innovation, co-sponsored a design workshop with leaders from Google, attended the Mayors Innovation Summit in Philadelphia, and engaged hundreds of Sacramentans in the process. Additionally, we’ve recruited an A-list of advisors from myriad sectors. The past year also has allowed us to experiment and determine which strategies will and will not work. For example, our renewed focus on citizen engagement is not only important for fostering the exchange of ideas among diverse perspectives, but also to create an environment where citizens are more tolerant of safe risk-taking by their public officials. Creating this external “authorizing environment” proved to be more feasible than going directly into public agencies and creating change from within.
 

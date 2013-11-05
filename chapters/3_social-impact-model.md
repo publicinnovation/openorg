@@ -34,9 +34,9 @@ Like many social impact organizations, the value we create is not monetary and i
 
 In the context of civic innovation, co-creation is critical to reinventing how public value is generated. Christian Bason, director of innovation for the Danish government, describes co-creation as follows: 
 
->“Co-creation, a term first used by management thinkers Prahalad and Ramaswamy, is used in this book to characterise a creation process where new solutions are designed *with* people, not *for* them. This challenges how public managers think about their roles in policy development, going far beyond committee meetings, traditional stakeholder hearings and customer research. Co-creation is strongly connected to notions of ‘participatory design’, ‘co-design’, ‘design attitude’ and ‘design thinking’–approaches that in recent years have been emphasised as absolutely central to innovation (Bason, 8).”
+>“Co-creation, a term first used by management thinkers Prahalad and Ramaswamy, is used in this book to characterise a creation process where new solutions are designed *with* people, not *for* them. This challenges how public managers think about their roles in policy development, going far beyond committee meetings, traditional stakeholder hearings and customer research. Co-creation is strongly connected to notions of ‘participatory design’, ‘co-design’, ‘design attitude’ and ‘design thinking’–-approaches that in recent years have been emphasised as absolutely central to innovation (Bason, 8).”
 
-We repeatedly use the term co-creation to reflect our commitment to developing new ideas by bridging diverse perspectives–particularly among those most affected by the specific problems we choose to solve.
+We repeatedly use the term co-creation to reflect our commitment to developing new ideas by bridging diverse perspectives&mdash;particularly among those most affected by the specific problems we choose to solve.
 
 ### 3. A Better Civic Experience by Design
 
@@ -196,29 +196,17 @@ Human capital is our region’s most important asset and engaged residents form 
  
 As much as we don't think or work linearly, Public Innovation’s value processes reflect a six-step value chain, along which projects are initiated and solutions are deployed. Each component segments engagement among a diverse set of organizational partners and adds public value at each stage. A networked approach to the innovation process maximizes throughput and allows us to scale our impact across the Capital Region with replicable projects.
 					
-1. __DISCOVERY:__ *Identifying Unmet Needs and Opportunities* 
+1. __DISCOVERY:__ *Identifying Unmet Needs and Opportunities* // Either an organization approaches us with a problem or citizens identify an opportunity to improve their communities through our our platform, CivicExchange. Although projects do not need to be initiated through this entry point, projects sought by proactive individuals and organizations will enjoy greater potential for impact.
 
-Either an organization approaches us with a problem or citizens identify an opportunity to improve their communities through our our platform, CivicExchange. Although projects do not need to be initiated through this entry point, projects sought by proactive individuals and organizations will enjoy greater potential for impact.				
+2. __IDEATION:__ *Forcing Serendipitous Collisions to Generate New Ideas* // At CivicMeet Sacramento--a monthly meetup for civic innovators from diverse backgrounds (including business, nonprofits, education, technology, and government), we co-design solutions to public problems. The more constraints, the more creative the ideas. This process also builds a community of citizens to support the successful adoption of the solutions they helped generate.
 
-2. __IDEATION:__ *Forcing Serendipitous Collisions to Generate New Ideas* 
+3. __CO-PRODUCTION:__ *Supporting the Development of Civic Innovations* // At Public Innovation Labs -- a civic innovation incubator -- we design, build, and test improvements to the citizen experience and back-office process innovations for public agencies and social enterprises. We also provide resources and support to social entrepreneurs who want to voluntarily collaborate on civic projects.				
 
-At CivicMeet Sacramento -- a monthly meetup for civic innovators from diverse backgrounds (including business, nonprofits, education, technology, and government), we co-design solutions to public problems. The more constraints, the more creative the ideas. This process also builds a community of citizens to support the successful adoption of the solutions they helped generate.
+4. __INTRAPRENEURSHIP:__ *Giving Public Servants and Social Impact Leaders the Tools to Evangelize Change* // To prepare civic leaders and public administrators for emerging innovations, our Civic Entrepreneurship Network will support knowledge sharing and change management within government and social impact organizations. This will result in user generated content, best practices, and panel discussions among change agents who want to be catalysts for improving their organizations. We also seek to provide services and education to improve the culture within organizations throughout the region.		
 
-3. __CO-PRODUCTION:__ *Supporting the Development of Civic Innovations* 
+5. __DEPLOYMENT:__ *Deploying Solutions through Civic and Social Entrepreneurship* // Once refined, solutions are deployed by Innovation Delivery Teams--strategic partnerships among public agencies, nonprofits, and businesses. Crowdfunding and social impact bonds can help address resource constraints to sustain their implementation. These teams will support the diffusion of civic innovations and their composition will vary on a project-by-project basis.	
 
-At Public Innovation Labs -- a civic innovation incubator -- we design, build, and test improvements to the citizen experience and back-office process innovations for public agencies and social enterprises. We also provide resources and support to social entrepreneurs who want to voluntarily collaborate on civic projects.				
-
-4. __INTRAPRENEURSHIP:__ *Giving Public Servants and Social Impact Leaders the Tools to Evangelize Change* 
-
-To prepare civic leaders and public administrators for emerging innovations, our Civic Entrepreneurship Network will support knowledge sharing and change management within government and social impact organizations. This will result in user generated content, best practices, and panel discussions among change agents who want to be catalysts for improving their organizations. We also seek to provide services and education to improve the culture within organizations throughout the region.		
-
-5. __DEPLOYMENT:__ *Deploying Solutions through Civic and Social Entrepreneurship* 
-
-Once refined, solutions are deployed by Innovation Delivery Teams -- strategic partnerships among public agencies, nonprofits, and businesses. Crowdfunding and social impact bonds can help address resource constraints to sustain their implementation. These teams will support the diffusion of civic innovations and their composition will vary on a project-by-project basis.	
-
-6. __STORYTELLING:__ *Measuring Progress and Celebrating Success* 
-
-Public Innovation is committed to nurturing development of the larger ecosystem through multichannel marketing and communications campaigns that highlight and reward creative problem solving. In addition to tracking and maintaining quality of life indicators, we produce compelling video stories to articulate the value proposition of civic entrepreneurship.
+6. __STORYTELLING:__ *Measuring Progress and Celebrating Success* // Public Innovation is committed to nurturing development of the larger ecosystem through multichannel marketing and communications campaigns that highlight and reward creative problem solving. In addition to tracking and maintaining quality of life indicators, we produce compelling video stories to articulate the value proposition of civic entrepreneurship.
 
 Although this is our preferred process for project execution and reflects our theory of change, we will offer flexibility to clients who approach us with specific needs that do not require a comprehensive approach. Similarly, we expect our process to evolve based upon our analysis of key performance indicators. Lastly, while the process appears linear, it is often synchronous and iterative.
 
@@ -242,7 +230,7 @@ Our basic strategy for driving social impact and accelerating quality of life im
 
 ### 1. An Open Platform for Co-Creation
 
-Although the term platform generally refers to a type of technology, Public Innovation–the organization–is itself an open platform. While we intend to build a specific technology platform, CivicExchange, to enable engagement, our social impact will be derived from a human capital multiplier effect that is the result of diverse people coming together to co-create change in-person. And by open, we mean anyone with the passion to make a positive dent will be able to roll up their sleeves and join.
+Although the term platform generally refers to a type of technology, Public Innovation&mdash;the organization&mdash;is itself an open platform. While we intend to build a specific technology platform, CivicExchange, to enable engagement, our social impact will be derived from a human capital multiplier effect that is the result of diverse people coming together to co-create change in-person. And by open, we mean anyone with the passion to make a positive dent will be able to roll up their sleeves and join.
 
 ### 2. Collective Impact
 
@@ -252,9 +240,9 @@ Cross-sector collaboration also will be critical to driving impact. This will re
 
 Public Innovation made a concerted effort to focus on the implementation of public policy rather than on its development. That means we’re largely policy-agnostic and benefit from staying out of the political fray. Because creativity loves constraints and we’re confident in our organizational agility, we can adapt our approach to any policy environment. Similarly, much of our work will involve filling gaps for which policy levers are insufficient. For example, policy is a good tool for setting priorities and creating incentives, but it cannot force individuals to want to change their behavior. According to Khademian:
 
->“[T]he interest in culture as a public management tool is more than an imitation of business. It also reflects frustration with past reform efforts, a frustration shared by organizational scholars and public managers alike. In the past thirty years public managers have participated in many reform efforts, including management by objectives, performance program budgeting, zero-based budgeting, and decision making based upon cost-benefit analysis. The primary objective of these reforms was to rationalize the management of public programs by requiring agencies to be clear and more exacting in their decision making. While some of these reform efforts linger in the work of public organizations, most have gone by the wayside. However, today reformers argue that the key to reform is a change in culture–the less tangible and less formal dimension of an organization that can support or sabotage change (Khademian, 7).”
+>“[T]he interest in culture as a public management tool is more than an imitation of business. It also reflects frustration with past reform efforts, a frustration shared by organizational scholars and public managers alike. In the past thirty years public managers have participated in many reform efforts, including management by objectives, performance program budgeting, zero-based budgeting, and decision making based upon cost-benefit analysis. The primary objective of these reforms was to rationalize the management of public programs by requiring agencies to be clear and more exacting in their decision making. While some of these reform efforts linger in the work of public organizations, most have gone by the wayside. However, today reformers argue that the key to reform is a change in culture--the less tangible and less formal dimension of an organization that can support or sabotage change (Khademian, 7).”
 
-By focusing on people and process, we believe that culture can evenutally lead to necessary policy changes. And we flatly reject the idea that policy alone can change culture. Culture is an artifact of collective human behavior and we need to poke at the factors that motivate behavior rather than attempting to force behavior change through policy.
+By focusing on people and process, we believe that culture can eventually lead to necessary policy changes. And we flatly reject the idea that policy alone can change culture. Culture is an artifact of collective human behavior and we need to poke at the factors that motivate behavior rather than attempting to force behavior change through policy.
 
 Our “culture first” approach will tackle head-on distrust toward our public institutions. We intend to lead by example and reinforce a cycle of trust that will enable greater experimentation and risk-taking in the civic space.
 

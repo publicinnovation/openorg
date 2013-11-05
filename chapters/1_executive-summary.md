@@ -117,14 +117,14 @@ We are seeking $250,000 in initial seed funding. By our third year, we expect to
       <td> 368,854 </td>
       <td> 424,182 </td>
     </tr>
-    <tr>
+    <tr><strong>
       <td> TOTAL </td>
       <td> $312,500 </td>
       <td> $328,125 </td>
       <td> $377,344 </td>
       <td> $433,945 </td>
       <td> $499,037 </td>
-    </tr>
+    </strong></tr>
     <tr>
    </tbody>
 </table>
@@ -196,13 +196,13 @@ We are seeking $250,000 in initial seed funding. By our third year, we expect to
 			<td> Committed Philanthropy </td>
 			<td> 0 </td>
 		</tr>
-		<tr>
+		<tr><strong>
 			<td> Capitalization Amount </td>
 			<td> ($252,344) </td>
-		</tr>
+		</strong></tr>
 	</tbody>
 </table>
 
-Assuming we can get through Phase One, civic technology projects–the lion's share of our earned income strategy–will sustain our activities into Phase Two and beyond.
+Assuming we can get through Phase One, civic technology projects&mdash;the lion's share of our earned income strategy&mdash;will sustain our activities into Phase Two and beyond.
 
 #### [<< Forward](http://open.publicinnovation.org/chapters/forward/) | [Ch. 2: Need and Opportunity >>](http://open.publicinnovation.org/chapters/need-and-opportunity/)
