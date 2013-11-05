@@ -117,15 +117,14 @@ We are seeking $250,000 in initial seed funding. By our third year, we expect to
       <td> 368,854 </td>
       <td> 424,182 </td>
     </tr>
-    <tr><strong>
-      <td> TOTAL </td>
-      <td> $312,500 </td>
-      <td> $328,125 </td>
-      <td> $377,344 </td>
-      <td> $433,945 </td>
-      <td> $499,037 </td>
-    </strong></tr>
     <tr>
+      <td><strong> TOTAL </strong></td>
+      <td><strong> $312,500 </strong></td>
+      <td><strong> $328,125 </strong></td>
+      <td><strong> $377,344 </strong></td>
+      <td><strong> $433,945 </strong></td>
+      <td><strong> $499,037 </strong></td>
+    </tr>
    </tbody>
 </table>
 
@@ -196,10 +195,10 @@ We are seeking $250,000 in initial seed funding. By our third year, we expect to
 			<td> Committed Philanthropy </td>
 			<td> 0 </td>
 		</tr>
-		<tr><strong>
-			<td> Capitalization Amount </td>
-			<td> ($252,344) </td>
-		</strong></tr>
+		<tr>
+			<td><strong> Capitalization Amount </strong></td>
+			<td><strong> ($252,344) </strong></td>
+		</tr>
 	</tbody>
 </table>
 

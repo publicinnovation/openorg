@@ -202,10 +202,10 @@ Phase One of our plan comprises the first two years of operation, 2014-15, when 
 			<td> Committed Philanthropy </td>
 			<td> 0 </td>
 		</tr>
-		<tr><strong>
-			<td> Capitalization Amount </td>
-			<td> ($252,344) </td>
-		</strong></tr>
+		<tr>
+			<td><strong> Capitalization Amount </strong></td>
+			<td><strong> ($252,344) </strong></td>
+		</tr>
 	</tbody>
 </table>
 
@@ -299,15 +299,14 @@ Although seed funding would be spent across the first two years, 80 percent of t
       <td> 368,854 </td>
       <td> 424,182 </td>
     </tr>
-    <tr><strong>
-      <td> TOTAL </td>
-      <td> $312,500 </td>
-      <td> $328,125 </td>
-      <td> $377,344 </td>
-      <td> $433,945 </td>
-      <td> $499,037 </td>
-    </strong></tr>
     <tr>
+      <td><strong> TOTAL </strong></td>
+      <td><strong> $312,500 </strong></td>
+      <td><strong> $328,125 </strong></td>
+      <td><strong> $377,344 </strong></td>
+      <td><strong> $433,945 </strong></td>
+      <td><strong> $499,037 </strong></td>
+    </tr>
    </tbody>
 </table>
 

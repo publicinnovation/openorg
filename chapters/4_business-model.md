@@ -334,14 +334,14 @@ The primary cost of our operations will comprise salaries. We project our first 
 			<td> 24,000 </td>
 			<td> 24,000</td>
 		</tr>
-		<tr><strong>
-			<td> TOTAL </td>
-			<td> $287,660 </td>
-			<td> $314,935 </td>
-			<td> $387,658 </td>
-			<td> $407,998 </td>
-			<td> $425,807</td>
-		</strong></tr>
+		<tr>
+			<td><strong> TOTAL </strong></td>
+			<td><strong> $287,660 </strong></td>
+			<td><strong> $314,935 </strong></td>
+			<td><strong> $387,658 </strong></td>
+			<td><strong> $407,998 </strong></td>
+			<td><strong> $425,807 </strong></td>
+		</tr>
 	</tbody>
 </table>
 
