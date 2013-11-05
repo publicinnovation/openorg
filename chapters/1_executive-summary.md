@@ -35,7 +35,7 @@ Innovation is not a methodology, but a mindset. To incubate the ideas that will 
 
 Public Innovation's phased approach includes the following goals:
 
-<table>
+<table class="table table-bordered">
     <thead>
         <tr>
 	       	<th>Phase</th>
@@ -79,28 +79,129 @@ Public Innovation's phased approach includes the following goals:
 
 We are seeking $250,000 in initial seed funding. By our third year, we expect to be financially sustainable and by our fourth year, earned income will comprise 85 percent of total revenues.
 
-Revenue Source | 2014 | 2015 | 2016 | 2017 | 2018
---- | --- | --- | --- | --- | ---
-Seed Capital | 203,125	| 49,219 | -- | -- | --
-Grants | $46,875 | 131,250 | 94,336 | 65,092 | 74,856
-Earned Income | 62,500 | 147,656 | 283,008 | 368,854 | 424,182
-TOTAL | $312,500 | $328,125 | $377,344 | $433,945 | $499,037
+<br />
 
+<table class="table table-bordered">
+    <thead>
+        <tr>
+	       	<th> Revenue Source </th>
+	        <th> 2014 </th>
+	        <th> 2015 </th>
+	       	<th> 2016 </th>
+	        <th> 2017 </th>
+	        <th> 2018 </th>
+	    </tr>
+    </thead>
+    <tbody>
+    <tr>
+      <td> Seed Capital </td>
+      <td> 203,125 </td>
+      <td> 49,219 </td>
+      <td> - </td>
+      <td> - </td>
+      <td> - </td>
+    </tr>
+    <tr>
+      <td> Grants </td>
+      <td> 46,875 </td>
+      <td> 131,250 </td>
+      <td> 94,336 </td>
+      <td> 65,092 </td>
+      <td> 74,856 </td>
+    </tr>
+    <tr>
+      <td> Earned Income </td>
+      <td> 62,500 </td>
+      <td> 147,656 </td>
+      <td> 283,008 </td>
+      <td> 368,854 </td>
+      <td> 424,182 </td>
+    </tr>
+    <tr>
+      <td> TOTAL </td>
+      <td> $312,500 </td>
+      <td> $328,125 </td>
+      <td> $377,344 </td>
+      <td> $433,945 </td>
+      <td> $499,037 </td>
+    </tr>
+    <tr>
+   </tbody>
+</table>
 
-Share of Revenue | 2014 | 2015 | 2016 | 2017 | 2018
---- | --- | --- | --- | --- | ---
-Seed Capital | 65% | 15% | -- | -- | --
-Grants | 15% | 40% | 25% | 15% | 15%
-Earned Income | 20% | 45% | 75% | 85% | 85%
+<br />
 
+<table class="table table-bordered">
+	<thead>
+		<tr>
+			<th> Share of Revenue </th>
+			<th> 2014 </th>
+			<th> 2015 </th>
+			<th> 2016 </th>
+			<th> 2017 </th>
+			<th> 2018 </th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td> Seed Capital </td>
+			<td> 65% </td>
+			<td> 15% </td>
+			<td> - </td>
+			<td> - </td>
+			<td> - </td>
+		</tr>
+		<tr>
+			<td> Grants </td>
+			<td> 15% </td>
+			<td> 40% </td>
+			<td> 25% </td>
+			<td> 15% </td>
+			<td> 15%</td>
+		</tr>
+		<tr>
+			<td> Earned Income </td>
+			<td> 20% </td>
+			<td> 45% </td>
+			<td> 75% </td>
+			<td> 85% </td>
+			<td> 85%</td>
+		</tr>
+	</tbody>
+</table>
 
- | Phase One
---- | ---
-Earned Revenues | 388,281
-Expenses | 640,625
-Profit/(Loss) | (252,344)
-Committed Philanthropy | 0
-Capitalization Amount | ($252,344)
+<br />
+
+<table class="table table-bordered">
+	<thead>
+		<tr>
+			<th></th>
+			<th> Phase One</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td> Earned Revenues </td>
+			<td> 388,281</td>
+		</tr>
+		<tr>
+			<td> Expenses </td>
+			<td> 640,625 </td>
+		</tr>
+		<tr>
+			<td> Profit/(Loss) </td>
+			<td> (252,344) </td>
+		</tr>
+		<tr>
+			<td> Committed Philanthropy </td>
+			<td> 0 </td>
+		</tr>
+		<tr>
+			<td> Capitalization Amount </td>
+			<td> ($252,344) </td>
+		</tr>
+	</tbody>
+</table>
 
 Assuming we can get through Phase One, civic technology projects–the lion's share of our earned income strategy–will sustain our activities into Phase Two and beyond.
 

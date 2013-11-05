@@ -12,14 +12,47 @@ permalink: /business-model/
 
 As a nonprofit, we draw a distinction between customers and users. By __customers__, we refer specifically to those individuals and organizations that generate revenue for Public Innovation. This includes funding sources such as foundations, public agencies, other nonprofits, corporate sponsors, and individual donors. In contrast, our __users__ are those individuals and organizations who engage on our platform and benefit from our activities.
 
-Segment | Customers | Users
---- | --- | ---
-Public Servants | x | x
-Social Impact Leaders | x | x
-Aspiring Changemakers | | x
-Business, Technology and Creative Professionals | x | x
-Engaged Citizens | | x
-Potential Funders | x | 
+<table class="table table-bordered">
+	<thead>
+		<tr>
+			<th> Segment </th>
+			<th> Customers </th>
+			<th> Users </th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td> Public Servants </td>
+			<td> x </td>
+			<td> x </td>
+		</tr>
+		<tr>
+			<td> Social Impact Leaders </td>
+			<td> x </td>
+			<td> x </td>
+		</tr>
+		<tr>
+			<td> Aspiring Changemakers </td>
+			<td> </td>
+			<td> x </td>
+		</tr>
+		<tr>
+			<td> Business, Technology, and Creative Professionals </td>
+			<td> x </td>
+			<td> x </td>
+		</tr>
+		<tr>
+			<td>Engaged Citizens </td>
+			<td> </td>
+			<td> x </td>
+		</tr>
+		<tr>
+			<td> Potential Funders </td>
+			<td> x </td>
+			<td> </td>
+		</tr>
+	</tbody>
+</table>
 
 Regardless of whether we’re discussing the customer or user segments of our target market, all participants are collectively identified as __change agents:__ individuals and organizations with an interest in helping to accelerate quality of life improvements across the Sacramento region.
 
@@ -257,7 +290,13 @@ Given the nature of innovation, we hope to attract a set of media partners who a
 
 The primary cost of our operations will comprise salaries. We project our first five years of costs to consist of the following:
 
+class="table table-bordered"
+
+
+
+
 Expenses | 2014 | 2015 | 2016 | 2017 | 2018
+--- | --- | --- | --- | --- | ---
 Fiscal Sponsor | 31,250 | 32,813 | 0 | 0 | 0
 Social Innovation Fund | 6,250 | 14,766 | 28,301 | 36,885 | 42,418
 Salaries & Benefits | 246,560 | 255,357 | 335,358 | 347,112 | 359,389
