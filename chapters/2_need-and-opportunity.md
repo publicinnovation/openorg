@@ -22,7 +22,7 @@ At the local level, new models of co-creation are laying a foundation of civic i
 
 Discussions about job creation and investment largely overlook the need to innovate within the public sector. Rather, public agencies&mdash;including our universities, healthcare institutions, and local governments&mdash;are positioned as tools for accelerating private investment. While this is a laudable goal, a different set of strategies and tactics must be developed to leverage the value creation potential within the civic space itself.
 
-*Next Economy*&mdash;a high profile regional economic development initiative led by the Sacramento Metro Chamber, the Sacramento Area Commerce and Trade Organization (SACTO), the Sacramento Area Regional Technology Alliance (SARTA) and Valley Vision&mdash;prioritizes the following five goals to increase investment and create jobs:
+[Next Economy](http://www.nexteconomycapitalregion.org/)&mdash;a high profile regional economic development initiative led by the Sacramento Metro Chamber, the Sacramento Area Commerce and Trade Organization (SACTO), the Sacramento Area Regional Technology Alliance (SARTA) and Valley Vision&mdash;prioritizes the following five goals to increase investment and create jobs (Next Economy, 2013):
 
 1. Foster a strong innovation environment.
 2. Amplify the Region’s global market transactions.
@@ -32,7 +32,7 @@ Discussions about job creation and investment largely overlook the need to innov
 
 With regard to the third goal, diversifying the economy, the Next Economy plan notes:
 
->"According to recent U.S. employment statistics, the Capital Region’s government workforce is one of the largest per capita of any metropolitan region in the United States. Government has been a valuable contributor to the Region’s economy and there is little question that the presence of government has dampened the effects of past economic downturns. In the face of current economic and financial realities, however, forecasts call for flat to negative employment in the government sector for the foreseeable future (p. 28)."
+>"According to recent U.S. employment statistics, the Capital Region’s government workforce is one of the largest per capita of any metropolitan region in the United States. Government has been a valuable contributor to the Region’s economy and there is little question that the presence of government has dampened the effects of past economic downturns. In the face of current economic and financial realities, however, forecasts call for flat to negative employment in the government sector for the foreseeable future (28)."
 
 Even an optimistic outlook means that one-in-four residents will work in the public sector ten years from now (today, it’s almost one-in-three). The California Legislature literally would need to relocate the state capital to another region in order to make a meaningful dent in our share of public sector employment. Fostering a strong innovation environment must include changing the culture of government.
 
@@ -44,9 +44,9 @@ When it comes to government performance, we consistently accept the fact that pu
 
 And yet, we live in an era of disruption. When legacy companies fail to adapt their business models to new market conditions, startups can enter the marketplace and not only cannibalize market share faster than at any other point in history, but create new value networks and markets in the process. This is known as disruptive innovation.
 
-According to Harvard Professor and former Mayor of Indianapolis, Stephen Goldsmith:
+According to Harvard Professor and former Mayor of Indianapolis, Stephen Goldsmith (2010):
 
->"With a structure designed for a simpler time, government has become ill-equipped to handle the complex task of solving our increasingly intractable social challenges. Even more fundamentally, though, government now must deliver its assistance not through traditional rule-bound hierarchical programs but through effective civic entrepreneurs operating in dense social and community networks (p. xxvi)."
+>"With a structure designed for a simpler time, government has become ill-equipped to handle the complex task of solving our increasingly intractable social challenges. Even more fundamentally, though, government now must deliver its assistance not through traditional rule-bound hierarchical programs but through effective civic entrepreneurs operating in dense social and community networks (xxvi)."
 
 The same trends we're seeing in the tech sector are just beginning to impact the public sector because our expectations are changing.
 
@@ -56,9 +56,9 @@ To guard against misuse of public funds, reformers of the early 20th Century bro
 
 Bureaucracies serve an important purpose by enabling accountability. But accountability for what? Rules, hierarchy, and specialization are input-driven features to efficiently allocate decision-making and responsibility. For example, if fiscal mismanagement occurs, bureaucratic structures allow political leaders to assign blame. In fact, it was Woodrow Wilson&mdash;the father of public administration&mdash;who first proposed separating politics from administration to protect the public trust from abuses. Similarly, Frederick Taylor’s principles of scientific management assumed that every process has a single, optimal method.
 
-Today, we know that bureaucracy comes with a significant tradeoff in the context of organizational culture. According to scholar James Q. Wilson:
+Today, we know that bureaucracy comes with a significant tradeoff in the context of organizational culture. According to scholar James Q. Wilson (1989):
 
->"Every organization has a culture, that is, a persistent, patterned way of thinking about the central tasks of and human relationships within an organization. Culture is to an organization what personality is to an individual. Like human culture generally, it is passed on from one generation to the next. It changes slowly, if at all (p. 91)."
+>"Every organization has a culture, that is, a persistent, patterned way of thinking about the central tasks of and human relationships within an organization. Culture is to an organization what personality is to an individual. Like human culture generally, it is passed on from one generation to the next. It changes slowly, if at all (91)."
 
 Bureaucracy dehumanizes organizations and the people who work in them. Yet, culture is a paramount concern among leaders in today’s most prominent companies. But can a more human organizational culture be an antidote to bureaucracy?
 
@@ -66,11 +66,11 @@ Bureaucracy dehumanizes organizations and the people who work in them. Yet, cult
 
 But Goldsmith argues that culture is not so immutable:
 
->“So how might community leaders open up space for breakthrough civic accomplishments? They can do so by promoting a culture of innovation, providing information and forcing transparency, sponsoring events that create opportunities for social discoveries, and offering protection for those whose efforts, whether successful or not, challenge the status quo (Goldsmith, 74).”
+>“So how might community leaders open up space for breakthrough civic accomplishments? They can do so by promoting a culture of innovation, providing information and forcing transparency, sponsoring events that create opportunities for social discoveries, and offering protection for those whose efforts, whether successful or not, challenge the status quo (74).”
 
 He further articulates the role of civic entrepreneurs:
 
->“Civic progress requires that those who advocate for new interventions build a community of engaged citizens with the power to demand change in social-political systems. This is true whether the barriers come from iron triangles, bureaucrats, unions, or incumbent providers. Civic entrepreneurs enter the social realm to make a difference&mdash;to perform&mdash;and their passion and talent are often distinct from the legitimacy enjoyed by incumbent providers or the political support enjoyed by the well connected (Goldsmith, 140).”
+>“Civic progress requires that those who advocate for new interventions build a community of engaged citizens with the power to demand change in social-political systems. This is true whether the barriers come from iron triangles, bureaucrats, unions, or incumbent providers. Civic entrepreneurs enter the social realm to make a difference&mdash;to perform&mdash;and their passion and talent are often distinct from the legitimacy enjoyed by incumbent providers or the political support enjoyed by the well connected (140).”
 
 We can't wait for a change in culture to happen from within the system. Instead, we need to create a positive disruption from the outside.
 
@@ -142,7 +142,7 @@ The time is now. This business plan is based on models that are already working 
 - *Support for Entrepreneurship*. We are committed to launching new social enterprises, as new solutions are developed that have a sustainable business model to drive social impact. Developing businesses that help entrepreneurs change the world while earning a living has the potential to attract outside funding to the region.
 - *External Entity*. As an organization that is network-based and outside of government, we will be able to take risks that public agencies cannot take on themselves. This flexibility allows us to create a “safe” space for the type of experimentation that is necessary for breakthrough innovations.
 
-Georges, Glynne-Burke, and McGrath [prescribe the following strategies](http://www.innovations.harvard.edu/showdoc.html?id=2849663) for supporting civic and social innovators:
+Georges, Glynne-Burke, and McGrath (2013) [prescribe the following strategies](http://www.innovations.harvard.edu/showdoc.html?id=2849663) for supporting civic and social innovators:
 
 __Strategy 1: Build Collective Capacity for Innovation__
 
@@ -180,6 +180,11 @@ To date, we’ve held six CivicMeet Sacramento meetups, launched Code for Sacram
 Most importantly, we were able to successfully identify a key source of earned income: civic technology. As originally envisioned, Public Innovation would act as a traditional nonprofit and heavily rely on grant-funded projects to sustain ourselves. However, approximately six months into our existence, we discovered a large demand for technology solutions among public agencies and nonprofits. Although government procurement remains a challenge for us, we project that civic technology projects will provide us with 85 percent of our revenues by our fourth year of operation. Being fortunate enough to have such a substantial portion of earned income, our future fiscal health is promising.
 
 ## References
+
+- Georges, G., Glynn-Burke, T., and McGrath, A. (2013, June 20). *Improving the Local Landscape for Innovation (Part 2): Framework for an Innovative Jurisdiction*. Ash Center for Democratic Governance and Innovations, John F. Kennedy School of Government. Retrieved from http://www.innovations.harvard.edu/showdoc.html?id=2849663 
+- Goldsmith, S. (2010). *The Power of Social Innovation: How Civic Entrepreneurs Ignite Community Networks for Good*. Jossey-Bass.
+- Next Economy (2013, March 19). *Next Economy Prosperity Plan*. Retrieved from http://www.nexteconomycapitalregion.org/uploads/Capital_Region_Prosperity_Plan_Mar_19_2013.pdf 
+- Wilson, J.Q. (1989). *Bureacracy: What Government Agencies Do and Why They Do It*. Basic Books.
 
 <br />
 

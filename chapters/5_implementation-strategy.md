@@ -391,8 +391,6 @@ __PHASE ONE GOAL:__ Put up or pack up.
 
 All good things come to an end. While we will continuously evolve, it's not in our interest to outlive our usefulness. As a catalyst for change, our success will render our existence meaningless. In other words, we want to help spark a revolution in the way people in the civic and social space think about solving problems. That's going to take a culture shift. But a shift in culture will be a catalyst in and of itself. In the best of all possible worlds, we get a few big wins over the next five to ten years, close shop, and move on to solving other problems that don't yet exist and with tools that haven't yet been invented.
 
-## References
-
 <br />
 
 #### [<< Ch. 4: Business Model](http://open.publicinnovation.org/chapters/business-model/) | [Ch. 6: Phase One Action Plan >>](http://open.publicinnovation.org/chapters/phase-one-action-plan/)
