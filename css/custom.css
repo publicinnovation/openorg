@@ -29,8 +29,37 @@ h4 > a {
   margin-bottom: inherit;
   position: relative;
   display: block;
-  padding: 10px 15px;
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
+
+.navbar-nav > li > a {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+@media (max-width: 767px) {
+  .navbar-nav > li > a {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+  .navbar-text {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+}
+
+@media (min-width: 768px) {
+  .navbar-nav > li > a {
+    padding-left: 0px;
+    padding-right: 0px;
+  }
+  .navbar-text {
+    margin-right: 0px;
+    margin-left: 0px;
+  }
+}
+
 
 .btn-outline {
   color: #00aeef;
