@@ -8,8 +8,6 @@ permalink: /appendices/
 
 #### [<< Ch. 6: Phase One Action Plan](http://open.publicinnovation.org/chapters/phase-one-action-plan/)
 
-Get your PDF on...
-
 ## A. Value Chain
 - [Last Updated: November 5, 2013](http://open.publicinnovation.org/pdf/Public%20Innovation%20Value%20Chain%2011-5-13.pdf)
 
@@ -17,7 +15,7 @@ Get your PDF on...
 Coming soon.
 
 ## C. Two-Page Overview
-Coming soon.
+- [Last Updated: November 5, 2013](http://open.publicinnovation.org/pdf/Public-Innovation-2-Pager-11-5-2013.pdf)
 
 ## D. 2012 Design Briefs
 - [v1.3 (September 5, 2012)](http://open.publicinnovation.org/pdf/Public%20Innovation%20Design%20Brief%20v1.3%209-5-12.pdf)
