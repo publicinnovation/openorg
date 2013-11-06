@@ -272,7 +272,7 @@ Civic leaders have close relationships with their constituents and a keen unders
 
 ### 5. Peer Organizations
 
-Our peer organizations comprise other cross-sector backbone organizations and issue-specific nonprofits with similar goals of improving quality of life. It’s important that we position ourselves as complementary and seek ways to add value. Conversely, we want to avoid going after the same grants and being perceived as a potential competitor. After all, we recognize that collaboration is always preferred over collaboration. Having said that, collaboration is a two-way street and we need these values reciprocated in order for this vision to be fulfilled.
+Our peer organizations comprise other cross-sector backbone organizations and issue-specific nonprofits with similar goals of improving quality of life. It’s important that we position ourselves as complementary and seek ways to add value. Conversely, we want to avoid going after the same grants and being perceived as a potential competitor. After all, we recognize that collaboration is always preferred over competition. Having said that, collaboration is a two-way street and we need these values reciprocated in order for this vision to be fulfilled.
 
 ### 6. Technology Community
 

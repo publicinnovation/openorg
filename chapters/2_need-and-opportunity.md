@@ -36,9 +36,11 @@ With regard to the third goal, diversifying the economy, the Next Economy plan n
 
 Even an optimistic outlook means that one-in-four residents will work in the public sector ten years from now (today, it’s almost one-in-three). The California Legislature literally would need to relocate the state capital to another region in order to make a meaningful dent in our share of public sector employment. Fostering a strong innovation environment must include changing the culture of government.
 
-So what’s the state of trust in government? Although trust is greatest at the local level&mdash;where it's closest to the people, distrust in state government has a negative impact on how the Capital region is perceived.
+So what’s the state of trust in government? Although trust is greatest at the local level&mdash;where it's closest to the people, distrust in state government has a negative impact on how the Capital region is perceived. Earlier this year, the Public Policy Institute of California (2013) asked the following question to Californians in their Statewide Survey:
 
-[INSERT TRUST IN GOVERNMENT CHART]
+>“How much of the time do you think you can trust the state government in Sacramento to do what is right—just about always, most of the time, or only some of the time?”
+
+![Trust in Government](http://open.publicinnovation.org/images/trust.png "Trust in Government")
 
 When it comes to government performance, we consistently accept the fact that public agencies are laggards in adopting new ideas. We just expect that government is not capable of keeping up with the pace at which the rest of the world is changing, much less do we believe that government could lead the way in the development of breakthrough innovations.
 
