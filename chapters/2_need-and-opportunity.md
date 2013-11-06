@@ -40,7 +40,7 @@ So what’s the state of trust in government? Although trust is greatest at the 
 
 >“How much of the time do you think you can trust the state government in Sacramento to do what is right—just about always, most of the time, or only some of the time?”
 
-<img src="http://open.publicinnovation.org/images/trust.png" class="img-responsive" alt="Trust in Government")
+<img src="http://open.publicinnovation.org/images/trust.png" class="img-responsive" alt="Trust in Government">
 
 When it comes to government performance, we consistently accept the fact that public agencies are laggards in adopting new ideas. We just expect that government is not capable of keeping up with the pace at which the rest of the world is changing, much less do we believe that government could lead the way in the development of breakthrough innovations.
 
