@@ -49,7 +49,7 @@ And often those interactions can be chock-full of painpoints. Design scholar Don
 >“It is easy to find examples of the complexity of services: think of almost any interaction with a governmental agency. There are many potential sources of difficulties, from the interaction with government employees, the complex set of rules and regulations that must be followed, the complexities of the forms that must be filled out, and then to the impenetrable delays that occur as the request moves from one office to another, perhaps from one agency to another. Even if everyone is helpful and friendly, the sheer complexity of the operation coupled with the relatively poor interfaces among all the components can lead to frustrating experiences.  
 The only way to solve the complexities of services is to treat them as systems, to design the entire experience as a whole. If each piece is designed in isolation, the end result may be of separate pieces that do not mesh well together (147-8).”
 
-While this ideal poses significant challenges to a federalist system of government and a fractured state-local relationship, the role technology can fill as a front-end solution to the problems associated with human-government interaction becomes increasingly clear. As such, we have developed our core capabilities to employ "design thinking" as a civic innovation tool. Tim Brown, president and CEO of the design firm IDEO describes design thinking as follows (2012):
+While this ideal poses significant challenges to a federalist system of government and a fractured state-local relationship, the role technology can fill as a front-end solution to the problems associated with human-government interaction becomes increasingly clear. As such, we have developed our core capabilities to employ "design thinking" as a civic innovation tool. Tim Brown (2012), president and CEO of the design firm IDEO describes design thinking as follows:
 
 >“Design thinking is centered on innovating through the eyes of the end user and as such encourages in-the-field research that builds empathy for people, which results in deeper insights about their unmet needs. This focus helps avoid the common problem of enthusiastic ‘outsiders’ promoting inappropriate solutions and ensures that solutions are rooted in the needs and desires of the community.”
 
@@ -101,7 +101,7 @@ Our vision is for a radically different civic experience than exists today and o
 
 Public Innovation will operate as an open platform for co-creation and co-production of civic and social innovations. Although this will require us to have a significant level of transparency around our operations, that is merely a consequence and not the goal of being an open organization. Our primary purpose for pursuing openness is to enable others to build upon our civic infrastructure.
 
-Witzel (2012) delineates the characteristic tendencies of closed versus open systems in the following table:
+David Witzel (2012) delineates the characteristic tendencies of closed versus open systems in the following table:
 
 <table class="table table-bordered">
   <thead>
@@ -266,7 +266,8 @@ One of the most surprising findings in our work to date is how much progress alr
 - Bason, C. (2010). *Leading Public Sector Innovation: Co-creating for a Better Society*. The Policy Press.
 - Brown, T. (2012). "Why social innovators need design thinking." McKinsey and Company. Retrieved from http://voices.mckinseyonsociety.com/why-social-innovators-need-design-thinking/
 - Ewing Marion Kauffman Foundation. (2012, October 9). "Entrepreneur Guru Brad Feld Illustrates How to Build a Startup Community in New Kauffman Sketchbook Video." Retrieved from http://www.kauffman.org/newsroom/2012/10/entrepreneur-guru-brad-feld-illustrates-how-to-build-a-startup-community-in-new-kauffman-sketchbook-video 
-- Hargadon, A.(2003). *How Breakthroughs Happen: The Surprising Truth About How Companies Innovate*. Harvard Business School Press.
+- Hargadon, A. (2012). Lecture notes.
+- Hargadon, A. (2003). *How Breakthroughs Happen: The Surprising Truth About How Companies Innovate*. Harvard Business School Press.
 - Khademian, A. (2002). *Working with Culture: The Way the Job Gets Done in Public Programs.* CQ Press.
 - McKinsey and Company (2012). *Can fresh thinking solve the world’s most intractable problems?*. Retrieved from http://mckinseyonsociety.com/downloads/reports/Social-Innovation/SocialInnovationPages_Online_March%2021.pdf
 - Moore, M.H. (1995). *Creating Public Value: Strategic Management in Government*. Harvard University Press.

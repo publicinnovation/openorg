@@ -40,7 +40,7 @@ So what’s the state of trust in government? Although trust is greatest at the 
 
 >“How much of the time do you think you can trust the state government in Sacramento to do what is right—just about always, most of the time, or only some of the time?”
 
-![Trust in Government](http://open.publicinnovation.org/images/trust.png "Trust in Government")
+<img src="http://open.publicinnovation.org/images/trust.png" class="img-responsive" alt="Trust in Government")
 
 When it comes to government performance, we consistently accept the fact that public agencies are laggards in adopting new ideas. We just expect that government is not capable of keeping up with the pace at which the rest of the world is changing, much less do we believe that government could lead the way in the development of breakthrough innovations.
 
@@ -186,6 +186,7 @@ Most importantly, we were able to successfully identify a key source of earned i
 - Georges, G., Glynn-Burke, T., and McGrath, A. (2013, June 20). *Improving the Local Landscape for Innovation (Part 2): Framework for an Innovative Jurisdiction*. Ash Center for Democratic Governance and Innovations, John F. Kennedy School of Government. Retrieved from http://www.innovations.harvard.edu/showdoc.html?id=2849663 
 - Goldsmith, S. (2010). *The Power of Social Innovation: How Civic Entrepreneurs Ignite Community Networks for Good*. Jossey-Bass.
 - Next Economy (2013, March 19). *Next Economy Prosperity Plan*. Retrieved from http://www.nexteconomycapitalregion.org/uploads/Capital_Region_Prosperity_Plan_Mar_19_2013.pdf 
+- Public Policy Institute of California (2013, May). "PPIC Statewide Survey: Californians and Their Government." Retrieved from http://www.ppic.org/content/pubs/survey/S_513MBS.pdf
 - Wilson, J.Q. (1989). *Bureaucracy: What Government Agencies Do and Why They Do It*. Basic Books.
 
 <br />
