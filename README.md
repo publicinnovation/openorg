@@ -19,7 +19,7 @@ The easiest way to suggest changes is to make edits directly on GitHub. If you'r
 
 ### Editing directly on github.com
 1. [Create a GitHub account](https://github.com/) if you don't already have one, and sign in
-2. Click on [chapters](https://github.com/publicinnovation/openorg/tree/master/chapters)
+2. Click on [chapters](https://github.com/publicinnovation/openorg/tree/gh-pages/chapters)
 3. Click on the chapter you want to edit
 4. Click on the "Edit" button
 5. Make your changes using the [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) format
