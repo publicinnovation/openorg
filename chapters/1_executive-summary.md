@@ -81,6 +81,8 @@ We are seeking $250,000 in initial seed funding. By our third year, we expect to
 
 <br />
 
+<img src="http://open.publicinnovation.org/images/revenue.png" class="img-responsive" alt="Revenue by Source">
+
 <table class="table table-bordered">
     <thead>
         <tr>

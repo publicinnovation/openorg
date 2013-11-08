@@ -263,6 +263,8 @@ Although seed funding would be spent across the first two years, 80 percent of t
 
 #### d. Financial Projections
 
+<img src="http://open.publicinnovation.org/images/revenue.png" class="img-responsive" alt="Revenue by Source">
+
 <table class="table table-bordered">
     <thead>
         <tr>
