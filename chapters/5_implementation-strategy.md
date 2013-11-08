@@ -215,6 +215,7 @@ Therefore, this plan cannot be implemented in its current state without an initi
 
 If we are able to raise seed funding, our total share of revenues over our first five years are targeted to be as follows:
 
+<img src="http://open.publicinnovation.org/images/revenue.png" class="img-responsive" alt="Revenue by Source">
 
 <table class="table table-bordered">
 	<thead>
@@ -262,8 +263,6 @@ Seed funding is likely to come from either prospective board members willing to 
 Although seed funding would be spent across the first two years, 80 percent of that capital ($200,000) would need to be allocated in Year One so that we can ramp up our customer pipeline and sales funnel, and demonstrate our value proposition through early wins.
 
 #### d. Financial Projections
-
-<img src="http://open.publicinnovation.org/images/revenue.png" class="img-responsive" alt="Revenue by Source">
 
 <table class="table table-bordered">
     <thead>
