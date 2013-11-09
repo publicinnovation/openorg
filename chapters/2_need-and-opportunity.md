@@ -183,10 +183,10 @@ Most importantly, we were able to successfully identify a key source of earned i
 
 ## References
 
-- Georges, G., Glynn-Burke, T., and McGrath, A. (2013, June 20). *Improving the Local Landscape for Innovation (Part 2): Framework for an Innovative Jurisdiction*. Ash Center for Democratic Governance and Innovations, John F. Kennedy School of Government. Retrieved from http://www.innovations.harvard.edu/showdoc.html?id=2849663 
+- Georges, G., Glynn-Burke, T., and McGrath, A. (2013, June 20). *Improving the Local Landscape for Innovation (Part 2): Framework for an Innovative Jurisdiction*. Ash Center for Democratic Governance and Innovations, John F. Kennedy School of Government. [Original Source](http://www.innovations.harvard.edu/showdoc.html?id=2849663) 
 - Goldsmith, S. (2010). *The Power of Social Innovation: How Civic Entrepreneurs Ignite Community Networks for Good*. Jossey-Bass.
-- Next Economy (2013, March 19). *Next Economy Prosperity Plan*. Retrieved from http://www.nexteconomycapitalregion.org/uploads/Capital_Region_Prosperity_Plan_Mar_19_2013.pdf 
-- Public Policy Institute of California (2013, May). "PPIC Statewide Survey: Californians and Their Government." Retrieved from http://www.ppic.org/content/pubs/survey/S_513MBS.pdf
+- Next Economy (2013, March 19). *Next Economy Prosperity Plan*. [Original Source](http://www.nexteconomycapitalregion.org/uploads/Capital_Region_Prosperity_Plan_Mar_19_2013.pdf) 
+- Public Policy Institute of California (2013, May). "PPIC Statewide Survey: Californians and Their Government." [Original Source](http://www.ppic.org/content/pubs/survey/S_513MBS.pdf)
 - Wilson, J.Q. (1989). *Bureaucracy: What Government Agencies Do and Why They Do It*. Basic Books.
 
 <br />
