@@ -1,9 +1,9 @@
 --- 
 layout: chapter
-title: Forward
+title: Foreword
 tagline: A few thoughts
 chapter: 0
-permalink: /forward/
+permalink: /foreword/
 ---
 
 November 5, 2013
